@@ -1,0 +1,26 @@
+{
+  "id": 200,
+  "category": "Çicek Dükkanı Dizaynı",
+  "code": "",
+  "order": 1010,
+  "vitrin": [],
+  "names": {
+    "tr": "Ağaç Fidan Saksısı",
+    "en": "Tree Planter",
+    "de": "Baum-Pflanzkübel",
+    "fr": "Jardinière pour arbres",
+    "ar": "حوض أشجار"
+  },
+  "descs": {
+    "tr": "Kent mekanları için büyük, dayanıklı metal saksı.",
+    "en": "Large, durable metal planter for urban spaces.",
+    "de": "Großer, robuster Metall-Pflanzkübel für städtische Räume.",
+    "fr": "Grande jardinière métallique robuste pour espaces urbains.",
+    "ar": "حوض معدني كبير ومتين للمساحات الحضرية."
+  },
+  "images": [
+    "media/products/agac-fidan-saksisi-1.webp",
+    "media/products/agac-fidan-saksisi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/agac-fidan-saksisi/"
+}

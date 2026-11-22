@@ -1,0 +1,28 @@
+{
+  "id": 98,
+  "category": "Unlu Mamul & Fırın Ekipmanları",
+  "code": "HM-13",
+  "order": 20,
+  "vitrin": [
+    "firin"
+  ],
+  "names": {
+    "tr": "Çekmeceli Ekmek Dolabı",
+    "en": "Bread Cabinet with Drawers",
+    "de": "Brotschrank mit Schubladen",
+    "fr": "Armoire à pain à tiroirs",
+    "ar": "خزانة خبز بأدراج"
+  },
+  "descs": {
+    "tr": "Ekmek ve unlu mamulleri hijyenik saklayan çekmeceli dolap.",
+    "en": "Drawer cabinet keeping bread and bakery goods hygienic.",
+    "de": "Schubladenschrank, der Brot und Backwaren hygienisch hält.",
+    "fr": "Armoire à tiroirs qui garde le pain et les viennoiseries à l’abri.",
+    "ar": "خزانة بأدراج تحفظ الخبز والمعجنات بشكل صحي."
+  },
+  "images": [
+    "media/products/cekmeceli-ekmek-dolabi-1.webp",
+    "media/products/cekmeceli-ekmek-dolabi-2.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-cekmeceli-ekmek-dolabi-unlu-mamul-dolabi/"
+}

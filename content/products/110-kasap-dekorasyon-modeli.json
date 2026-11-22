@@ -1,0 +1,26 @@
+{
+  "id": 110,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "Hp-Dk-16-v1",
+  "order": 1020,
+  "vitrin": [],
+  "names": {
+    "tr": "Kasap Dekorasyon Modeli",
+    "en": "Butcher Shop Décor",
+    "de": "Metzgerei-Dekoration",
+    "fr": "Décoration de boucherie",
+    "ar": "ديكور محل اللحوم"
+  },
+  "descs": {
+    "tr": "Tavan ve duvar dekoruyla kasabın atmosferini belirleyen tasarım.",
+    "en": "Ceiling and wall décor that defines the butcher's atmosphere.",
+    "de": "Decken- und Wanddekoration, die die Metzgerei-Atmosphäre prägt.",
+    "fr": "Décor plafond et murs qui crée l’ambiance de la boucherie.",
+    "ar": "ديكور للسقف والجدران يصنع أجواء محل اللحوم."
+  },
+  "images": [
+    "media/products/kasap-dekorasyon-modeli-1.webp",
+    "media/products/kasap-dekorasyon-modeli-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/kasap-dekorasyon-modeli/"
+}

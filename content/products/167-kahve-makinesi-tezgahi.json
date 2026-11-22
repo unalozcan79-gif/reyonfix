@@ -1,0 +1,26 @@
+{
+  "id": 167,
+  "category": "Market Ekipmanlari",
+  "code": "HP-KM-1",
+  "order": 1090,
+  "vitrin": [],
+  "names": {
+    "tr": "Kahve Makinesi Tezgahı",
+    "en": "Coffee Machine Counter",
+    "de": "Theke für Kaffeemaschinen",
+    "fr": "Comptoir pour machine à café",
+    "ar": "طاولة ماكينة القهوة"
+  },
+  "descs": {
+    "tr": "Market içinde kahve satışı için kompakt tezgah.",
+    "en": "Compact counter for in-store coffee sales.",
+    "de": "Kompakte Theke für den Kaffeeverkauf im Laden.",
+    "fr": "Comptoir compact pour la vente de café en magasin.",
+    "ar": "طاولة مدمجة لبيع القهوة داخل المتجر."
+  },
+  "images": [
+    "media/products/kahve-makinesi-tezgahi-1.webp",
+    "media/products/kahve-makinesi-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-kahve-makinesi-tezgahi/"
+}

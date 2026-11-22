@@ -1,0 +1,26 @@
+{
+  "id": 130,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "HP-DK-1",
+  "order": 1220,
+  "vitrin": [],
+  "names": {
+    "tr": "Üst Dekor ve Lamba Dekoru",
+    "en": "Overhead & Pendant Lamp Décor",
+    "de": "Decken- & Pendelleuchten-Dekoration",
+    "fr": "Décor de luminaires suspendus",
+    "ar": "ديكور إضاءة معلّقة"
+  },
+  "descs": {
+    "tr": "Banko ve reyon üstleri için lamba ve dekor uygulaması.",
+    "en": "Lamp and décor solution above counters and sections.",
+    "de": "Leuchten- und Dekorationslösung über Theken und Abteilungen.",
+    "fr": "Luminaires et décor au-dessus des comptoirs et rayons.",
+    "ar": "حل إضاءة وديكور فوق الطاولات والأقسام."
+  },
+  "images": [
+    "media/products/ust-dekor-ve-lamba-dekoru-1.webp",
+    "media/products/ust-dekor-ve-lamba-dekoru-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-ust-dekor-lamba-dekoru-banko-ustu-dekor/"
+}

@@ -1,0 +1,19 @@
+{
+  "key": "Bakliyat ve Kuruyemiş Standları",
+  "order": 80,
+  "names": {
+    "tr": "Bakliyat ve Kuruyemiş Standları",
+    "en": "Pulses & Nuts Stands",
+    "de": "Stände für Hülsenfrüchte & Nüsse",
+    "fr": "Présentoirs légumineuses & fruits secs",
+    "ar": "ستاندات البقوليات والمكسرات"
+  },
+  "descs": {
+    "tr": "Bakliyat, çerez ve kuruyemiş için teşhir standları.",
+    "en": "Display stands for pulses, snacks and nuts.",
+    "de": "Präsentationsständer für Hülsenfrüchte, Snacks und Nüsse.",
+    "fr": "Présentoirs pour légumineuses, snacks et fruits secs.",
+    "ar": "ستاندات عرض للبقوليات والمكسرات والوجبات الخفيفة."
+  },
+  "image": "media/products/cerez-ve-kuruyemis-standi-1.webp"
+}

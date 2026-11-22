@@ -1,0 +1,26 @@
+{
+  "id": 154,
+  "category": "Şarküteri Ekipmanlari",
+  "code": "",
+  "order": 1040,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Duvar Gurme Dükkanı Tezgahı",
+    "en": "Mirrored Gourmet Shop Counter",
+    "de": "Gourmet-Wandtheke mit Spiegel",
+    "fr": "Comptoir mural à miroir pour épicerie gourmet",
+    "ar": "طاولة جدارية بمرآة لمحل الأطعمة الفاخرة"
+  },
+  "descs": {
+    "tr": "Özel lezzetler sunan gurme dükkanlar için duvar tezgahı.",
+    "en": "Wall counter for gourmet shops with specialty foods.",
+    "de": "Wandtheke für Gourmetläden mit Spezialitäten.",
+    "fr": "Comptoir mural pour épiceries de produits spécialisés.",
+    "ar": "طاولة جدارية لمحلات المنتجات المميزة."
+  },
+  "images": [
+    "media/products/aynali-duvar-gurme-dukkani-tezgahi-1.webp",
+    "media/products/aynali-duvar-gurme-dukkani-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-gurme-dukkani-tezgahi/"
+}

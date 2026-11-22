@@ -1,0 +1,26 @@
+{
+  "id": 53,
+  "category": "Manav Ekipmanları",
+  "code": "PR-1",
+  "order": 1410,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Duvar Metal Manav Tezgahı",
+    "en": "Mirrored Metal Wall Produce Counter",
+    "de": "Wand-Obsttheke aus Metall mit Spiegel",
+    "fr": "Comptoir mural métal à miroir fruits et légumes",
+    "ar": "طاولة جدارية معدنية بمرآة للخضار"
+  },
+  "descs": {
+    "tr": "Modüler ya da uzun metraj yapılabilen ekonomik metal tezgah.",
+    "en": "Economical metal counter, modular or in long runs.",
+    "de": "Wirtschaftliche Metalltheke, modular oder als lange Reihe.",
+    "fr": "Comptoir métal économique, modulaire ou en grande longueur.",
+    "ar": "طاولة معدنية اقتصادية، معيارية أو بطول ممتد."
+  },
+  "images": [
+    "media/products/aynali-duvar-metal-manav-tezgahi-1.webp",
+    "media/products/aynali-duvar-metal-manav-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-aynali-duvar-metal-manav-tezgahi/"
+}

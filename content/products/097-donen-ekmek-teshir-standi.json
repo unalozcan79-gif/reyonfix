@@ -1,0 +1,28 @@
+{
+  "id": 97,
+  "category": "Yeni Market Ekipmanları",
+  "code": "HM-21",
+  "order": 110,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Dönen Ekmek Teşhir Standı",
+    "en": "Rotating Bread Display",
+    "de": "Drehbare Brotpräsentation",
+    "fr": "Présentoir rotatif à pain",
+    "ar": "عرض دوّار للخبز"
+  },
+  "descs": {
+    "tr": "Fırın ve marketler için dikey dönen ekmek vitrini.",
+    "en": "Vertical rotating bread showcase for bakeries and stores.",
+    "de": "Vertikale, drehbare Brotvitrine für Bäckereien und Märkte.",
+    "fr": "Vitrine à pain verticale et rotative pour boulangeries et magasins.",
+    "ar": "واجهة خبز عمودية دوّارة للمخابز والمتاجر."
+  },
+  "images": [
+    "media/products/donen-ekmek-teshir-standi-1.webp",
+    "media/products/donen-ekmek-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-donen-unlu-mamul-ekmek-teshir-standi/"
+}

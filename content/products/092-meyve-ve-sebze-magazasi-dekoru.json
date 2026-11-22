@@ -1,0 +1,26 @@
+{
+  "id": 92,
+  "category": "Yeni Market Ekipmanları",
+  "code": "",
+  "order": 1090,
+  "vitrin": [],
+  "names": {
+    "tr": "Meyve ve Sebze Mağazası Dekoru",
+    "en": "Fruit & Vegetable Store Décor",
+    "de": "Ladendekoration für Obst & Gemüse",
+    "fr": "Décoration de magasin fruits et légumes",
+    "ar": "ديكور متجر الخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Taze ve çekici bir atmosfer için bütünlüklü mağaza dekoru.",
+    "en": "Complete store décor for a fresh, inviting atmosphere.",
+    "de": "Komplette Ladendekoration für eine frische, einladende Atmosphäre.",
+    "fr": "Décoration complète pour une ambiance fraîche et accueillante.",
+    "ar": "ديكور متكامل لأجواء منعشة وجذابة."
+  },
+  "images": [
+    "media/products/meyve-ve-sebze-magazasi-dekoru-1.webp",
+    "media/products/meyve-ve-sebze-magazasi-dekoru-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-magazasi-dekoru/"
+}

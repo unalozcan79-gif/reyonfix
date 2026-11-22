@@ -1,0 +1,26 @@
+{
+  "id": 84,
+  "category": "Yeni Market Ekipmanları",
+  "code": "",
+  "order": 1010,
+  "vitrin": [],
+  "names": {
+    "tr": "Müşteri Karşılama Bankosu",
+    "en": "Reception Counter",
+    "de": "Empfangstheke",
+    "fr": "Comptoir d’accueil",
+    "ar": "كاونتر استقبال"
+  },
+  "descs": {
+    "tr": "Mağazanın ilk izlenimini güçlendiren modern banko.",
+    "en": "Modern counter that strengthens your store's first impression.",
+    "de": "Moderne Theke, die den ersten Eindruck Ihres Geschäfts stärkt.",
+    "fr": "Comptoir moderne qui renforce la première impression du magasin.",
+    "ar": "كاونتر حديث يعزز الانطباع الأول عن متجرك."
+  },
+  "images": [
+    "media/products/musteri-karsilama-bankosu-1.webp",
+    "media/products/musteri-karsilama-bankosu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-musteri-karsilama-bankosu/"
+}

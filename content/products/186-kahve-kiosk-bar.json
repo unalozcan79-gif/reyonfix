@@ -1,0 +1,26 @@
+{
+  "id": 186,
+  "category": "Vitamin Bar & Kiosk Bar",
+  "code": "",
+  "order": 1090,
+  "vitrin": [],
+  "names": {
+    "tr": "Kahve Kiosk Bar",
+    "en": "Coffee Kiosk Bar",
+    "de": "Kaffee-Kiosk-Bar",
+    "fr": "Kiosque bar à café",
+    "ar": "كشك بار القهوة"
+  },
+  "descs": {
+    "tr": "Market içi mola ve içecek köşesi için kiosk.",
+    "en": "Kiosk for an in-store coffee and drinks corner.",
+    "de": "Kiosk für eine Kaffee- und Getränkeecke im Laden.",
+    "fr": "Kiosque pour un coin café et boissons en magasin.",
+    "ar": "كشك لركن القهوة والمشروبات داخل المتجر."
+  },
+  "images": [
+    "media/products/kahve-kiosk-bar-1.webp",
+    "media/products/kahve-kiosk-bar-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/kahve-kiosk-bar-bar-kosesi-icecek-kosesi-market-mola-yeri/"
+}

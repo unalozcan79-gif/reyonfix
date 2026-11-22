@@ -1,0 +1,25 @@
+{
+  "id": 70,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 1580,
+  "vitrin": [],
+  "names": {
+    "tr": "Ayaklı Kilitli Poşetlik",
+    "en": "Free-Standing Lockable Bag Holder",
+    "de": "Freistehender abschließbarer Tütenhalter",
+    "fr": "Porte-sacs autoportant verrouillable",
+    "ar": "حامل أكياس قائم بقفل"
+  },
+  "descs": {
+    "tr": "Park, bahçe ve dış mekanlar için ayaklı kilitli poşetlik.",
+    "en": "Free-standing lockable bag holder for parks and outdoor areas.",
+    "de": "Freistehender, abschließbarer Tütenhalter für Parks und Außenbereiche.",
+    "fr": "Porte-sacs autoportant verrouillable pour parcs et extérieurs.",
+    "ar": "حامل أكياس قائم بقفل للحدائق والمساحات الخارجية."
+  },
+  "images": [
+    "media/products/ayakli-kilitli-posetlik-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-ayakli-kilitli-poset-koyma-aparati-park-kilitli-posetlik-dis-mekan-posetlik/"
+}

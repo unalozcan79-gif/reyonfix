@@ -1,0 +1,29 @@
+{
+  "id": 50,
+  "category": "Manav Ekipmanları",
+  "code": "PR-13",
+  "order": 90,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Orta Alan Pratik Tablalı Tezgah",
+    "en": "Practical Island Tray Counter",
+    "de": "Praktische Insel-Tablartheke",
+    "fr": "Comptoir îlot pratique à plateaux",
+    "ar": "طاولة جزيرة عملية بصوانٍ"
+  },
+  "descs": {
+    "tr": "Vitrin önünde müşteriyi çeken, pratik tablalı tezgah.",
+    "en": "Practical tray counter that draws customers in from the window.",
+    "de": "Praktische Tablartheke, die Kunden vom Schaufenster hereinholt.",
+    "fr": "Comptoir à plateaux pratique qui attire les clients depuis la vitrine.",
+    "ar": "طاولة صوانٍ عملية تجذب الزبائن من الواجهة."
+  },
+  "images": [
+    "media/products/orta-alan-pratik-tablali-tezgah-1.webp",
+    "media/products/orta-alan-pratik-tablali-tezgah-2.webp",
+    "media/products/orta-alan-pratik-tablali-tezgah-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-pratik-tablali-tezgah/"
+}

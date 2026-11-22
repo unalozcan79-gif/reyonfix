@@ -1,0 +1,26 @@
+{
+  "id": 173,
+  "category": "Market Ekipmanlari",
+  "code": "Hp-32 zcn UA198",
+  "order": 1150,
+  "vitrin": [],
+  "names": {
+    "tr": "Dijital Terazi Masası",
+    "en": "Digital Scale Table",
+    "de": "Tisch für Digitalwaage",
+    "fr": "Table pour balance numérique",
+    "ar": "طاولة الميزان الرقمي"
+  },
+  "descs": {
+    "tr": "Tartılarak satılan ürünler için terazi tezgahı.",
+    "en": "Scale counter for products sold by weight.",
+    "de": "Waagentheke für Ware, die nach Gewicht verkauft wird.",
+    "fr": "Comptoir à balance pour produits vendus au poids.",
+    "ar": "طاولة ميزان للمنتجات المباعة بالوزن."
+  },
+  "images": [
+    "media/products/dijital-terazi-masasi-1.webp",
+    "media/products/dijital-terazi-masasi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-manav-reyonu-terazilik-masa/"
+}

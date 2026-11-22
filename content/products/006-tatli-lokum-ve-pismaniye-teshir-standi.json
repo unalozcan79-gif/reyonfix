@@ -1,0 +1,26 @@
+{
+  "id": 6,
+  "category": "Cafe Pastane Ekipmanları",
+  "code": "HP-SK-22",
+  "order": 1070,
+  "vitrin": [],
+  "names": {
+    "tr": "Tatlı, Lokum ve Pişmaniye Teşhir Standı",
+    "en": "Sweets & Turkish Delight Display Stand",
+    "de": "Ständer für Süßwaren & Lokum",
+    "fr": "Présentoir à confiseries et loukoums",
+    "ar": "ستاند عرض للحلويات والراحة"
+  },
+  "descs": {
+    "tr": "Tekerlekli yapısıyla tatlı ve şekerlemeleri dikkat çekici şekilde sergiler.",
+    "en": "Mobile stand that showcases sweets and confectionery attractively.",
+    "de": "Mobiler Ständer, der Süßigkeiten ansprechend präsentiert.",
+    "fr": "Présentoir mobile qui met en valeur bonbons et confiseries.",
+    "ar": "ستاند متنقل يعرض الحلويات بشكل جذاب."
+  },
+  "images": [
+    "media/products/tatli-lokum-ve-pismaniye-teshir-standi-1.webp",
+    "media/products/tatli-lokum-ve-pismaniye-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/tatli-seker-lokum-pismaniye-teshir-standi/"
+}

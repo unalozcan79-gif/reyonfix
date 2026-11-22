@@ -1,0 +1,26 @@
+{
+  "id": 119,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "",
+  "order": 1110,
+  "vitrin": [],
+  "names": {
+    "tr": "Kasap ve Şarküteri Üstü Dekor",
+    "en": "Butcher & Deli Overhead Décor",
+    "de": "Dekoration über Fleisch- & Feinkosttheke",
+    "fr": "Décor au-dessus des rayons boucherie et traiteur",
+    "ar": "ديكور فوق قسمي اللحوم والأجبان"
+  },
+  "descs": {
+    "tr": "Etlik ve şarküteri bölümleri için üst dekor uygulaması.",
+    "en": "Overhead décor for meat and deli sections.",
+    "de": "Dekoration oberhalb von Fleisch- und Feinkostabteilung.",
+    "fr": "Décor surplombant les rayons viande et traiteur.",
+    "ar": "ديكور علوي لأقسام اللحوم والأطعمة الباردة."
+  },
+  "images": [
+    "media/products/kasap-ve-sarkuteri-ustu-dekor-1.webp",
+    "media/products/kasap-ve-sarkuteri-ustu-dekor-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-kasap-ustu-dekor-etlik-ustu-dekor-sarkuteri-dekoru/"
+}

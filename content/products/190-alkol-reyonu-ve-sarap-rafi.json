@@ -1,0 +1,26 @@
+{
+  "id": 190,
+  "category": "Tekel Rafları",
+  "code": "HP-SA-1",
+  "order": 1030,
+  "vitrin": [],
+  "names": {
+    "tr": "Alkol Reyonu ve Şarap Rafı",
+    "en": "Alcohol Section & Wine Rack",
+    "de": "Alkoholabteilung & Weinregal",
+    "fr": "Rayon alcools et cave à vin",
+    "ar": "قسم المشروبات ورف النبيذ"
+  },
+  "descs": {
+    "tr": "Şarapları doğru saklayıp şık sergileyen raf sistemi.",
+    "en": "Shelving that stores wine correctly and displays it elegantly.",
+    "de": "Regal, das Wein richtig lagert und elegant präsentiert.",
+    "fr": "Étagère qui stocke correctement le vin et le présente avec élégance.",
+    "ar": "رف يخزن النبيذ بشكل صحيح ويعرضه بأناقة."
+  },
+  "images": [
+    "media/products/alkol-reyonu-ve-sarap-rafi-1.webp",
+    "media/products/alkol-reyonu-ve-sarap-rafi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-alkol-reyonu-sarap-rafi/"
+}

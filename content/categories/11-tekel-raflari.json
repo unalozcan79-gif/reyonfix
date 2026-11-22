@@ -1,0 +1,19 @@
+{
+  "key": "Tekel Rafları",
+  "order": 110,
+  "names": {
+    "tr": "Tekel Rafları",
+    "en": "Tobacco & Spirits",
+    "de": "Wein- & Spirituosenregale",
+    "fr": "Rayonnages vins & spiritueux",
+    "ar": "رفوف النبيذ والمشروبات"
+  },
+  "descs": {
+    "tr": "Sigara, şarap ve alkollü ürünler için raf ve standlar.",
+    "en": "Shelving and stands for tobacco, wine and spirits.",
+    "de": "Regale und Ständer für Wein und Spirituosen.",
+    "fr": "Étagères et présentoirs pour vins et spiritueux.",
+    "ar": "رفوف وستاندات للنبيذ والمشروبات."
+  },
+  "image": "media/products/alkol-sarap-ve-viski-rafi-1.webp"
+}

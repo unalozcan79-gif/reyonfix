@@ -1,0 +1,28 @@
+{
+  "id": 108,
+  "category": "Unlu Mamul & Fırın Ekipmanları",
+  "code": "HM-6",
+  "order": 120,
+  "vitrin": [
+    "firin"
+  ],
+  "names": {
+    "tr": "Orta Alan Raflı Ekmek Reyonu",
+    "en": "Island Bread Shelving Unit",
+    "de": "Insel-Brotregal",
+    "fr": "Îlot à étagères pour pain",
+    "ar": "رف جزيرة للخبز"
+  },
+  "descs": {
+    "tr": "Poşetli ve kutulu ekmekler için orta alan rafı.",
+    "en": "Island shelving for bagged and boxed bread.",
+    "de": "Inselregal für verpacktes und abgepacktes Brot.",
+    "fr": "Îlot pour pain emballé et en boîte.",
+    "ar": "رف وسطي للخبز المعبأ وفي العلب."
+  },
+  "images": [
+    "media/products/orta-alan-rafli-ekmek-reyonu-1.webp",
+    "media/products/orta-alan-rafli-ekmek-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-rafli-acik-ekmek-rafi-ekmek-reyonu/"
+}

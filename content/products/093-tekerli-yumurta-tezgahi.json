@@ -1,0 +1,28 @@
+{
+  "id": 93,
+  "category": "Yeni Market Ekipmanları",
+  "code": "HP-YM-1",
+  "order": 80,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Tekerli Yumurta Tezgahı",
+    "en": "Mobile Egg Display Counter",
+    "de": "Mobile Eierpräsentation",
+    "fr": "Présentoir mobile à œufs",
+    "ar": "ستاند متنقل لعرض البيض"
+  },
+  "descs": {
+    "tr": "Raf başlarında kullanılan, tekerlekli yumurta teşhir tezgahı.",
+    "en": "Mobile egg display for end-of-aisle use.",
+    "de": "Mobile Eierpräsentation für den Gangkopf.",
+    "fr": "Présentoir mobile à œufs pour tête de gondole.",
+    "ar": "ستاند بيض متنقل لرؤوس الممرات."
+  },
+  "images": [
+    "media/products/tekerli-yumurta-tezgahi-1.webp",
+    "media/products/tekerli-yumurta-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-raf-basi-teshir-standi-tekerli-yumurta-tezgahi/"
+}

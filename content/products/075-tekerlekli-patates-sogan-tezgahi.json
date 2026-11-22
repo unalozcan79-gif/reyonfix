@@ -1,0 +1,26 @@
+{
+  "id": 75,
+  "category": "Manav Ekipmanları",
+  "code": "HP-5",
+  "order": 1620,
+  "vitrin": [],
+  "names": {
+    "tr": "Tekerlekli Patates-Soğan Tezgahı",
+    "en": "Mobile Potato & Onion Counter",
+    "de": "Mobile Theke für Kartoffeln & Zwiebeln",
+    "fr": "Comptoir mobile pommes de terre et oignons",
+    "ar": "طاولة متنقلة للبطاطا والبصل"
+  },
+  "descs": {
+    "tr": "Ahşap kaplamalı, sekizgen formlu patates-soğan tezgahı.",
+    "en": "Wood-clad octagonal counter for potatoes and onions.",
+    "de": "Achteckige, holzverkleidete Theke für Kartoffeln und Zwiebeln.",
+    "fr": "Comptoir octogonal habillé de bois pour pommes de terre et oignons.",
+    "ar": "طاولة مثمنة مكسوة بالخشب للبطاطا والبصل."
+  },
+  "images": [
+    "media/products/tekerlekli-patates-sogan-tezgahi-1.webp",
+    "media/products/tekerlekli-patates-sogan-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-patates-sogan-havuzu-patates-sogan-tezgahi/"
+}

@@ -1,0 +1,19 @@
+{
+  "key": "Dekorasyon Uygulamaları",
+  "order": 120,
+  "names": {
+    "tr": "Dekorasyon Uygulamaları",
+    "en": "Décor Solutions",
+    "de": "Dekorlösungen",
+    "fr": "Décoration de magasin",
+    "ar": "حلول الديكور"
+  },
+  "descs": {
+    "tr": "Tavan, alın, figür ve aydınlatma ile mağazaya kimlik kazandıran dekorlar.",
+    "en": "Ceiling, fascia, figure and lighting décor that gives stores identity.",
+    "de": "Decken-, Blenden- und Lichtdekor, das Ihrem Geschäft Identität verleiht.",
+    "fr": "Décors de plafond, frontons et éclairage qui donnent une identité au magasin.",
+    "ar": "ديكورات الأسقف والواجهات والإضاءة التي تمنح المتجر هويته."
+  },
+  "image": "media/products/kasap-ve-sarkuteri-dekoru-1.webp"
+}

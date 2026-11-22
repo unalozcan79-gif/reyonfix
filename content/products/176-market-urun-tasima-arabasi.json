@@ -1,0 +1,26 @@
+{
+  "id": 176,
+  "category": "Market Ekipmanlari",
+  "code": "",
+  "order": 1180,
+  "vitrin": [],
+  "names": {
+    "tr": "Market Ürün Taşıma Arabası",
+    "en": "Store Trolley",
+    "de": "Ladenwagen",
+    "fr": "Chariot de magasin",
+    "ar": "عربة المتجر"
+  },
+  "descs": {
+    "tr": "Ürün taşımak için tekerlekli market arabası.",
+    "en": "Wheeled trolley for carrying products.",
+    "de": "Rollwagen zum Transport von Waren.",
+    "fr": "Chariot à roulettes pour transporter les produits.",
+    "ar": "عربة بعجلات لنقل المنتجات."
+  },
+  "images": [
+    "media/products/market-urun-tasima-arabasi-1.webp",
+    "media/products/market-urun-tasima-arabasi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-arabasi-market-urun-tasima-arabasi/"
+}

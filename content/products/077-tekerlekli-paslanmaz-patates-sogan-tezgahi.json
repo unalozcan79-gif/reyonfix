@@ -1,0 +1,29 @@
+{
+  "id": 77,
+  "category": "Manav Ekipmanları",
+  "code": "HP-29",
+  "order": 160,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Tekerlekli Paslanmaz Patates-Soğan Tezgahı",
+    "en": "Mobile Stainless Potato & Onion Counter",
+    "de": "Mobile Edelstahltheke für Kartoffeln & Zwiebeln",
+    "fr": "Comptoir mobile inox pommes de terre et oignons",
+    "ar": "طاولة متنقلة من الستانلس للبطاطا والبصل"
+  },
+  "descs": {
+    "tr": "Paslanmaz hazneli, hijyenik ve kolay temizlenen tezgah.",
+    "en": "Hygienic, easy-clean counter with stainless bins.",
+    "de": "Hygienische, leicht zu reinigende Theke mit Edelstahlbehältern.",
+    "fr": "Comptoir hygiénique, facile à nettoyer, avec bacs inox.",
+    "ar": "طاولة صحية سهلة التنظيف بأحواض من الستانلس."
+  },
+  "images": [
+    "media/products/tekerlekli-paslanmaz-patates-sogan-tezgahi-1.webp",
+    "media/products/tekerlekli-paslanmaz-patates-sogan-tezgahi-2.webp",
+    "media/products/tekerlekli-paslanmaz-patates-sogan-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-havuzlu-orta-alan-patates-sogan-tezgahi/"
+}

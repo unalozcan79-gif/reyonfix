@@ -1,0 +1,26 @@
+{
+  "id": 114,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "",
+  "order": 1060,
+  "vitrin": [],
+  "names": {
+    "tr": "Unlu Mamul Dekorasyonu",
+    "en": "Bakery Décor",
+    "de": "Bäckerei-Dekoration",
+    "fr": "Décoration de boulangerie",
+    "ar": "ديكور المخابز"
+  },
+  "descs": {
+    "tr": "Lüks ve yüksek segment fırınlar için dekor uygulaması.",
+    "en": "Décor solution for premium bakeries.",
+    "de": "Dekorationslösung für hochwertige Bäckereien.",
+    "fr": "Solution décorative pour boulangeries haut de gamme.",
+    "ar": "حل ديكوري للمخابز الراقية."
+  },
+  "images": [
+    "media/products/unlu-mamul-dekorasyonu-1.webp",
+    "media/products/unlu-mamul-dekorasyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/unlu-mamul-dekorasyonu/"
+}

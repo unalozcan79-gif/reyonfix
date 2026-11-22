@@ -1,0 +1,19 @@
+{
+  "key": "Cafe Pastane Ekipmanları",
+  "order": 100,
+  "names": {
+    "tr": "Kafe ve Pastane Ekipmanları",
+    "en": "Café & Patisserie",
+    "de": "Café & Konditorei",
+    "fr": "Café & Pâtisserie",
+    "ar": "المقاهي ومحلات الحلويات"
+  },
+  "descs": {
+    "tr": "Kafe ve pastaneler için vitrin, mobilya ve sunum ekipmanları.",
+    "en": "Showcases, furniture and display equipment for cafés and patisseries.",
+    "de": "Vitrinen, Möbel und Präsentationsmöbel für Cafés und Konditoreien.",
+    "fr": "Vitrines, mobilier et présentoirs pour cafés et pâtisseries.",
+    "ar": "واجهات عرض وأثاث وتجهيزات للمقاهي ومحلات الحلويات."
+  },
+  "image": "media/products/market-pasta-ve-unlu-mamul-dolabi-1.webp"
+}

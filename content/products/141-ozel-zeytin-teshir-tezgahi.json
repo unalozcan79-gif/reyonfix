@@ -1,0 +1,29 @@
+{
+  "id": 141,
+  "category": "Zeytinlik Reyonu",
+  "code": "",
+  "order": 20,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "Özel Zeytin Teşhir Tezgahı",
+    "en": "Custom Olive Display Counter",
+    "de": "Individuelle Oliventheke",
+    "fr": "Comptoir à olives sur mesure",
+    "ar": "طاولة زيتون حسب الطلب"
+  },
+  "descs": {
+    "tr": "Sınırlı alanlar için özel tasarım zeytin tezgahı.",
+    "en": "Custom olive counter for limited spaces.",
+    "de": "Maßgefertigte Oliventheke für kleine Flächen.",
+    "fr": "Comptoir à olives conçu pour les petits espaces.",
+    "ar": "طاولة زيتون مصممة للمساحات الصغيرة."
+  },
+  "images": [
+    "media/products/ozel-zeytin-teshir-tezgahi-1.webp",
+    "media/products/ozel-zeytin-teshir-tezgahi-2.webp",
+    "media/products/ozel-zeytin-teshir-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/ozel-zeytin-teshir-tezgahi/"
+}

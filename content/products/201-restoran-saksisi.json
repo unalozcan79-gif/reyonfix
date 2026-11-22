@@ -1,0 +1,26 @@
+{
+  "id": 201,
+  "category": "Çicek Dükkanı Dizaynı",
+  "code": "",
+  "order": 1020,
+  "vitrin": [],
+  "names": {
+    "tr": "Restoran Saksısı",
+    "en": "Restaurant Planter Divider",
+    "de": "Pflanzkübel-Raumteiler für Restaurants",
+    "fr": "Jardinière séparatrice pour restaurant",
+    "ar": "حوض نباتات فاصل للمطاعم"
+  },
+  "descs": {
+    "tr": "Restoranlarda bölme görevi gören dekoratif saksı.",
+    "en": "Decorative planter that also serves as a divider.",
+    "de": "Dekorativer Pflanzkübel, der zugleich als Raumteiler dient.",
+    "fr": "Jardinière décorative servant aussi de séparation.",
+    "ar": "حوض نباتات ديكوري يعمل كفاصل أيضًا."
+  },
+  "images": [
+    "media/products/restoran-saksisi-1.webp",
+    "media/products/restoran-saksisi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/restaurant-saksi/"
+}

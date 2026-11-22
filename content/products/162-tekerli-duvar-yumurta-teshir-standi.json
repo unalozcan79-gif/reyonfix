@@ -1,0 +1,26 @@
+{
+  "id": 162,
+  "category": "Market Ekipmanlari",
+  "code": "HP-YM-2",
+  "order": 1050,
+  "vitrin": [],
+  "names": {
+    "tr": "Tekerli Duvar Yumurta Teşhir Standı",
+    "en": "Mobile Wall Egg Display",
+    "de": "Mobile Wand-Eierpräsentation",
+    "fr": "Présentoir mural mobile à œufs",
+    "ar": "ستاند بيض جداري متنقل"
+  },
+  "descs": {
+    "tr": "Yumurtaları güvenli ve düzenli sunan tekerli stand.",
+    "en": "Mobile stand presenting eggs safely and neatly.",
+    "de": "Mobiler Ständer, der Eier sicher und ordentlich präsentiert.",
+    "fr": "Présentoir mobile qui présente les œufs en sécurité et avec ordre.",
+    "ar": "ستاند متنقل يعرض البيض بأمان وترتيب."
+  },
+  "images": [
+    "media/products/tekerli-duvar-yumurta-teshir-standi-1.webp",
+    "media/products/tekerli-duvar-yumurta-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/supermarket-tekerli-duvar-yumurta-teshir-standi/"
+}

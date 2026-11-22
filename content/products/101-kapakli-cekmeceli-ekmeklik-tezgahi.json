@@ -1,0 +1,26 @@
+{
+  "id": 101,
+  "category": "Unlu Mamul & Fırın Ekipmanları",
+  "code": "",
+  "order": 1040,
+  "vitrin": [],
+  "names": {
+    "tr": "Kapaklı Çekmeceli Ekmeklik Tezgahı",
+    "en": "Lidded Bread Drawer Counter",
+    "de": "Brotschubladentheke mit Deckeln",
+    "fr": "Comptoir à tiroirs à pain avec couvercles",
+    "ar": "طاولة أدراج خبز بأغطية"
+  },
+  "descs": {
+    "tr": "Kapaklı çekmeceleriyle ekmeği taze ve temiz tutar.",
+    "en": "Lidded drawers keep bread fresh and clean.",
+    "de": "Abgedeckte Schubladen halten Brot frisch und sauber.",
+    "fr": "Les tiroirs couverts gardent le pain frais et propre.",
+    "ar": "الأدراج المغطاة تحافظ على الخبز طازجًا ونظيفًا."
+  },
+  "images": [
+    "media/products/kapakli-cekmeceli-ekmeklik-tezgahi-1.webp",
+    "media/products/kapakli-cekmeceli-ekmeklik-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-unlu-mamul-kapakli-cekmeceli-ekmeklik-tezgahi/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 39,
+  "category": "Manav Ekipmanları",
+  "code": "Mr-37 Yeşillik",
+  "order": 1270,
+  "vitrin": [],
+  "names": {
+    "tr": "Orta Alan Yeşillik Reyonu",
+    "en": "Island Leafy Greens Unit",
+    "de": "Insel-Einheit für Blattgemüse",
+    "fr": "Îlot pour légumes verts",
+    "ar": "وحدة جزيرة للخضار الورقية"
+  },
+  "descs": {
+    "tr": "Marul, maydanoz, roka gibi yeşillikler için özel yapılı reyon.",
+    "en": "Purpose-built unit for lettuce, parsley, rocket and other greens.",
+    "de": "Speziell für Salat, Petersilie, Rucola und anderes Grün.",
+    "fr": "Conçu pour laitue, persil, roquette et autres légumes verts.",
+    "ar": "مصممة للخس والبقدونس والجرجير وغيرها من الخضار الورقية."
+  },
+  "images": [
+    "media/products/orta-alan-yesillik-reyonu-1.webp",
+    "media/products/orta-alan-yesillik-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-yesillik-manav-reyonlari/"
+}

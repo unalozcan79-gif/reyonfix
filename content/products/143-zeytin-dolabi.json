@@ -1,0 +1,29 @@
+{
+  "id": 143,
+  "category": "Zeytinlik Reyonu",
+  "code": "",
+  "order": 60,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "Zeytin Dolabı",
+    "en": "Olive Cabinet",
+    "de": "Olivenschrank",
+    "fr": "Armoire à olives",
+    "ar": "خزانة الزيتون"
+  },
+  "descs": {
+    "tr": "Duvar tipi, zeytin satışına özel dolap.",
+    "en": "Wall-type cabinet designed for olive sales.",
+    "de": "Wandschrank speziell für den Olivenverkauf.",
+    "fr": "Armoire murale conçue pour la vente d’olives.",
+    "ar": "خزانة جدارية مصممة لبيع الزيتون."
+  },
+  "images": [
+    "media/products/zeytin-dolabi-1.webp",
+    "media/products/zeytin-dolabi-2.webp",
+    "media/products/zeytin-dolabi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/zeytin-dolabi/"
+}

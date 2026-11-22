@@ -1,0 +1,29 @@
+{
+  "id": 183,
+  "category": "Vitamin Bar & Kiosk Bar",
+  "code": "VPR-3 FR",
+  "order": 30,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Çatılı Taze Meyve Suyu Standı",
+    "en": "Canopied Fresh Juice Stand",
+    "de": "Saftstand mit Dach",
+    "fr": "Bar à jus avec auvent",
+    "ar": "ستاند عصير طازج بمظلة"
+  },
+  "descs": {
+    "tr": "Tekerli, çatılı orta alan vitamin barı.",
+    "en": "Mobile, canopied island vitamin bar.",
+    "de": "Mobile Vitaminbar mit Dach für die Ladenmitte.",
+    "fr": "Bar à vitamines mobile avec auvent pour le centre du magasin.",
+    "ar": "بار فيتامين متنقل بمظلة لوسط المتجر."
+  },
+  "images": [
+    "media/products/catili-taze-meyve-suyu-standi-1.webp",
+    "media/products/catili-taze-meyve-suyu-standi-2.webp",
+    "media/products/catili-taze-meyve-suyu-standi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-tekerli-catili-taze-meyve-suyu-standi-vitaminbar/"
+}

@@ -1,0 +1,148 @@
+# Reyonfix yönetim paneli (Sveltia CMS)
+# GitHub kullanıcı adınız belli olunca aşağıdaki "KULLANICI_ADI" kısmını değiştirin.
+backend:
+  name: github
+  repo: KULLANICI_ADI/reyonfix
+  branch: main
+  commit_messages:
+    create: "Yeni: {{slug}}"
+    update: "Güncelleme: {{slug}}"
+    delete: "Silindi: {{slug}}"
+
+locale: tr
+media_folder: media/uploads
+public_folder: media/uploads
+
+collections:
+  - name: products
+    label: Ürünler
+    label_singular: Ürün
+    folder: content/products
+    extension: json
+    format: json
+    create: true
+    delete: true
+    slug: "{{year}}{{month}}{{day}}-{{hour}}{{minute}}{{second}}"
+    summary: "{{names.tr}} · {{code}}"
+    sortable_fields: [order, code]
+    view_groups:
+      - label: Kategori
+        field: category
+    fields:
+      - label: Kategori
+        name: category
+        widget: relation
+        collection: categories
+        value_field: key
+        search_fields: [names.tr]
+        display_fields: [names.tr]
+      - label: Ürün kodu
+        name: code
+        widget: string
+        required: false
+        hint: "Örnek: TR-1. Boş bırakabilirsiniz."
+      - label: Sıra
+        name: order
+        widget: number
+        value_type: int
+        default: 500
+        hint: "Küçük sayı önce görünür (10, 20, 30…)."
+      - label: Ana sayfa rafları
+        name: vitrin
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - { label: "Duvar tezgahları", value: duvar }
+          - { label: "En yeniler", value: yeni }
+          - { label: "Manavınız için", value: manav }
+          - { label: "Fırın ve pastaneniz için", value: firin }
+          - { label: "Zeytinlik ve şarküteri", value: zeytin }
+          - { label: "Market ve kampanya alanları", value: market }
+      - label: Ürün adı
+        name: names
+        widget: object
+        fields:
+          - { label: "Türkçe", name: tr, widget: string }
+          - { label: "English", name: en, widget: string }
+          - { label: "Deutsch", name: de, widget: string, required: false }
+          - { label: "Français", name: fr, widget: string, required: false }
+          - { label: "العربية", name: ar, widget: string, required: false }
+      - label: Kısa açıklama
+        name: descs
+        widget: object
+        fields:
+          - { label: "Türkçe", name: tr, widget: text }
+          - { label: "English", name: en, widget: text }
+          - { label: "Deutsch", name: de, widget: text, required: false }
+          - { label: "Français", name: fr, widget: text, required: false }
+          - { label: "العربية", name: ar, widget: text, required: false }
+      - label: Fotoğraflar
+        name: images
+        widget: list
+        hint: "İlk fotoğraf kapak olur. En fazla 6 fotoğraf."
+        field: { label: Fotoğraf, name: image, widget: image }
+      - label: Ürün no
+        name: id
+        widget: number
+        value_type: int
+        required: false
+        hint: "Yeni üründe boş bırakın, otomatik verilir."
+      - label: Eski site adresi
+        name: old_url
+        widget: string
+        required: false
+        hint: "manavreyonu.com.tr'deki eski sayfa (yönlendirme için)."
+      - label: Gizle
+        name: hidden
+        widget: boolean
+        required: false
+        default: false
+        hint: "Açarsanız ürün sitede görünmez."
+
+  - name: categories
+    label: Kategoriler
+    label_singular: Kategori
+    folder: content/categories
+    extension: json
+    format: json
+    create: false
+    delete: false
+    summary: "{{names.tr}}"
+    sortable_fields: [order]
+    fields:
+      - { label: "Anahtar (değiştirmeyin)", name: key, widget: string }
+      - { label: Sıra, name: order, widget: number, value_type: int }
+      - label: Kategori adı
+        name: names
+        widget: object
+        fields:
+          - { label: "Türkçe", name: tr, widget: string }
+          - { label: "English", name: en, widget: string }
+          - { label: "Deutsch", name: de, widget: string }
+          - { label: "Français", name: fr, widget: string }
+          - { label: "العربية", name: ar, widget: string }
+      - label: Kısa açıklama
+        name: descs
+        widget: object
+        fields:
+          - { label: "Türkçe", name: tr, widget: text }
+          - { label: "English", name: en, widget: text }
+          - { label: "Deutsch", name: de, widget: text }
+          - { label: "Français", name: fr, widget: text }
+          - { label: "العربية", name: ar, widget: text }
+      - { label: "Kategori fotoğrafı", name: image, widget: image }
+
+  - name: settings
+    label: Ayarlar
+    files:
+      - label: Site ayarları
+        name: site
+        file: content/settings.json
+        format: json
+        fields:
+          - label: Site yayında (Google'a açık)
+            name: launched
+            widget: boolean
+            default: false
+            hint: "manavreyonu.com.tr yönlendirmesi yapılınca açın. Kapalıyken Google yeni siteyi listelemez."

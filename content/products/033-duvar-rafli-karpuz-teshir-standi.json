@@ -1,0 +1,26 @@
+{
+  "id": 33,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 1210,
+  "vitrin": [],
+  "names": {
+    "tr": "Duvar Raflı Karpuz Teşhir Standı",
+    "en": "Wall Watermelon Display Rack",
+    "de": "Wandregal für Wassermelonen",
+    "fr": "Étagère murale à pastèques",
+    "ar": "رف جداري لعرض البطيخ"
+  },
+  "descs": {
+    "tr": "Karpuz ve kavunu estetik ve güvenli şekilde sergileyen raf.",
+    "en": "Rack displaying watermelons and melons safely and attractively.",
+    "de": "Regal, das Wasser- und Honigmelonen sicher und attraktiv zeigt.",
+    "fr": "Étagère qui présente pastèques et melons de façon sûre et attrayante.",
+    "ar": "رف يعرض البطيخ والشمام بأمان وجاذبية."
+  },
+  "images": [
+    "media/products/duvar-rafli-karpuz-teshir-standi-1.webp",
+    "media/products/duvar-rafli-karpuz-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-rafli-karpuz-teshir-standi/"
+}

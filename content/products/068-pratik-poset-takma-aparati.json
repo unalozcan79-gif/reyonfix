@@ -1,0 +1,29 @@
+{
+  "id": 68,
+  "category": "Manav Ekipmanları",
+  "code": "Pr-21 Pratik",
+  "order": 140,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Pratik Poşet Takma Aparatı",
+    "en": "Practical Bag Dispenser",
+    "de": "Praktischer Tütenspender",
+    "fr": "Distributeur de sacs pratique",
+    "ar": "موزّع أكياس عملي"
+  },
+  "descs": {
+    "tr": "Manav reyonlarında poşeti hızlı ve düzenli sunan aparat.",
+    "en": "Dispenser offering bags quickly and neatly at produce areas.",
+    "de": "Spender für schnelle, ordentliche Tütenausgabe in der Obstabteilung.",
+    "fr": "Distribue rapidement et proprement les sacs au rayon fruits et légumes.",
+    "ar": "يوفّر الأكياس بسرعة وترتيب في قسم الخضار."
+  },
+  "images": [
+    "media/products/pratik-poset-takma-aparati-1.webp",
+    "media/products/pratik-poset-takma-aparati-2.webp",
+    "media/products/pratik-poset-takma-aparati-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-manav-poset-takma-aparati-posetlik/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7,
+  "category": "Cafe Pastane Ekipmanları",
+  "code": "HP-NTR-2",
+  "order": 1080,
+  "vitrin": [],
+  "names": {
+    "tr": "Kuru Pasta ve Unlu Mamul Dolabı",
+    "en": "Dry Pastry & Bakery Cabinet",
+    "de": "Vitrine für trockenes Gebäck",
+    "fr": "Vitrine pour pâtisseries sèches",
+    "ar": "خزانة عرض للمعجنات الجافة"
+  },
+  "descs": {
+    "tr": "Simit, poğaça ve kuru pastalar için nötr teşhir dolabı.",
+    "en": "Neutral display cabinet for simit, pastries and dry cakes.",
+    "de": "Neutrale Vitrine für Simit, Gebäck und trockene Kuchen.",
+    "fr": "Vitrine neutre pour simits, viennoiseries et gâteaux secs.",
+    "ar": "خزانة عرض محايدة للسميت والمعجنات والكعك الجاف."
+  },
+  "images": [
+    "media/products/kuru-pasta-ve-unlu-mamul-dolabi-1.webp",
+    "media/products/kuru-pasta-ve-unlu-mamul-dolabi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/simit-pogaca-kuru-pasta-unlu-mamul-dolabi/"
+}

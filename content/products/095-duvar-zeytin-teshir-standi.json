@@ -1,0 +1,28 @@
+{
+  "id": 95,
+  "category": "Yeni Market Ekipmanları",
+  "code": "Pr-64 Oil Pro",
+  "order": 100,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Duvar Zeytin Teşhir Standı",
+    "en": "Wall Olive Display Stand",
+    "de": "Wand-Olivenständer",
+    "fr": "Présentoir mural à olives",
+    "ar": "ستاند جداري للزيتون"
+  },
+  "descs": {
+    "tr": "Zeytin ürünlerini etkileyici ve erişilebilir sunan duvar standı.",
+    "en": "Wall stand presenting olive products attractively and accessibly.",
+    "de": "Wandständer, der Olivenprodukte ansprechend und gut erreichbar zeigt.",
+    "fr": "Présentoir mural qui met les olives en valeur et à portée de main.",
+    "ar": "ستاند جداري يعرض منتجات الزيتون بجاذبية وسهولة وصول."
+  },
+  "images": [
+    "media/products/duvar-zeytin-teshir-standi-1.webp",
+    "media/products/duvar-zeytin-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-zeytin-teshir-standi/"
+}

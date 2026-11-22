@@ -1,0 +1,29 @@
+{
+  "id": 102,
+  "category": "Unlu Mamul & Fırın Ekipmanları",
+  "code": "BGD-1",
+  "order": 60,
+  "vitrin": [
+    "firin"
+  ],
+  "names": {
+    "tr": "Baget Ekmek Sepeti",
+    "en": "Baguette Basket",
+    "de": "Baguettekorb",
+    "fr": "Panier à baguettes",
+    "ar": "سلة الباغيت"
+  },
+  "descs": {
+    "tr": "Baget ekmekleri düzenli ve hijyenik sergileyen sepet.",
+    "en": "Basket displaying baguettes neatly and hygienically.",
+    "de": "Korb, der Baguettes ordentlich und hygienisch präsentiert.",
+    "fr": "Panier qui présente les baguettes proprement et hygiéniquement.",
+    "ar": "سلة تعرض الباغيت بترتيب ونظافة."
+  },
+  "images": [
+    "media/products/baget-ekmek-sepeti-1.webp",
+    "media/products/baget-ekmek-sepeti-2.webp",
+    "media/products/baget-ekmek-sepeti-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-unlu-mamul-ekipmani-baged-ekmek-sepeti/"
+}

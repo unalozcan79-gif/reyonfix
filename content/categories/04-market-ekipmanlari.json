@@ -1,0 +1,19 @@
+{
+  "key": "Market Ekipmanlari",
+  "order": 40,
+  "names": {
+    "tr": "Market Ekipmanları",
+    "en": "Store Equipment",
+    "de": "Ladenausstattung",
+    "fr": "Équipements de magasin",
+    "ar": "تجهيزات المتاجر"
+  },
+  "descs": {
+    "tr": "Banko, raf, tezgah ve tamamlayıcı market ekipmanları.",
+    "en": "Counters, shelving and complementary store equipment.",
+    "de": "Theken, Regale und ergänzende Ladeneinrichtung.",
+    "fr": "Comptoirs, rayonnages et équipements complémentaires.",
+    "ar": "طاولات ورفوف وتجهيزات متممة للمتاجر."
+  },
+  "image": "media/products/ahsap-market-raflari-1.webp"
+}

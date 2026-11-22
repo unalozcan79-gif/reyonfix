@@ -1,0 +1,29 @@
+{
+  "id": 63,
+  "category": "Manav Ekipmanları",
+  "code": "PR-11",
+  "order": 120,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Kapaklı Aynalı Dış Manav Tezgahı – Pr-11",
+    "en": "Lidded Mirrored Outdoor Counter – Pr-11",
+    "de": "Abdeckbare Außentheke mit Spiegel – Pr-11",
+    "fr": "Comptoir extérieur à miroir avec couvercles – Pr-11",
+    "ar": "طاولة خارجية بمرآة وأغطية – Pr-11"
+  },
+  "descs": {
+    "tr": "Cadde ve sokak cepheli dükkanlar için kapaklı tezgah.",
+    "en": "Lidded counter for street-facing shops.",
+    "de": "Abdeckbare Theke für Geschäfte zur Straße hin.",
+    "fr": "Comptoir à couvercles pour commerces donnant sur la rue.",
+    "ar": "طاولة مغطاة للمحلات المطلة على الشارع."
+  },
+  "images": [
+    "media/products/kapakli-aynali-dis-manav-tezgahi-pr-11-1.webp",
+    "media/products/kapakli-aynali-dis-manav-tezgahi-pr-11-2.webp",
+    "media/products/kapakli-aynali-dis-manav-tezgahi-pr-11-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/kapakli-aynali-duvar-tipi-dis-manav-tezgahi/"
+}

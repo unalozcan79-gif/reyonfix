@@ -1,0 +1,25 @@
+{
+  "id": 116,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "HP-DK-8",
+  "order": 1080,
+  "vitrin": [],
+  "names": {
+    "tr": "Soğuk Dolap Üstü Dekoru",
+    "en": "Refrigerator Overhead Décor",
+    "de": "Dekoration über Kühlschränken",
+    "fr": "Décor au-dessus des réfrigérateurs",
+    "ar": "ديكور فوق الثلاجات"
+  },
+  "descs": {
+    "tr": "Soğuk dolap üstü alanları için modern dekor.",
+    "en": "Modern décor for the area above refrigerated cabinets.",
+    "de": "Moderne Dekoration für den Bereich über Kühlmöbeln.",
+    "fr": "Décor moderne pour la zone au-dessus des meubles froids.",
+    "ar": "ديكور حديث للمساحة فوق وحدات التبريد."
+  },
+  "images": [
+    "media/products/soguk-dolap-ustu-dekoru-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/soguk-dolap-sutluk-dolap-ustu-dekoru/"
+}

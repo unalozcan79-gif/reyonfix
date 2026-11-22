@@ -1,0 +1,26 @@
+{
+  "id": 122,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "",
+  "order": 1140,
+  "vitrin": [],
+  "names": {
+    "tr": "Manav Üst Alın Dekoru",
+    "en": "Produce Fascia Décor",
+    "de": "Blendendekoration für Obst & Gemüse",
+    "fr": "Décor de bandeau fruits et légumes",
+    "ar": "ديكور واجهة علوية لقسم الخضار"
+  },
+  "descs": {
+    "tr": "Manav bölümü için modern üst dekorasyon uygulaması.",
+    "en": "Modern overhead décor for the produce section.",
+    "de": "Moderne Dekoration oberhalb der Obstabteilung.",
+    "fr": "Décor moderne au-dessus du rayon fruits et légumes.",
+    "ar": "ديكور علوي حديث لقسم الخضار والفواكه."
+  },
+  "images": [
+    "media/products/manav-ust-alin-dekoru-1.webp",
+    "media/products/manav-ust-alin-dekoru-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/manav-ust-alin-dekoru-manav-ust-dekorasyonu/"
+}

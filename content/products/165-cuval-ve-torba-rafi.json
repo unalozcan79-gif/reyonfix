@@ -1,0 +1,26 @@
+{
+  "id": 165,
+  "category": "Market Ekipmanlari",
+  "code": "fr-29 Cargo V5",
+  "order": 1070,
+  "vitrin": [],
+  "names": {
+    "tr": "Çuval ve Torba Rafı",
+    "en": "Sack & Bag Rack",
+    "de": "Regal für Säcke & Beutel",
+    "fr": "Étagère pour sacs et sachets",
+    "ar": "رف للأكياس والشوالات"
+  },
+  "descs": {
+    "tr": "Çuval ve torbalı ürünleri düzenli ve erişilebilir tutar.",
+    "en": "Keeps sacked and bagged goods tidy and accessible.",
+    "de": "Hält Sack- und Beutelware ordentlich und gut erreichbar.",
+    "fr": "Garde les produits en sacs ordonnés et accessibles.",
+    "ar": "يحافظ على البضائع المعبأة مرتبة وسهلة الوصول."
+  },
+  "images": [
+    "media/products/cuval-ve-torba-rafi-1.webp",
+    "media/products/cuval-ve-torba-rafi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-cuval-ve-torba-rafi/"
+}

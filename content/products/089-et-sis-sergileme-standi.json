@@ -1,0 +1,29 @@
+{
+  "id": 89,
+  "category": "Yeni Market Ekipmanları",
+  "code": "HP-CS-1",
+  "order": 20,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Et Şiş Sergileme Standı",
+    "en": "Meat Skewer Display Stand",
+    "de": "Fleischspieß-Präsentationsständer",
+    "fr": "Présentoir à brochettes de viande",
+    "ar": "ستاند عرض أسياخ اللحم"
+  },
+  "descs": {
+    "tr": "Açı ayarlı, metal et şiş teşhir standı.",
+    "en": "Angle-adjustable metal skewer display stand.",
+    "de": "Neigungsverstellbarer Metallständer für Fleischspieße.",
+    "fr": "Présentoir métallique inclinable pour brochettes.",
+    "ar": "ستاند معدني قابل لتعديل الزاوية لعرض الأسياخ."
+  },
+  "images": [
+    "media/products/et-sis-sergileme-standi-1.webp",
+    "media/products/et-sis-sergileme-standi-2.webp",
+    "media/products/et-sis-sergileme-standi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/supermarket-et-sis-sergileme-standi/"
+}

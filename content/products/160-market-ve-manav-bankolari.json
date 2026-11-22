@@ -1,0 +1,28 @@
+{
+  "id": 160,
+  "category": "Market Ekipmanlari",
+  "code": "Hp-bnk-2-mf",
+  "order": 110,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Market ve Manav Bankoları",
+    "en": "Store & Produce Counters",
+    "de": "Markt- und Gemüsetheken",
+    "fr": "Comptoirs de magasin et de primeur",
+    "ar": "طاولات المتاجر والخضار"
+  },
+  "descs": {
+    "tr": "Düzenli ve şık teşhirle güven veren banko sistemleri.",
+    "en": "Counter systems that build trust with tidy, stylish display.",
+    "de": "Thekensysteme, die mit ordentlicher Präsentation Vertrauen schaffen.",
+    "fr": "Systèmes de comptoirs qui inspirent confiance par une présentation soignée.",
+    "ar": "أنظمة طاولات تبني الثقة بعرض مرتب وأنيق."
+  },
+  "images": [
+    "media/products/market-ve-manav-bankolari-1.webp",
+    "media/products/market-ve-manav-bankolari-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-ve-manav-bankolari/"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 9,
+  "category": "Cafe Pastane Ekipmanları",
+  "code": "",
+  "order": 80,
+  "vitrin": [
+    "firin"
+  ],
+  "names": {
+    "tr": "Market Pasta ve Unlu Mamul Dolabı",
+    "en": "Supermarket Cake & Bakery Cabinet",
+    "de": "Supermarkt-Kuchen- und Backwarenschrank",
+    "fr": "Armoire à gâteaux et viennoiseries",
+    "ar": "خزانة كيك ومعجنات للسوبرماركت"
+  },
+  "descs": {
+    "tr": "Pasta, kek ve unlu mamulleri korunaklı şekilde sergileyen dolap.",
+    "en": "Cabinet displaying cakes and bakery goods in a protected way.",
+    "de": "Schrank, der Kuchen und Backwaren geschützt präsentiert.",
+    "fr": "Armoire qui présente gâteaux et viennoiseries à l’abri.",
+    "ar": "خزانة تعرض الكيك والمعجنات بشكل محمي."
+  },
+  "images": [
+    "media/products/market-pasta-ve-unlu-mamul-dolabi-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-pasta-ve-unlu-mamul-dolabi/"
+}

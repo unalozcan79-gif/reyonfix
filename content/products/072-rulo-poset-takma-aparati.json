@@ -1,0 +1,26 @@
+{
+  "id": 72,
+  "category": "Manav Ekipmanları",
+  "code": "PR-21 ECO",
+  "order": 1600,
+  "vitrin": [],
+  "names": {
+    "tr": "Rulo Poşet Takma Aparatı",
+    "en": "Roll Bag Dispenser",
+    "de": "Rollen-Tütenspender",
+    "fr": "Distributeur de sacs en rouleau",
+    "ar": "موزّع أكياس لفّة"
+  },
+  "descs": {
+    "tr": "Meyve-sebze poşetlerini rulodan pratik şekilde sunar.",
+    "en": "Dispenses produce bags conveniently from the roll.",
+    "de": "Gibt Obstbeutel bequem von der Rolle aus.",
+    "fr": "Distribue facilement les sachets à partir du rouleau.",
+    "ar": "يوزّع أكياس الخضار بسهولة من اللفّة."
+  },
+  "images": [
+    "media/products/rulo-poset-takma-aparati-1.webp",
+    "media/products/rulo-poset-takma-aparati-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/meyve-ve-sebze-rulo-poset-takma-aparati-posetlik/"
+}

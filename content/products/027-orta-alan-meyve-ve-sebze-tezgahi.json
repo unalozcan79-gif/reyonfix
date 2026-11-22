@@ -1,0 +1,26 @@
+{
+  "id": 27,
+  "category": "Manav Ekipmanları",
+  "code": "FR-37-EGE",
+  "order": 1150,
+  "vitrin": [],
+  "names": {
+    "tr": "Orta Alan Meyve ve Sebze Tezgahı",
+    "en": "Island Fruit & Vegetable Counter",
+    "de": "Insel-Theke für Obst & Gemüse",
+    "fr": "Îlot fruits et légumes",
+    "ar": "طاولة جزيرة للخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Çift taraflı yapısıyla market ortasının vazgeçilmez tezgahı.",
+    "en": "Double-sided island counter for the centre of the store.",
+    "de": "Beidseitig nutzbare Inseltheke für die Ladenmitte.",
+    "fr": "Îlot double face pour le centre du magasin.",
+    "ar": "طاولة وسطية بوجهين لمنتصف المتجر."
+  },
+  "images": [
+    "media/products/orta-alan-meyve-ve-sebze-tezgahi-1.webp",
+    "media/products/orta-alan-meyve-ve-sebze-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-meyve-ve-sebze-tezgahi/"
+}

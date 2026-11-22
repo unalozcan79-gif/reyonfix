@@ -1,0 +1,26 @@
+{
+  "id": 133,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "HP-DK-2",
+  "order": 1250,
+  "vitrin": [],
+  "names": {
+    "tr": "Market Tavan Lambası",
+    "en": "Store Ceiling Lamp",
+    "de": "Deckenleuchte für Geschäfte",
+    "fr": "Plafonnier de magasin",
+    "ar": "مصباح سقف للمتاجر"
+  },
+  "descs": {
+    "tr": "Satış alanını doğru aydınlatan dekoratif tavan lambası.",
+    "en": "Decorative ceiling lamp for well-lit sales areas.",
+    "de": "Dekorative Deckenleuchte für gut beleuchtete Verkaufsflächen.",
+    "fr": "Plafonnier décoratif pour des espaces de vente bien éclairés.",
+    "ar": "مصباح سقف ديكوري لمساحات بيع جيدة الإضاءة."
+  },
+  "images": [
+    "media/products/market-tavan-lambasi-1.webp",
+    "media/products/market-tavan-lambasi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tavan-lambasi/"
+}

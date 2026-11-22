@@ -1,0 +1,27 @@
+{
+  "id": 60,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 1480,
+  "vitrin": [],
+  "names": {
+    "tr": "Tekerli Duvar Tipi Kısa Manav Reyonu",
+    "en": "Mobile Low Wall Produce Unit",
+    "de": "Mobile niedrige Gemüsetheke",
+    "fr": "Comptoir bas mobile",
+    "ar": "طاولة خضار منخفضة متنقلة"
+  },
+  "descs": {
+    "tr": "Sabah dışarı, akşam içeri kolayca taşınan tekerli reyon.",
+    "en": "Mobile unit easily moved outside in the morning and in at night.",
+    "de": "Mobil: morgens schnell nach draußen, abends wieder hinein.",
+    "fr": "Mobile : sorti facilement le matin, rentré le soir.",
+    "ar": "متنقلة: تُخرج بسهولة صباحًا وتُدخل مساءً."
+  },
+  "images": [
+    "media/products/tekerli-duvar-tipi-kisa-manav-reyonu-1.webp",
+    "media/products/tekerli-duvar-tipi-kisa-manav-reyonu-2.webp",
+    "media/products/tekerli-duvar-tipi-kisa-manav-reyonu-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/tekerli-duvar-tipi-kisa-manav-reyonu/"
+}

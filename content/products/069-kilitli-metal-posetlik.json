@@ -1,0 +1,25 @@
+{
+  "id": 69,
+  "category": "Manav Ekipmanları",
+  "code": "PR-21 LOOK",
+  "order": 1570,
+  "vitrin": [],
+  "names": {
+    "tr": "Kilitli Metal Poşetlik",
+    "en": "Lockable Metal Bag Holder",
+    "de": "Abschließbarer Tütenhalter aus Metall",
+    "fr": "Porte-sacs métal verrouillable",
+    "ar": "حامل أكياس معدني بقفل"
+  },
+  "descs": {
+    "tr": "Market ve dış alanlar için kilitli, dayanıklı poşetlik.",
+    "en": "Durable, lockable bag holder for stores and outdoor areas.",
+    "de": "Robuster, abschließbarer Tütenhalter für innen und außen.",
+    "fr": "Porte-sacs robuste et verrouillable, intérieur et extérieur.",
+    "ar": "حامل أكياس متين بقفل للداخل والخارج."
+  },
+  "images": [
+    "media/products/kilitli-metal-posetlik-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-kilitli-manav-posetlik-park-bahce-kilitli-metal-posetlik/"
+}

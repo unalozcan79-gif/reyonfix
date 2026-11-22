@@ -1,0 +1,26 @@
+{
+  "id": 166,
+  "category": "Market Ekipmanlari",
+  "code": "HP-KM-3",
+  "order": 1080,
+  "vitrin": [],
+  "names": {
+    "tr": "Tekerlekli Çalışma Tezgahı",
+    "en": "Mobile Work Counter",
+    "de": "Mobile Arbeitstheke",
+    "fr": "Comptoir de travail mobile",
+    "ar": "طاولة عمل متنقلة"
+  },
+  "descs": {
+    "tr": "Marketlerde esnek kullanım sunan mobil tezgah.",
+    "en": "Mobile counter offering flexible use in stores.",
+    "de": "Mobile Theke für den flexiblen Einsatz im Geschäft.",
+    "fr": "Comptoir mobile pour un usage flexible en magasin.",
+    "ar": "طاولة متنقلة للاستخدام المرن في المتجر."
+  },
+  "images": [
+    "media/products/tekerlekli-calisma-tezgahi-1.webp",
+    "media/products/tekerlekli-calisma-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/manav-tekerlekli-calisma-tezgahi/"
+}

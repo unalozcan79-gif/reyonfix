@@ -1,0 +1,28 @@
+{
+  "id": 29,
+  "category": "Manav Ekipmanları",
+  "code": "HP-1",
+  "order": 10,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "Duvar Tipi Aynalı Manav Dizaynı",
+    "en": "Mirrored Wall Produce Design",
+    "de": "Obst- und Gemüse-Wanddesign mit Spiegel",
+    "fr": "Aménagement mural primeur avec miroir",
+    "ar": "تصميم جداري للخضار بمرآة"
+  },
+  "descs": {
+    "tr": "Manav bölümü için bütünlüklü, aynalı duvar tasarımı.",
+    "en": "Complete mirrored wall design for the produce section.",
+    "de": "Komplette Wandgestaltung mit Spiegel für die Obst- und Gemüseabteilung.",
+    "fr": "Aménagement mural complet avec miroir pour le rayon fruits et légumes.",
+    "ar": "تصميم جداري متكامل بمرآة لقسم الخضار والفواكه."
+  },
+  "images": [
+    "media/products/duvar-tipi-aynali-manav-dizayni-1.webp",
+    "media/products/duvar-tipi-aynali-manav-dizayni-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-tipi-aynali-manav-dizayni/"
+}

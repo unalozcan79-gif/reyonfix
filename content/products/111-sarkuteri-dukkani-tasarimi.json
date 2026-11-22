@@ -1,0 +1,25 @@
+{
+  "id": 111,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "",
+  "order": 1030,
+  "vitrin": [],
+  "names": {
+    "tr": "Şarküteri Dükkanı Tasarımı",
+    "en": "Delicatessen Store Design",
+    "de": "Feinkostladen-Design",
+    "fr": "Conception d’épicerie fine",
+    "ar": "تصميم محل الأطعمة الفاخرة"
+  },
+  "descs": {
+    "tr": "Gurme ürünler için butik şarküteri konsepti.",
+    "en": "Boutique delicatessen concept for gourmet products.",
+    "de": "Boutique-Feinkostkonzept für Gourmetprodukte.",
+    "fr": "Concept boutique pour produits gourmets.",
+    "ar": "مفهوم بوتيك للمنتجات الفاخرة."
+  },
+  "images": [
+    "media/products/sarkuteri-dukkani-tasarimi-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-dekoru-market-dizayn-dekoru-sarkuteri-dukkani-tasarimi/"
+}

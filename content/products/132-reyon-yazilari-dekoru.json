@@ -1,0 +1,26 @@
+{
+  "id": 132,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "HP-DK-13",
+  "order": 1240,
+  "vitrin": [],
+  "names": {
+    "tr": "Reyon Yazıları Dekoru",
+    "en": "Section Lettering Décor",
+    "de": "Abteilungs-Schriftzüge",
+    "fr": "Lettrage de rayons",
+    "ar": "حروف أسماء الأقسام"
+  },
+  "descs": {
+    "tr": "Fırın, şarküteri ve kasap bölümleri için yazı dekoru.",
+    "en": "Lettering décor for bakery, deli and butcher sections.",
+    "de": "Schriftzug-Dekoration für Bäckerei, Feinkost und Metzgerei.",
+    "fr": "Lettrage décoratif pour boulangerie, traiteur et boucherie.",
+    "ar": "حروف ديكورية لأقسام المخبوزات والأجبان واللحوم."
+  },
+  "images": [
+    "media/products/reyon-yazilari-dekoru-1.webp",
+    "media/products/reyon-yazilari-dekoru-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-unlu-mamul-yazilari-sarkuteri-yazilari-kasap-etlik-yazilari-dekoru/"
+}

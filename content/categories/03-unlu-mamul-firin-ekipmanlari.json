@@ -1,0 +1,19 @@
+{
+  "key": "Unlu Mamul & Fırın Ekipmanları",
+  "order": 30,
+  "names": {
+    "tr": "Unlu Mamul & Fırın Ekipmanları",
+    "en": "Bakery Equipment",
+    "de": "Bäckereiausstattung",
+    "fr": "Équipements de boulangerie",
+    "ar": "تجهيزات المخابز"
+  },
+  "descs": {
+    "tr": "Ekmek ve unlu mamuller için dolap, raf ve reyonlar.",
+    "en": "Cabinets, shelving and units for bread and bakery goods.",
+    "de": "Schränke, Regale und Möbel für Brot und Backwaren.",
+    "fr": "Armoires, étagères et meubles pour le pain et les viennoiseries.",
+    "ar": "خزائن ورفوف ووحدات للخبز والمعجنات."
+  },
+  "image": "media/products/cekmeceli-ekmeklik-ve-unlu-mamul-dolaplari-1.webp"
+}

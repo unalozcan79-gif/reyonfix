@@ -1,0 +1,28 @@
+{
+  "id": 153,
+  "category": "Şarküteri Ekipmanlari",
+  "code": "HP-ŞD1",
+  "order": 120,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "Şarküteri Tezgahları",
+    "en": "Delicatessen Counters",
+    "de": "Feinkosttheken",
+    "fr": "Comptoirs d’épicerie fine",
+    "ar": "طاولات الأطعمة الفاخرة"
+  },
+  "descs": {
+    "tr": "Zeytin, peynir ve köy ürünleri satan dükkanlar için tezgahlar.",
+    "en": "Counters for shops selling olives, cheese and farm produce.",
+    "de": "Theken für Geschäfte mit Oliven, Käse und Hofprodukten.",
+    "fr": "Comptoirs pour commerces d’olives, fromages et produits fermiers.",
+    "ar": "طاولات لمحلات الزيتون والأجبان ومنتجات المزارع."
+  },
+  "images": [
+    "media/products/sarkuteri-tezgahlari-1.webp",
+    "media/products/sarkuteri-tezgahlari-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-sarkuteri-tezgahlari/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 205,
+  "category": "Çicek Dükkanı Dizaynı",
+  "code": "",
+  "order": 1060,
+  "vitrin": [],
+  "names": {
+    "tr": "Çiçek Rafı ve Çiçekçi Tezgahı",
+    "en": "Flower Rack & Florist Counter",
+    "de": "Blumenregal & Floristentheke",
+    "fr": "Présentoir à fleurs et comptoir de fleuriste",
+    "ar": "رف زهور وطاولة بائع الزهور"
+  },
+  "descs": {
+    "tr": "Çiçekçi dükkanları için katlı sunum rafı.",
+    "en": "Tiered display rack for florists.",
+    "de": "Stufenregal zur Präsentation für Blumenläden.",
+    "fr": "Présentoir à gradins pour fleuristes.",
+    "ar": "رف عرض متدرج لمحلات الزهور."
+  },
+  "images": [
+    "media/products/cicek-rafi-ve-cicekci-tezgahi-1.webp",
+    "media/products/cicek-rafi-ve-cicekci-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-cicek-rafi-cicek-dukkani-tezgahi-cicek-koyma-rafi/"
+}

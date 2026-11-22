@@ -1,0 +1,28 @@
+{
+  "id": 151,
+  "category": "Şarküteri Ekipmanlari",
+  "code": "",
+  "order": 100,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "4 Katlı Orta Alan Gurme Rafı",
+    "en": "4-Tier Island Gourmet Shelf",
+    "de": "Vierstöckiges Gourmet-Mittelraumregal",
+    "fr": "Gondole gourmet centrale à quatre niveaux",
+    "ar": "رف وسطي للأطعمة الفاخرة بأربعة طوابق"
+  },
+  "descs": {
+    "tr": "Şarküteri ürünlerini satışı artıracak şekilde sergiler.",
+    "en": "Displays deli products in a way that boosts sales.",
+    "de": "Präsentiert Feinkostprodukte verkaufsfördernd.",
+    "fr": "Présente les produits d’épicerie fine pour stimuler les ventes.",
+    "ar": "يعرض منتجات الأطعمة الفاخرة بطريقة تزيد المبيعات."
+  },
+  "images": [
+    "media/products/4-katli-orta-alan-gurme-rafi-1.webp",
+    "media/products/4-katli-orta-alan-gurme-rafi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-sarkuteri-4-katli-orta-alan-gurme-rafi/"
+}

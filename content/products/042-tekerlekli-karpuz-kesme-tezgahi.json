@@ -1,0 +1,29 @@
+{
+  "id": 42,
+  "category": "Manav Ekipmanları",
+  "code": "FR-29",
+  "order": 80,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Tekerlekli Karpuz Kesme Tezgahı",
+    "en": "Mobile Watermelon Cutting Counter",
+    "de": "Mobile Schneidetheke für Wassermelonen",
+    "fr": "Comptoir mobile de découpe de pastèques",
+    "ar": "طاولة متنقلة لتقطيع البطيخ"
+  },
+  "descs": {
+    "tr": "Kavun ve karpuz kesimi için tasarlanmış tekerlekli tezgah.",
+    "en": "Mobile counter designed for cutting melons and watermelons.",
+    "de": "Mobile Theke zum Schneiden von Melonen und Wassermelonen.",
+    "fr": "Comptoir mobile conçu pour découper melons et pastèques.",
+    "ar": "طاولة متنقلة مصممة لتقطيع الشمام والبطيخ."
+  },
+  "images": [
+    "media/products/tekerlekli-karpuz-kesme-tezgahi-1.webp",
+    "media/products/tekerlekli-karpuz-kesme-tezgahi-2.webp",
+    "media/products/tekerlekli-karpuz-kesme-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-karpuz-kesme-tezgahi/"
+}

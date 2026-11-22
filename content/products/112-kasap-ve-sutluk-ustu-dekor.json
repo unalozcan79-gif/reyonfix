@@ -1,0 +1,25 @@
+{
+  "id": 112,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "Hp-Dk-10 -8",
+  "order": 1040,
+  "vitrin": [],
+  "names": {
+    "tr": "Kasap ve Sütlük Üstü Dekor",
+    "en": "Butcher & Dairy Overhead Décor",
+    "de": "Dekoration über Fleisch- & Molkereitheke",
+    "fr": "Décor au-dessus des rayons boucherie et crèmerie",
+    "ar": "ديكور فوق قسمي اللحوم والألبان"
+  },
+  "descs": {
+    "tr": "Kasap ve sütlük reyonlarının üst kısmı için dekor.",
+    "en": "Overhead décor for butcher and dairy sections.",
+    "de": "Dekoration oberhalb von Fleisch- und Molkereiabteilung.",
+    "fr": "Décor surplombant les rayons boucherie et produits laitiers.",
+    "ar": "ديكور علوي لأقسام اللحوم ومنتجات الألبان."
+  },
+  "images": [
+    "media/products/kasap-ve-sutluk-ustu-dekor-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-kasap-dekoru-sutluk-ustu-dekor-etlik-ustu-dekor/"
+}

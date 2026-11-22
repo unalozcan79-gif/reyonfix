@@ -1,0 +1,28 @@
+{
+  "id": 140,
+  "category": "Zeytinlik Reyonu",
+  "code": "PR-64",
+  "order": 50,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "Tekerli Orta Alan Zeytin ve Salata Bar",
+    "en": "Mobile Island Olive & Salad Bar",
+    "de": "Mobile Insel-Oliven- & Salatbar",
+    "fr": "Îlot mobile olives et salades",
+    "ar": "بار جزيرة متنقل للزيتون والسلطات"
+  },
+  "descs": {
+    "tr": "Orta alanda zeytin ve salata sunumu için tekerli tezgah.",
+    "en": "Mobile island counter for olives and salads.",
+    "de": "Mobile Inseltheke für Oliven und Salate.",
+    "fr": "Îlot mobile pour olives et salades.",
+    "ar": "طاولة وسطية متنقلة للزيتون والسلطات."
+  },
+  "images": [
+    "media/products/tekerli-orta-alan-zeytin-ve-salata-bar-1.webp",
+    "media/products/tekerli-orta-alan-zeytin-ve-salata-bar-2.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/zeytin-bar-salatabar-tekerli-orta-alan-zeytin-tezgahi/"
+}

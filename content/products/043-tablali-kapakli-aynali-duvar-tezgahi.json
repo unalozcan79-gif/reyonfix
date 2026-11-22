@@ -1,0 +1,26 @@
+{
+  "id": 43,
+  "category": "Manav Ekipmanları",
+  "code": "Hp-62 Stil Line",
+  "order": 1310,
+  "vitrin": [],
+  "names": {
+    "tr": "Tablalı Kapaklı Aynalı Duvar Tezgahı",
+    "en": "Mirrored Wall Counter with Trays & Lids",
+    "de": "Wandtheke mit Spiegel, Tablaren und Deckeln",
+    "fr": "Comptoir mural à miroir avec plateaux et couvercles",
+    "ar": "طاولة جدارية بمرآة وصوانٍ وأغطية"
+  },
+  "descs": {
+    "tr": "Dış alanlarda da kullanılabilen, kapaklı ve tablalı tezgah.",
+    "en": "Counter with trays and lids, suitable for outdoor use.",
+    "de": "Theke mit Tablaren und Deckeln, auch für den Außenbereich.",
+    "fr": "Comptoir à plateaux et couvercles, utilisable en extérieur.",
+    "ar": "طاولة بصوانٍ وأغطية مناسبة للاستخدام الخارجي."
+  },
+  "images": [
+    "media/products/tablali-kapakli-aynali-duvar-tezgahi-1.webp",
+    "media/products/tablali-kapakli-aynali-duvar-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-tablali-kapakli-aynali-duvar-tezgahi/"
+}

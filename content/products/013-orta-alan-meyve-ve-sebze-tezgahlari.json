@@ -1,0 +1,26 @@
+{
+  "id": 13,
+  "category": "Manav Ekipmanları",
+  "code": "Hp-Ort 7 Ua 469",
+  "order": 1030,
+  "vitrin": [],
+  "names": {
+    "tr": "Orta Alan Meyve ve Sebze Tezgahları",
+    "en": "Island Fruit & Vegetable Counters",
+    "de": "Inseltheken für Obst & Gemüse",
+    "fr": "Îlots fruits et légumes",
+    "ar": "طاولات جزيرة للخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Market ortasında verimli ve etkili ürün teşhiri sağlayan tezgahlar.",
+    "en": "Island counters for efficient, eye-catching produce display.",
+    "de": "Inseltheken für eine effiziente, auffällige Präsentation.",
+    "fr": "Îlots pour une présentation efficace et attrayante.",
+    "ar": "طاولات وسطية لعرض فعّال ولافت للنظر."
+  },
+  "images": [
+    "media/products/orta-alan-meyve-ve-sebze-tezgahlari-1.webp",
+    "media/products/orta-alan-meyve-ve-sebze-tezgahlari-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/orta-alan-meyve-ve-sebze-tezgahlari/"
+}

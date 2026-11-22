@@ -1,0 +1,26 @@
+{
+  "id": 202,
+  "category": "Çicek Dükkanı Dizaynı",
+  "code": "",
+  "order": 1030,
+  "vitrin": [],
+  "names": {
+    "tr": "AVM Büyük Saksı",
+    "en": "Mall Planter",
+    "de": "Pflanzkübel für Einkaufszentren",
+    "fr": "Jardinière pour centres commerciaux",
+    "ar": "حوض نباتات للمراكز التجارية"
+  },
+  "descs": {
+    "tr": "AVM ve kamusal alanlar için büyük boy metal saksı.",
+    "en": "Large metal planter for malls and public spaces.",
+    "de": "Großer Metall-Pflanzkübel für Einkaufszentren und öffentliche Räume.",
+    "fr": "Grande jardinière métallique pour centres commerciaux et espaces publics.",
+    "ar": "حوض نباتات معدني كبير للمراكز التجارية والأماكن العامة."
+  },
+  "images": [
+    "media/products/avm-buyuk-saksi-1.webp",
+    "media/products/avm-buyuk-saksi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/avm-buyuk-saksi/"
+}

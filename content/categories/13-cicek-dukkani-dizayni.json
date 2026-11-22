@@ -1,0 +1,19 @@
+{
+  "key": "Çicek Dükkanı Dizaynı",
+  "order": 130,
+  "names": {
+    "tr": "Çiçek Dükkanı Dizaynı",
+    "en": "Florist & Planters",
+    "de": "Blumenladen & Pflanzkübel",
+    "fr": "Fleuristes & jardinières",
+    "ar": "محلات الزهور والأحواض"
+  },
+  "descs": {
+    "tr": "Çiçekçi dükkanları ve mekanlar için stand ve saksılar.",
+    "en": "Stands and planters for florists and venues.",
+    "de": "Ständer und Pflanzkübel für Blumenläden, Einkaufszentren und öffentliche Räume.",
+    "fr": "Présentoirs et jardinières pour fleuristes, centres commerciaux et espaces publics.",
+    "ar": "ستاندات وأحواض نباتات لمحلات الزهور والمراكز التجارية والأماكن العامة."
+  },
+  "image": "media/products/avm-buyuk-saksi-1.webp"
+}

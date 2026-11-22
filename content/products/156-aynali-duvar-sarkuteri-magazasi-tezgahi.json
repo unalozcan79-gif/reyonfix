@@ -1,0 +1,26 @@
+{
+  "id": 156,
+  "category": "Şarküteri Ekipmanlari",
+  "code": "HP-SK-5",
+  "order": 1060,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Duvar Şarküteri Mağazası Tezgahı",
+    "en": "Mirrored Deli Store Counter",
+    "de": "Feinkost-Ladentheke mit Spiegel",
+    "fr": "Comptoir à miroir pour magasin traiteur",
+    "ar": "طاولة متجر أجبان ولحوم باردة بمرآة"
+  },
+  "descs": {
+    "tr": "Paketli şarküteri ürünleri için duvar tezgahı.",
+    "en": "Wall counter for packaged deli products.",
+    "de": "Wandtheke für verpackte Feinkostprodukte.",
+    "fr": "Comptoir mural pour produits traiteur emballés.",
+    "ar": "طاولة جدارية للمنتجات المعبأة."
+  },
+  "images": [
+    "media/products/aynali-duvar-sarkuteri-magazasi-tezgahi-1.webp",
+    "media/products/aynali-duvar-sarkuteri-magazasi-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-sarkuteri-magazasi-tezgahi/"
+}

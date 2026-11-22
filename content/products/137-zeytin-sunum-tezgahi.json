@@ -1,0 +1,26 @@
+{
+  "id": 137,
+  "category": "Zeytinlik Reyonu",
+  "code": "",
+  "order": 1040,
+  "vitrin": [],
+  "names": {
+    "tr": "Zeytin Sunum Tezgahı",
+    "en": "Olive Presentation Counter",
+    "de": "Oliven-Präsentationstheke",
+    "fr": "Comptoir de présentation d’olives",
+    "ar": "طاولة تقديم الزيتون"
+  },
+  "descs": {
+    "tr": "Doğallık, hijyen ve satış gücünü bir araya getirir.",
+    "en": "Brings together natural look, hygiene and sales power.",
+    "de": "Verbindet natürliche Optik, Hygiene und Verkaufsstärke.",
+    "fr": "Allie aspect naturel, hygiène et efficacité commerciale.",
+    "ar": "تجمع بين المظهر الطبيعي والنظافة وقوة البيع."
+  },
+  "images": [
+    "media/products/zeytin-sunum-tezgahi-1.webp",
+    "media/products/zeytin-sunum-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/zeytin-sunum-tezgahi/"
+}

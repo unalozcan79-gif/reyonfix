@@ -1,0 +1,26 @@
+{
+  "id": 12,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 1020,
+  "vitrin": [],
+  "names": {
+    "tr": "Metal Poşetlik",
+    "en": "Metal Bag Holder",
+    "de": "Tütenhalter aus Metall",
+    "fr": "Porte-sacs en métal",
+    "ar": "حامل أكياس معدني"
+  },
+  "descs": {
+    "tr": "Kasa ve manav alanlarında düzeni sağlayan sağlam metal poşetlik.",
+    "en": "Sturdy metal bag holder keeping checkout and produce areas tidy.",
+    "de": "Stabiler Tütenhalter für Ordnung an Kasse und Obstabteilung.",
+    "fr": "Porte-sacs solide pour garder caisse et rayon fruits et légumes en ordre.",
+    "ar": "حامل أكياس متين يحافظ على ترتيب منطقة الدفع وقسم الخضار."
+  },
+  "images": [
+    "media/products/metal-posetlik-1.webp",
+    "media/products/metal-posetlik-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-metal-posetlik/"
+}

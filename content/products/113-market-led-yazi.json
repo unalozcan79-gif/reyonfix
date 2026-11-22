@@ -1,0 +1,25 @@
+{
+  "id": 113,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "",
+  "order": 1050,
+  "vitrin": [],
+  "names": {
+    "tr": "Market LED Yazı",
+    "en": "Illuminated LED Lettering",
+    "de": "Beleuchtete LED-Schriftzüge",
+    "fr": "Lettrage LED lumineux",
+    "ar": "حروف LED مضيئة"
+  },
+  "descs": {
+    "tr": "Reyonları gösteren ışıklı yönlendirme yazıları.",
+    "en": "Illuminated lettering that signposts store sections.",
+    "de": "Leuchtschriften, die die Abteilungen im Laden kennzeichnen.",
+    "fr": "Lettrage lumineux qui signale les rayons du magasin.",
+    "ar": "حروف مضيئة تدل على أقسام المتجر."
+  },
+  "images": [
+    "media/products/market-led-yazi-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-dekorasyon-led-yazi/"
+}

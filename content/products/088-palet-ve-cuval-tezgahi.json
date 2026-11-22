@@ -1,0 +1,29 @@
+{
+  "id": 88,
+  "category": "Yeni Market Ekipmanları",
+  "code": "Fr-29 Cargo",
+  "order": 10,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Palet ve Çuval Tezgahı",
+    "en": "Pallet & Sack Display",
+    "de": "Paletten- und Sackständer",
+    "fr": "Présentoir pour palettes et sacs",
+    "ar": "ستاند للمنصات والأكياس"
+  },
+  "descs": {
+    "tr": "Palet ve çuvallı ürünleri düzenli sergileyen taşınabilir tezgah.",
+    "en": "Mobile display for pallet and sack products.",
+    "de": "Mobiler Ständer für Paletten- und Sackware.",
+    "fr": "Présentoir mobile pour produits en palettes et en sacs.",
+    "ar": "ستاند متنقل للمنتجات على المنصات وفي الأكياس."
+  },
+  "images": [
+    "media/products/palet-ve-cuval-tezgahi-1.webp",
+    "media/products/palet-ve-cuval-tezgahi-2.webp",
+    "media/products/palet-ve-cuval-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-palet-cuval-tezgahi/"
+}

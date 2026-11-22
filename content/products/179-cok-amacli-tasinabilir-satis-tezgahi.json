@@ -1,0 +1,28 @@
+{
+  "id": 179,
+  "category": "Vitamin Bar & Kiosk Bar",
+  "code": "",
+  "order": 130,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Çok Amaçlı Taşınabilir Satış Tezgahı",
+    "en": "Multi-Purpose Mobile Kiosk",
+    "de": "Mobiler Mehrzweck-Kiosk",
+    "fr": "Kiosque mobile polyvalent",
+    "ar": "كشك متنقل متعدد الأغراض"
+  },
+  "descs": {
+    "tr": "Her yerde satış imkânı sunan çok yönlü tezgah.",
+    "en": "Versatile counter that lets you sell anywhere.",
+    "de": "Vielseitige Theke für den Verkauf an jedem Ort.",
+    "fr": "Comptoir polyvalent pour vendre partout.",
+    "ar": "طاولة متعددة الاستخدامات للبيع في أي مكان."
+  },
+  "images": [
+    "media/products/cok-amacli-tasinabilir-satis-tezgahi-1.webp",
+    "media/products/cok-amacli-tasinabilir-satis-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-urun-teshir-standi/"
+}

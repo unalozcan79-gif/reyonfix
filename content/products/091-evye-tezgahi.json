@@ -1,0 +1,28 @@
+{
+  "id": 91,
+  "category": "Yeni Market Ekipmanları",
+  "code": "HP-EM-1",
+  "order": 70,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Evye Tezgahı",
+    "en": "Sink Counter",
+    "de": "Spülbeckentheke",
+    "fr": "Comptoir évier",
+    "ar": "طاولة مغسلة"
+  },
+  "descs": {
+    "tr": "Tekerlekli, taşınabilir ve pratik evye tezgahı.",
+    "en": "Mobile, practical sink counter.",
+    "de": "Mobile, praktische Theke mit Spülbecken.",
+    "fr": "Comptoir évier mobile et pratique.",
+    "ar": "طاولة مغسلة متنقلة وعملية."
+  },
+  "images": [
+    "media/products/evye-tezgahi-1.webp",
+    "media/products/evye-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/evye-tezgahi/"
+}

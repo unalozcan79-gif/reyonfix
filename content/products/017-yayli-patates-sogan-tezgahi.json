@@ -1,0 +1,26 @@
+{
+  "id": 17,
+  "category": "Manav Ekipmanları",
+  "code": "Hp-29-Z 2 Yaylı",
+  "order": 1070,
+  "vitrin": [],
+  "names": {
+    "tr": "Yaylı Patates-Soğan Tezgahı",
+    "en": "Spring-Loaded Potato & Onion Counter",
+    "de": "Federtheke für Kartoffeln & Zwiebeln",
+    "fr": "Comptoir à ressorts pommes de terre et oignons",
+    "ar": "طاولة نابضية للبطاطا والبصل"
+  },
+  "descs": {
+    "tr": "Yay sistemiyle ürünü yukarıda tutar, ezilme ve fireyi azaltır.",
+    "en": "Spring system keeps produce up front and reduces bruising.",
+    "de": "Das Federsystem hält die Ware vorne und schont sie.",
+    "fr": "Le système à ressorts garde les produits à l’avant et limite les chocs.",
+    "ar": "نظام النوابض يُبقي المنتجات في الأمام ويقلل الكدمات."
+  },
+  "images": [
+    "media/products/yayli-patates-sogan-tezgahi-1.webp",
+    "media/products/yayli-patates-sogan-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/yayli-patates-sogan-tezgahi/"
+}

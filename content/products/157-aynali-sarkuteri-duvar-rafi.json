@@ -1,0 +1,26 @@
+{
+  "id": 157,
+  "category": "Şarküteri Ekipmanlari",
+  "code": "HP-SK-5",
+  "order": 1070,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Şarküteri Duvar Rafı",
+    "en": "Mirrored Deli Wall Rack",
+    "de": "Feinkost-Wandregalsystem mit Spiegel",
+    "fr": "Rayonnage mural à miroir pour traiteur",
+    "ar": "رف جداري بمرآة للأطعمة الباردة"
+  },
+  "descs": {
+    "tr": "Duvar boyunca şarküteri sunumu için raf sistemi.",
+    "en": "Shelving system for deli display along walls.",
+    "de": "Regalsystem für die Feinkostpräsentation entlang der Wand.",
+    "fr": "Système d’étagères pour présenter le traiteur le long des murs.",
+    "ar": "نظام رفوف لعرض الأطعمة الباردة على طول الجدار."
+  },
+  "images": [
+    "media/products/aynali-sarkuteri-duvar-rafi-1.webp",
+    "media/products/aynali-sarkuteri-duvar-rafi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-sarkuteri-duvar-rafi/"
+}

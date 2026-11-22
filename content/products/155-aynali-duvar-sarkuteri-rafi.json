@@ -1,0 +1,26 @@
+{
+  "id": 155,
+  "category": "Şarküteri Ekipmanlari",
+  "code": "HP-SK -5",
+  "order": 1050,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Duvar Şarküteri Rafı",
+    "en": "Mirrored Deli Wall Shelf",
+    "de": "Feinkost-Wandregal mit Spiegel",
+    "fr": "Étagère murale à miroir pour traiteur",
+    "ar": "رف جداري بمرآة للأجبان واللحوم الباردة"
+  },
+  "descs": {
+    "tr": "Soğutma gerektirmeyen şarküteri ürünleri için dikey raf.",
+    "en": "Vertical shelf for non-refrigerated deli products.",
+    "de": "Vertikales Regal für ungekühlte Feinkostprodukte.",
+    "fr": "Étagère verticale pour produits traiteur non réfrigérés.",
+    "ar": "رف عمودي للمنتجات غير المبردة."
+  },
+  "images": [
+    "media/products/aynali-duvar-sarkuteri-rafi-1.webp",
+    "media/products/aynali-duvar-sarkuteri-rafi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-sarkuteri-dukkani-rafi/"
+}

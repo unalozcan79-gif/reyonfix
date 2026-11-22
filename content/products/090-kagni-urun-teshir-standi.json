@@ -1,0 +1,28 @@
+{
+  "id": 90,
+  "category": "Yeni Market Ekipmanları",
+  "code": "HP-SK-101",
+  "order": 60,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Kağnı Ürün Teşhir Standı",
+    "en": "Oxcart Product Display",
+    "de": "Ochsenkarren-Warenpräsentation",
+    "fr": "Présentoir charrette à bœufs",
+    "ar": "عرض بشكل عربة ثيران"
+  },
+  "descs": {
+    "tr": "Geleneksel kağnı formunda dikkat çekici teşhir standı.",
+    "en": "Eye-catching display in the form of a traditional oxcart.",
+    "de": "Blickfang in Form eines traditionellen Ochsenkarrens.",
+    "fr": "Présentoir accrocheur en forme de charrette traditionnelle.",
+    "ar": "عرض لافت على شكل عربة ثيران تقليدية."
+  },
+  "images": [
+    "media/products/kagni-urun-teshir-standi-1.webp",
+    "media/products/kagni-urun-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-urun-figuru-market-ekipmani-market-kagni-urun-teshir-standi/"
+}

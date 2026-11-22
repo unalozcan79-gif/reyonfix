@@ -1,0 +1,29 @@
+{
+  "id": 199,
+  "category": "Promosyon Stand",
+  "code": "HP-SKP-20",
+  "order": 70,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Süper Promosyon Teşhir Rafı",
+    "en": "Tiered Promotion Display",
+    "de": "Stufen-Aktionsdisplay",
+    "fr": "Présentoir promotionnel en gradins",
+    "ar": "ستاند عروض متدرج"
+  },
+  "descs": {
+    "tr": "Katlı yapısıyla promosyon ürünlerini sergiler.",
+    "en": "Tiered display for promotional products.",
+    "de": "Stufendisplay für Aktionsware.",
+    "fr": "Présentoir en gradins pour produits en promotion.",
+    "ar": "ستاند متدرج لمنتجات العروض."
+  },
+  "images": [
+    "media/products/super-promosyon-teshir-rafi-1.webp",
+    "media/products/super-promosyon-teshir-rafi-2.webp",
+    "media/products/super-promosyon-teshir-rafi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-super-promosyon-teshir-rafi/"
+}

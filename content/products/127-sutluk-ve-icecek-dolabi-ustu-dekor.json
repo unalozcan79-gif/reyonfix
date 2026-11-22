@@ -1,0 +1,26 @@
+{
+  "id": 127,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "HP-DK-8",
+  "order": 1190,
+  "vitrin": [],
+  "names": {
+    "tr": "Sütlük ve İçecek Dolabı Üstü Dekor",
+    "en": "Dairy & Drinks Cabinet Overhead Décor",
+    "de": "Dekoration über Molkerei- & Getränkekühlung",
+    "fr": "Décor au-dessus des vitrines crèmerie et boissons",
+    "ar": "ديكور فوق ثلاجات الألبان والمشروبات"
+  },
+  "descs": {
+    "tr": "Ürünlerin görsel çekiciliğini artıran üst dekor.",
+    "en": "Overhead décor that boosts product appeal.",
+    "de": "Dekoration, die die Produktwirkung steigert.",
+    "fr": "Décor qui renforce l’attrait des produits.",
+    "ar": "ديكور يزيد جاذبية المنتجات."
+  },
+  "images": [
+    "media/products/sutluk-ve-icecek-dolabi-ustu-dekor-1.webp",
+    "media/products/sutluk-ve-icecek-dolabi-ustu-dekor-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-sutluk-ve-icecek-dolap-ustu-dekor/"
+}

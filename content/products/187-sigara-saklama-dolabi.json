@@ -1,0 +1,26 @@
+{
+  "id": 187,
+  "category": "Tekel Rafları",
+  "code": "",
+  "order": 1010,
+  "vitrin": [],
+  "names": {
+    "tr": "Sigara Saklama Dolabı",
+    "en": "Cigarette Storage Cabinet",
+    "de": "Zigaretten-Aufbewahrungsschrank",
+    "fr": "Armoire de rangement à cigarettes",
+    "ar": "خزانة تخزين السجائر"
+  },
+  "descs": {
+    "tr": "Zarif ve güvenli sigara saklama çözümü.",
+    "en": "Elegant, secure cigarette storage solution.",
+    "de": "Eleganter, sicherer Aufbewahrungsschrank für Zigaretten.",
+    "fr": "Solution de rangement élégante et sécurisée pour cigarettes.",
+    "ar": "حل أنيق وآمن لتخزين السجائر."
+  },
+  "images": [
+    "media/products/sigara-saklama-dolabi-1.webp",
+    "media/products/sigara-saklama-dolabi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/sigara-saklama-dolabi/"
+}

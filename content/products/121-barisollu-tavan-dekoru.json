@@ -1,0 +1,25 @@
+{
+  "id": 121,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "HP-DK-21",
+  "order": 1130,
+  "vitrin": [],
+  "names": {
+    "tr": "Barisollü Tavan Dekoru",
+    "en": "Baffle Ceiling Décor",
+    "de": "Lamellen-Deckendekoration",
+    "fr": "Décor de plafond à baffles",
+    "ar": "ديكور سقف شرائحي"
+  },
+  "descs": {
+    "tr": "Barisol detaylı, modern market tavan dekoru.",
+    "en": "Modern store ceiling décor with baffle details.",
+    "de": "Moderne Ladendecke mit Lamellendetails.",
+    "fr": "Plafond de magasin moderne à baffles.",
+    "ar": "سقف متجر حديث بتفاصيل شرائحية."
+  },
+  "images": [
+    "media/products/barisollu-tavan-dekoru-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tavan-dekoru-barisollu-ust-tavan-dekoru/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 45,
+  "category": "Manav Ekipmanları",
+  "code": "HP-81",
+  "order": 1330,
+  "vitrin": [],
+  "names": {
+    "tr": "Tablalı Orta Alan Manav Reyonu",
+    "en": "Island Produce Unit with Trays",
+    "de": "Insel-Obsteinheit mit Tablaren",
+    "fr": "Îlot fruits et légumes à plateaux",
+    "ar": "وحدة جزيرة للخضار بصوانٍ"
+  },
+  "descs": {
+    "tr": "Çift taraflı tablalar ve üstte yuvarlak tablalarla modüler reyon.",
+    "en": "Modular unit with double-sided trays and round top trays.",
+    "de": "Modulare Einheit mit beidseitigen und runden Tablaren.",
+    "fr": "Meuble modulaire à plateaux double face et plateaux ronds.",
+    "ar": "وحدة معيارية بصوانٍ على الوجهين وصوانٍ دائرية."
+  },
+  "images": [
+    "media/products/tablali-orta-alan-manav-reyonu-1.webp",
+    "media/products/tablali-orta-alan-manav-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-tablali-orta-alan-manav-reyonu/"
+}

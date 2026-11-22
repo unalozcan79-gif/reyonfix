@@ -1,0 +1,28 @@
+{
+  "id": 23,
+  "category": "Manav Ekipmanları",
+  "code": "DE-1",
+  "order": 20,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "2 Katlı Aynalı Duvar Teşhir Standı",
+    "en": "2-Tier Mirrored Wall Display",
+    "de": "Zweistöckiges Wandregal mit Spiegel",
+    "fr": "Présentoir mural à deux niveaux avec miroir",
+    "ar": "ستاند جداري بطابقين ومرآة"
+  },
+  "descs": {
+    "tr": "Meyve ve sebzeyi iki katta sergileyen aynalı duvar standı.",
+    "en": "Mirrored wall stand displaying produce on two levels.",
+    "de": "Wandregal mit Spiegel, das Obst und Gemüse auf zwei Ebenen präsentiert.",
+    "fr": "Meuble mural avec miroir présentant les produits sur deux niveaux.",
+    "ar": "ستاند جداري بمرآة يعرض الخضار والفواكه على مستويين."
+  },
+  "images": [
+    "media/products/2-katli-aynali-duvar-teshir-standi-1.webp",
+    "media/products/2-katli-aynali-duvar-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-2-katli-aynali-duvar-meyve-ve-sebze-teshir-standi/"
+}

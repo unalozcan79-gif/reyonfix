@@ -1,0 +1,28 @@
+{
+  "id": 38,
+  "category": "Manav Ekipmanları",
+  "code": "DE-33",
+  "order": 200,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Aynasız Kısa Manav Tezgahı",
+    "en": "Low Produce Counter without Mirror",
+    "de": "Niedrige Gemüsetheke ohne Spiegel",
+    "fr": "Comptoir bas sans miroir",
+    "ar": "طاولة خضار منخفضة بدون مرآة"
+  },
+  "descs": {
+    "tr": "Ahşap kaplamalı, kısa ve kullanışlı duvar tezgahı.",
+    "en": "Compact wood-clad wall counter.",
+    "de": "Kompakte, holzverkleidete Wandtheke.",
+    "fr": "Comptoir mural compact habillé de bois.",
+    "ar": "طاولة جدارية مدمجة مكسوة بالخشب."
+  },
+  "images": [
+    "media/products/aynasiz-kisa-manav-tezgahi-1.webp",
+    "media/products/aynasiz-kisa-manav-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynasiz-kisa-manav-tezgahi/"
+}

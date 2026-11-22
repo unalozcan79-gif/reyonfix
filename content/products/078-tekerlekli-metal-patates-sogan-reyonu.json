@@ -1,0 +1,29 @@
+{
+  "id": 78,
+  "category": "Manav Ekipmanları",
+  "code": "PR-29",
+  "order": 170,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Tekerlekli Metal Patates-Soğan Reyonu",
+    "en": "Mobile Metal Potato & Onion Unit",
+    "de": "Mobile Metalleinheit für Kartoffeln & Zwiebeln",
+    "fr": "Meuble mobile métal pommes de terre et oignons",
+    "ar": "وحدة معدنية متنقلة للبطاطا والبصل"
+  },
+  "descs": {
+    "tr": "Patates ve soğan satışı için dayanıklı metal reyon.",
+    "en": "Durable metal unit for potato and onion sales.",
+    "de": "Langlebige Metalleinheit für den Kartoffel- und Zwiebelverkauf.",
+    "fr": "Meuble métal durable pour la vente de pommes de terre et oignons.",
+    "ar": "وحدة معدنية متينة لبيع البطاطا والبصل."
+  },
+  "images": [
+    "media/products/tekerlekli-metal-patates-sogan-reyonu-1.webp",
+    "media/products/tekerlekli-metal-patates-sogan-reyonu-2.webp",
+    "media/products/tekerlekli-metal-patates-sogan-reyonu-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-havuzlu-metal-patates-sogan-reyonu/"
+}

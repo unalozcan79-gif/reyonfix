@@ -1,0 +1,29 @@
+{
+  "id": 198,
+  "category": "Promosyon Stand",
+  "code": "HP-SKP-21",
+  "order": 60,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Orta Alan Promosyon Standı",
+    "en": "Island Promotion Stand",
+    "de": "Mittelraum-Aktionsstand",
+    "fr": "Présentoir promotionnel central",
+    "ar": "ستاند عروض وسطي"
+  },
+  "descs": {
+    "tr": "Kampanyalı ürünleri öne çıkaran promosyon standı.",
+    "en": "Promotion stand that puts offers in the spotlight.",
+    "de": "Aktionsstand, der Angebote in den Mittelpunkt stellt.",
+    "fr": "Présentoir qui met les offres en avant.",
+    "ar": "ستاند يضع العروض في دائرة الضوء."
+  },
+  "images": [
+    "media/products/orta-alan-promosyon-standi-1.webp",
+    "media/products/orta-alan-promosyon-standi-2.webp",
+    "media/products/orta-alan-promosyon-standi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/markte-orta-alan-promosyon-standi/"
+}

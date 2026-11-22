@@ -1,0 +1,29 @@
+{
+  "id": 74,
+  "category": "Manav Ekipmanları",
+  "code": "HP-5",
+  "order": 150,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Tekerlekli Patates-Soğan Havuzu",
+    "en": "Mobile Potato & Onion Bin",
+    "de": "Mobiler Behälter für Kartoffeln & Zwiebeln",
+    "fr": "Bac mobile pommes de terre et oignons",
+    "ar": "حوض متنقل للبطاطا والبصل"
+  },
+  "descs": {
+    "tr": "Derin ve sağlam hazneli, orta alan patates-soğan havuzu.",
+    "en": "Deep, sturdy island bin for potatoes and onions.",
+    "de": "Tiefer, robuster Inselbehälter für Kartoffeln und Zwiebeln.",
+    "fr": "Bac îlot profond et robuste pour pommes de terre et oignons.",
+    "ar": "حوض وسطي عميق ومتين للبطاطا والبصل."
+  },
+  "images": [
+    "media/products/tekerlekli-patates-sogan-havuzu-1.webp",
+    "media/products/tekerlekli-patates-sogan-havuzu-2.webp",
+    "media/products/tekerlekli-patates-sogan-havuzu-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-patates-sogan-havuzu-patates-sogan-reyonu/"
+}

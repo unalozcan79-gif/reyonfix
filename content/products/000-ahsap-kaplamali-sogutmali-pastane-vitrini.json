@@ -1,0 +1,27 @@
+{
+  "id": 0,
+  "category": "Cafe Pastane Ekipmanları",
+  "code": "Hp-Bnk-5 UA525",
+  "order": 100,
+  "vitrin": [
+    "firin"
+  ],
+  "names": {
+    "tr": "Ahşap Kaplamalı Soğutmalı Pastane Vitrini",
+    "en": "Wood-Clad Refrigerated Patisserie Showcase",
+    "de": "Kühlvitrine für Konditoreien mit Holzverkleidung",
+    "fr": "Vitrine réfrigérée pour pâtisserie habillée de bois",
+    "ar": "واجهة حلويات مبردة مكسوة بالخشب"
+  },
+  "descs": {
+    "tr": "Ahşap kaplama ile ticari soğutmayı birleştiren, kafe ve pastaneler için modern teşhir vitrini.",
+    "en": "Modern display case combining wood cladding with commercial refrigeration for cafés and patisseries.",
+    "de": "Moderne Vitrine mit Holzverkleidung und gewerblicher Kühlung für Cafés und Konditoreien.",
+    "fr": "Vitrine moderne associant habillage bois et froid professionnel pour cafés et pâtisseries.",
+    "ar": "واجهة عرض حديثة تجمع الكسوة الخشبية والتبريد التجاري للمقاهي ومحلات الحلويات."
+  },
+  "images": [
+    "media/products/ahsap-kaplamali-sogutmali-pastane-vitrini-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/ahsap-kaplamali-modern-pastane-ve-sogutmali-teshir-vitrini/"
+}

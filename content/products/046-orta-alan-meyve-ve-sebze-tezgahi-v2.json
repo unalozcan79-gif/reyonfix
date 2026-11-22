@@ -1,0 +1,26 @@
+{
+  "id": 46,
+  "category": "Manav Ekipmanları",
+  "code": "FR 37_D1200 V-2",
+  "order": 1340,
+  "vitrin": [],
+  "names": {
+    "tr": "Orta Alan Meyve ve Sebze Tezgahı V2",
+    "en": "Island Produce Counter V2",
+    "de": "Insel-Obsttheke V2",
+    "fr": "Îlot fruits et légumes V2",
+    "ar": "طاولة جزيرة للخضار V2"
+  },
+  "descs": {
+    "tr": "Modüler yapıda, kolay kurulan orta alan tezgahı.",
+    "en": "Modular island counter that is quick to install.",
+    "de": "Modulare Inseltheke, schnell zu montieren.",
+    "fr": "Îlot modulaire rapide à installer.",
+    "ar": "طاولة وسطية معيارية سريعة التركيب."
+  },
+  "images": [
+    "media/products/orta-alan-meyve-ve-sebze-tezgahi-v2-1.webp",
+    "media/products/orta-alan-meyve-ve-sebze-tezgahi-v2-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-orta-alan-tezgahi/"
+}

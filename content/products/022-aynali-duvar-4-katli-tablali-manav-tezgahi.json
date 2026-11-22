@@ -1,0 +1,28 @@
+{
+  "id": 22,
+  "category": "Manav Ekipmanları",
+  "code": "Og-2 Tablalı",
+  "order": 60,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "Aynalı Duvar 4 Katlı Tablalı Manav Tezgahı",
+    "en": "Mirrored 4-Tier Produce Counter",
+    "de": "Vierstöckige Gemüsetheke mit Spiegel",
+    "fr": "Comptoir à quatre niveaux avec miroir",
+    "ar": "طاولة خضار بأربعة طوابق ومرآة"
+  },
+  "descs": {
+    "tr": "Duvar boyunca kullanılan, tablalı ve aynalı manav tezgahı.",
+    "en": "Mirrored produce counter with trays for wall installation.",
+    "de": "Gemüsetheke mit Spiegel und Schalen für die Wandmontage.",
+    "fr": "Comptoir primeur avec miroir et plateaux pour installation murale.",
+    "ar": "طاولة خضار بمرآة وصوانٍ للتركيب على الجدار."
+  },
+  "images": [
+    "media/products/aynali-duvar-4-katli-tablali-manav-tezgahi-1.webp",
+    "media/products/aynali-duvar-4-katli-tablali-manav-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-aynali-4-katli-tablali-manav-tezgahi/"
+}

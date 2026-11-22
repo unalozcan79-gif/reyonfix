@@ -1,0 +1,26 @@
+{
+  "id": 35,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 1230,
+  "vitrin": [],
+  "names": {
+    "tr": "Tekerlekli Orta Alan Patates-Soğan Tezgahı",
+    "en": "Mobile Island Potato & Onion Counter",
+    "de": "Mobile Insel-Theke für Kartoffeln & Zwiebeln",
+    "fr": "Îlot mobile pommes de terre et oignons",
+    "ar": "طاولة جزيرة متنقلة للبطاطا والبصل"
+  },
+  "descs": {
+    "tr": "Derin hazneli, kolay taşınan patates-soğan tezgahı.",
+    "en": "Deep-bin mobile counter for potatoes and onions.",
+    "de": "Mobile Theke mit tiefen Behältern für Kartoffeln und Zwiebeln.",
+    "fr": "Comptoir mobile à bacs profonds pour pommes de terre et oignons.",
+    "ar": "طاولة متنقلة بأحواض عميقة للبطاطا والبصل."
+  },
+  "images": [
+    "media/products/tekerlekli-orta-alan-patates-sogan-tezgahi-1.webp",
+    "media/products/tekerlekli-orta-alan-patates-sogan-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-patates-sogan-tezgahi/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 163,
+  "category": "Market Ekipmanlari",
+  "code": "HP-EM-2",
+  "order": 1060,
+  "vitrin": [],
+  "names": {
+    "tr": "Tekerli Evye Tezgahı",
+    "en": "Mobile Sink Counter",
+    "de": "Mobile Spülbeckentheke",
+    "fr": "Comptoir évier mobile",
+    "ar": "طاولة مغسلة متنقلة"
+  },
+  "descs": {
+    "tr": "Satış alanlarında pratik kullanım için tekerli evye.",
+    "en": "Mobile sink for practical use in sales areas.",
+    "de": "Mobiles Spülbecken für den praktischen Einsatz im Verkaufsbereich.",
+    "fr": "Évier mobile pour un usage pratique en surface de vente.",
+    "ar": "مغسلة متنقلة للاستخدام العملي في مساحة البيع."
+  },
+  "images": [
+    "media/products/tekerli-evye-tezgahi-1.webp",
+    "media/products/tekerli-evye-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-evye-tezgahi/"
+}

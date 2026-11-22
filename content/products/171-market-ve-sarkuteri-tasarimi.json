@@ -1,0 +1,26 @@
+{
+  "id": 171,
+  "category": "Market Ekipmanlari",
+  "code": "",
+  "order": 1130,
+  "vitrin": [],
+  "names": {
+    "tr": "Market ve Şarküteri Tasarımı",
+    "en": "Store & Deli Design",
+    "de": "Laden- & Feinkostdesign",
+    "fr": "Conception de magasin et d’épicerie fine",
+    "ar": "تصميم المتاجر ومحلات الأطعمة الفاخرة"
+  },
+  "descs": {
+    "tr": "Amaca yönelik, anahtar teslim market mimarisi.",
+    "en": "Purpose-driven, turnkey store architecture.",
+    "de": "Zweckorientierte Ladenarchitektur schlüsselfertig.",
+    "fr": "Architecture commerciale clés en main, pensée pour l’usage.",
+    "ar": "عمارة متجر متكاملة جاهزة للتسليم."
+  },
+  "images": [
+    "media/products/market-ve-sarkuteri-tasarimi-1.webp",
+    "media/products/market-ve-sarkuteri-tasarimi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tasarimi-sarkuteri-dizayni/"
+}

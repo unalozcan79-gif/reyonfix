@@ -1,0 +1,29 @@
+{
+  "id": 194,
+  "category": "Promosyon Stand",
+  "code": "HP-KR-1",
+  "order": 40,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Tekerli Kiraz ve Erik Standı",
+    "en": "Mobile Cherry & Plum Stand",
+    "de": "Mobiler Kirschen- und Pflaumenstand",
+    "fr": "Présentoir mobile cerises et prunes",
+    "ar": "ستاند متنقل للكرز والخوخ"
+  },
+  "descs": {
+    "tr": "Kısa sezon meyveleri için hijyenik tekerli stand.",
+    "en": "Hygienic mobile stand for short-season fruits.",
+    "de": "Hygienischer, mobiler Stand für Saisonobst.",
+    "fr": "Présentoir mobile et hygiénique pour les fruits de saison courte.",
+    "ar": "ستاند متنقل وصحي لفواكه الموسم القصير."
+  },
+  "images": [
+    "media/products/tekerli-kiraz-ve-erik-standi-1.webp",
+    "media/products/tekerli-kiraz-ve-erik-standi-2.webp",
+    "media/products/tekerli-kiraz-ve-erik-standi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-orta-alan-tekerli-kiraz-ve-erik-standi/"
+}

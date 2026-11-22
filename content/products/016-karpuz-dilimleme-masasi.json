@@ -1,0 +1,26 @@
+{
+  "id": 16,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 1060,
+  "vitrin": [],
+  "names": {
+    "tr": "Karpuz Dilimleme Masası",
+    "en": "Watermelon Cutting Table",
+    "de": "Wassermelonen-Schneidetisch",
+    "fr": "Table de découpe de pastèques",
+    "ar": "طاولة تقطيع البطيخ"
+  },
+  "descs": {
+    "tr": "Güvenli, hijyenik ve dayanıklı karpuz kesim tezgahı.",
+    "en": "Safe, hygienic and durable watermelon cutting table.",
+    "de": "Sicherer, hygienischer und langlebiger Schneidetisch für Melonen.",
+    "fr": "Table de découpe sûre, hygiénique et durable.",
+    "ar": "طاولة تقطيع آمنة وصحية ومتينة."
+  },
+  "images": [
+    "media/products/karpuz-dilimleme-masasi-1.webp",
+    "media/products/karpuz-dilimleme-masasi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/karpuz-dilimleme-masasi/"
+}

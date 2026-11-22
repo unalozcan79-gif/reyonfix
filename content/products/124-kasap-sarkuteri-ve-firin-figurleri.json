@@ -1,0 +1,26 @@
+{
+  "id": 124,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "HP-dk-15 figür",
+  "order": 1160,
+  "vitrin": [],
+  "names": {
+    "tr": "Kasap, Şarküteri ve Fırın Figürleri",
+    "en": "Butcher, Deli & Bakery Figures",
+    "de": "Figuren für Metzgerei, Feinkost & Bäckerei",
+    "fr": "Figurines boucherie, traiteur et boulangerie",
+    "ar": "مجسمات للحوم والأجبان والمخبوزات"
+  },
+  "descs": {
+    "tr": "Reyonları tanıtan dekoratif figür ve tabelalar.",
+    "en": "Decorative figures and signs that identify sections.",
+    "de": "Dekorative Figuren und Schilder zur Kennzeichnung der Abteilungen.",
+    "fr": "Figurines et enseignes décoratives qui identifient les rayons.",
+    "ar": "مجسمات ولافتات ديكورية تحدد الأقسام."
+  },
+  "images": [
+    "media/products/kasap-sarkuteri-ve-firin-figurleri-1.webp",
+    "media/products/kasap-sarkuteri-ve-firin-figurleri-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/supermarket-kasap-sarkuteri-unlu-mamul-figuru/"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 103,
+  "category": "Unlu Mamul & Fırın Ekipmanları",
+  "code": "HM-16",
+  "order": 30,
+  "vitrin": [
+    "firin"
+  ],
+  "names": {
+    "tr": "Fırın ve Unlu Mamul Dükkanı",
+    "en": "Bakery Shop Fit-Out",
+    "de": "Bäckerei-Komplettausstattung",
+    "fr": "Aménagement complet de boulangerie",
+    "ar": "تجهيز متكامل للمخابز"
+  },
+  "descs": {
+    "tr": "Unlu mamul dükkanları için anahtar teslim mağaza çözümü.",
+    "en": "Turnkey store solution for bakery shops.",
+    "de": "Schlüsselfertige Einrichtung für Bäckereien.",
+    "fr": "Solution clé en main pour les boulangeries.",
+    "ar": "حل متكامل جاهز لمحلات المخابز."
+  },
+  "images": [
+    "media/products/firin-ve-unlu-mamul-dukkani-1.webp",
+    "media/products/firin-ve-unlu-mamul-dukkani-2.webp",
+    "media/products/firin-ve-unlu-mamul-dukkani-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/bakery-shop-unlu-mamul-dukkani/"
+}

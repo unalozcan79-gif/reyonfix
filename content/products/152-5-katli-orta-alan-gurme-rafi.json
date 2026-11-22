@@ -1,0 +1,28 @@
+{
+  "id": 152,
+  "category": "Şarküteri Ekipmanlari",
+  "code": "",
+  "order": 110,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "5 Katlı Orta Alan Gurme Rafı",
+    "en": "5-Tier Island Gourmet Shelf",
+    "de": "Fünfstöckiges Gourmet-Mittelraumregal",
+    "fr": "Gondole gourmet centrale à cinq niveaux",
+    "ar": "رف وسطي للأطعمة الفاخرة بخمسة طوابق"
+  },
+  "descs": {
+    "tr": "Gurme ve promosyon ürünleri için yüksek kapasiteli raf.",
+    "en": "High-capacity shelf for gourmet and promotional items.",
+    "de": "Regal mit hoher Kapazität für Gourmet- und Aktionsware.",
+    "fr": "Grande capacité pour produits gourmets et promotionnels.",
+    "ar": "رف عالي السعة لمنتجات الأطعمة الفاخرة والعروض."
+  },
+  "images": [
+    "media/products/5-katli-orta-alan-gurme-rafi-1.webp",
+    "media/products/5-katli-orta-alan-gurme-rafi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-sarkuteri-orta-alan-gurme-rafi/"
+}

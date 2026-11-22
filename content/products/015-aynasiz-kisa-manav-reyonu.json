@@ -1,0 +1,26 @@
+{
+  "id": 15,
+  "category": "Manav Ekipmanları",
+  "code": "Hpr-Rewe-Ort 1",
+  "order": 1050,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynasız Kısa Manav Reyonu",
+    "en": "Low Produce Unit",
+    "de": "Niedrige Obst- & Gemüseeinheit",
+    "fr": "Meuble bas fruits et légumes",
+    "ar": "وحدة منخفضة للخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Verimliliği ve müşteri deneyimini artıran modern, alçak manav reyonu.",
+    "en": "Modern low produce unit improving efficiency and customer experience.",
+    "de": "Moderne, niedrige Einheit für mehr Effizienz und Kundenkomfort.",
+    "fr": "Meuble bas moderne pour plus d’efficacité et de confort client.",
+    "ar": "وحدة منخفضة حديثة تزيد الكفاءة وراحة الزبائن."
+  },
+  "images": [
+    "media/products/aynasiz-kisa-manav-reyonu-1.webp",
+    "media/products/aynasiz-kisa-manav-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/aynasiz-kisa-manav-reyonu/"
+}

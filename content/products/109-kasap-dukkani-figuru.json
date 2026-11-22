@@ -1,0 +1,26 @@
+{
+  "id": 109,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "Hp-Dkr-Aks 12 500",
+  "order": 1010,
+  "vitrin": [],
+  "names": {
+    "tr": "Kasap Dükkanı Figürü",
+    "en": "Butcher Shop Animal Figures",
+    "de": "Tierfiguren für Metzgereien",
+    "fr": "Figurines animales pour boucherie",
+    "ar": "مجسمات حيوانات لمحلات اللحوم"
+  },
+  "descs": {
+    "tr": "Ahşap oymalı kuzu, tavuk ve inek figürleriyle güven veren dekor.",
+    "en": "Carved wooden lamb, chicken and cow figures for butcher shops.",
+    "de": "Geschnitzte Holzfiguren von Lamm, Huhn und Rind für Metzgereien.",
+    "fr": "Figurines en bois sculpté d’agneau, poulet et vache.",
+    "ar": "مجسمات خشبية منحوتة لخروف ودجاجة وبقرة."
+  },
+  "images": [
+    "media/products/kasap-dukkani-figuru-1.webp",
+    "media/products/kasap-dukkani-figuru-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/kasap-dukkani-figuru/"
+}

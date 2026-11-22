@@ -1,0 +1,25 @@
+{
+  "id": 195,
+  "category": "Promosyon Stand",
+  "code": "HP-SK-101",
+  "order": 1030,
+  "vitrin": [],
+  "names": {
+    "tr": "Tekerli Şarküteri Kağnı Tezgahı",
+    "en": "Mobile Oxcart Deli Counter",
+    "de": "Mobile Ochsenkarren-Feinkosttheke",
+    "fr": "Comptoir traiteur mobile charrette à bœufs",
+    "ar": "طاولة أطعمة باردة متنقلة بشكل عربة ثيران"
+  },
+  "descs": {
+    "tr": "Şarküteri ürünlerini kağnı formunda sunar.",
+    "en": "Presents deli products in a traditional oxcart form.",
+    "de": "Präsentiert Feinkost in Form eines traditionellen Ochsenkarrens.",
+    "fr": "Présente le traiteur sous la forme d’une charrette traditionnelle.",
+    "ar": "تعرض الأطعمة الباردة على شكل عربة ثيران تقليدية."
+  },
+  "images": [
+    "media/products/tekerli-sarkuteri-kagni-tezgahi-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-tekerli-sarkuteri-tezgahi-kagni/"
+}

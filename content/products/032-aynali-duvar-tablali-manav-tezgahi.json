@@ -1,0 +1,26 @@
+{
+  "id": 32,
+  "category": "Manav Ekipmanları",
+  "code": "HP 62",
+  "order": 1200,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Duvar Tablalı Manav Tezgahı",
+    "en": "Mirrored Wall Counter with Trays",
+    "de": "Wandtheke mit Spiegel und Tablaren",
+    "fr": "Comptoir mural à miroir avec plateaux",
+    "ar": "طاولة جدارية بمرآة وصوانٍ"
+  },
+  "descs": {
+    "tr": "Tablalı yapısıyla geniş sunum alanı sağlayan duvar tezgahı.",
+    "en": "Wall counter with trays offering a large display area.",
+    "de": "Wandtheke mit Tablaren für eine große Präsentationsfläche.",
+    "fr": "Comptoir mural à plateaux offrant une grande surface d’exposition.",
+    "ar": "طاولة جدارية بصوانٍ توفر مساحة عرض كبيرة."
+  },
+  "images": [
+    "media/products/aynali-duvar-tablali-manav-tezgahi-1.webp",
+    "media/products/aynali-duvar-tablali-manav-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-tablali-manav-dukkani-tezgahi/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 178,
+  "category": "Vitamin Bar & Kiosk Bar",
+  "code": "",
+  "order": 1010,
+  "vitrin": [],
+  "names": {
+    "tr": "Taze Mısır Sunum Tezgahı",
+    "en": "Fresh Corn Kiosk",
+    "de": "Maiskiosk",
+    "fr": "Kiosque à maïs",
+    "ar": "كشك الذرة"
+  },
+  "descs": {
+    "tr": "Tekerlekli, hijyenik mısır satış tezgahı.",
+    "en": "Mobile, hygienic corn sales counter.",
+    "de": "Mobile, hygienische Theke für den Maisverkauf.",
+    "fr": "Comptoir mobile et hygiénique pour la vente de maïs.",
+    "ar": "طاولة متنقلة وصحية لبيع الذرة."
+  },
+  "images": [
+    "media/products/taze-misir-sunum-tezgahi-1.webp",
+    "media/products/taze-misir-sunum-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/taze-misir-sunum-tezgahi-vitamin-bar/"
+}

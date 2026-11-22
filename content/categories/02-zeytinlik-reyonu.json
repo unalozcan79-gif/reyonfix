@@ -1,0 +1,19 @@
+{
+  "key": "Zeytinlik Reyonu",
+  "order": 20,
+  "names": {
+    "tr": "Zeytinlik Reyonu",
+    "en": "Olive Bars",
+    "de": "Oliventheken",
+    "fr": "Comptoirs à olives",
+    "ar": "طاولات الزيتون"
+  },
+  "descs": {
+    "tr": "Zeytin, salata ve meze için hijyenik ve şık sunum tezgahları.",
+    "en": "Hygienic, stylish counters for olives, salads and meze.",
+    "de": "Hygienische, elegante Theken für Oliven, Salate und Meze.",
+    "fr": "Comptoirs hygiéniques et élégants pour olives, salades et mezzés.",
+    "ar": "طاولات أنيقة وصحية للزيتون والسلطات والمقبلات."
+  },
+  "image": "media/products/tekerlekli-zeytin-ve-gida-teshir-tezgahi-1.webp"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 181,
+  "category": "Vitamin Bar & Kiosk Bar",
+  "code": "",
+  "order": 1040,
+  "vitrin": [],
+  "names": {
+    "tr": "Fresh Juice ve Vitamin Bar Standı",
+    "en": "Fresh Juice & Vitamin Bar Stand",
+    "de": "Saftbar- & Vitamin-Bar-Stand",
+    "fr": "Stand bar à jus et vitamines",
+    "ar": "ستاند عصائر وفيتامين بار"
+  },
+  "descs": {
+    "tr": "Taze meyve suyu ve satış standı olarak kullanılabilir.",
+    "en": "Can be used as a fresh juice bar or retail stand.",
+    "de": "Als Saftbar oder als Verkaufsstand nutzbar.",
+    "fr": "Utilisable comme bar à jus frais ou stand de vente.",
+    "ar": "يُستخدم كبار عصائر طازجة أو كستاند بيع."
+  },
+  "images": [
+    "media/products/fresh-juice-ve-vitamin-bar-standi-1.webp",
+    "media/products/fresh-juice-ve-vitamin-bar-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-fresh-juice-vitamin-bar-taki-standi/"
+}

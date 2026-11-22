@@ -1,0 +1,26 @@
+{
+  "id": 120,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "",
+  "order": 1120,
+  "vitrin": [],
+  "names": {
+    "tr": "Manav Üst Tavan Dekoru",
+    "en": "Produce Section Ceiling Décor",
+    "de": "Deckendekoration für Obst & Gemüse",
+    "fr": "Décor de plafond fruits et légumes",
+    "ar": "ديكور سقف قسم الخضار"
+  },
+  "descs": {
+    "tr": "Manav bölümünü öne çıkaran tavan dekoru.",
+    "en": "Ceiling décor that highlights the produce section.",
+    "de": "Deckendekoration, die die Obstabteilung hervorhebt.",
+    "fr": "Décor de plafond qui met en avant le rayon fruits et légumes.",
+    "ar": "ديكور سقف يُبرز قسم الخضار والفواكه."
+  },
+  "images": [
+    "media/products/manav-ust-tavan-dekoru-1.webp",
+    "media/products/manav-ust-tavan-dekoru-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-manav-ust-tavan-dekoru/"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 107,
+  "category": "Unlu Mamul & Fırın Ekipmanları",
+  "code": "HM-7",
+  "order": 40,
+  "vitrin": [
+    "firin"
+  ],
+  "names": {
+    "tr": "Aynasız Kısa Açık Ekmek Rafı",
+    "en": "Low Open Bread Rack",
+    "de": "Niedriges offenes Brotregal",
+    "fr": "Étagère basse ouverte pour le pain",
+    "ar": "رف خبز منخفض مفتوح"
+  },
+  "descs": {
+    "tr": "Ekmek, pasta ve börek için kısa açık raf.",
+    "en": "Low open rack for bread, cakes and pastries.",
+    "de": "Niedriges, offenes Regal für Brot, Kuchen und Gebäck.",
+    "fr": "Étagère basse ouverte pour pains, gâteaux et viennoiseries.",
+    "ar": "رف منخفض مفتوح للخبز والكيك والمعجنات."
+  },
+  "images": [
+    "media/products/aynasiz-kisa-acik-ekmek-rafi-1.webp",
+    "media/products/aynasiz-kisa-acik-ekmek-rafi-2.webp",
+    "media/products/aynasiz-kisa-acik-ekmek-rafi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynasiz-kisa-acik-unlu-mamul-rafi-ekmek-rafi/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 188,
+  "category": "Vitamin Bar & Kiosk Bar",
+  "code": "",
+  "order": 1100,
+  "vitrin": [],
+  "names": {
+    "tr": "Donut Kiosk ve Satış Kabini",
+    "en": "Donut Kiosk & Sales Cabin",
+    "de": "Donut-Kiosk & Verkaufskabine",
+    "fr": "Kiosque et cabine de vente de donuts",
+    "ar": "كشك ومقصورة بيع الدونات"
+  },
+  "descs": {
+    "tr": "Cadde ve AVM'ler için kapalı satış kabini.",
+    "en": "Enclosed sales cabin for streets and malls.",
+    "de": "Geschlossene Verkaufskabine für Straßen und Einkaufszentren.",
+    "fr": "Cabine de vente fermée pour rues et centres commerciaux.",
+    "ar": "مقصورة بيع مغلقة للشوارع ومراكز التسوق."
+  },
+  "images": [
+    "media/products/donut-kiosk-ve-satis-kabini-1.webp",
+    "media/products/donut-kiosk-ve-satis-kabini-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/donust-kiosk-satis-kabini/"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 47,
+  "category": "Manav Ekipmanları",
+  "code": "FR 37_D1600V1",
+  "order": 190,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Orta Alan Paslanmaz Manav Tezgahı",
+    "en": "Stainless Island Produce Counter",
+    "de": "Edelstahl-Mittelraumtheke",
+    "fr": "Comptoir central en inox",
+    "ar": "طاولة وسطية من الستانلس ستيل"
+  },
+  "descs": {
+    "tr": "Ahşap ve paslanmaz çelik birleşimli modüler tezgah.",
+    "en": "Modular counter combining wood and stainless steel.",
+    "de": "Modulare Theke aus Holz und Edelstahl.",
+    "fr": "Comptoir modulaire associant bois et acier inoxydable.",
+    "ar": "طاولة معيارية تجمع الخشب والستانلس ستيل."
+  },
+  "images": [
+    "media/products/orta-alan-paslanmaz-manav-tezgahi-1.webp",
+    "media/products/orta-alan-paslanmaz-manav-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-paslanmaz-meyve-ve-sebze-tezgahi/"
+}

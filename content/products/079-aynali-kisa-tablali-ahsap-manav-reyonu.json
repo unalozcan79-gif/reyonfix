@@ -1,0 +1,29 @@
+{
+  "id": 79,
+  "category": "Manav Ekipmanları",
+  "code": "HP-10",
+  "order": 50,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Aynalı Kısa Tablalı Ahşap Manav Reyonu",
+    "en": "Mirrored Low Wooden Tray Unit",
+    "de": "Niedriges Holzregal mit Schalen und Spiegel",
+    "fr": "Meuble bas en bois à plateaux avec miroir",
+    "ar": "وحدة خشبية منخفضة بصوانٍ ومرآة"
+  },
+  "descs": {
+    "tr": "Kısa duvarlar için tablalı ve aynalı ahşap reyon.",
+    "en": "Mirrored wooden tray unit for low walls.",
+    "de": "Holzregal mit Schalen und Spiegel für niedrige Wände.",
+    "fr": "Meuble en bois à plateaux avec miroir pour murs bas.",
+    "ar": "وحدة خشبية بصوانٍ ومرآة للجدران المنخفضة."
+  },
+  "images": [
+    "media/products/aynali-kisa-tablali-ahsap-manav-reyonu-1.webp",
+    "media/products/aynali-kisa-tablali-ahsap-manav-reyonu-2.webp",
+    "media/products/aynali-kisa-tablali-ahsap-manav-reyonu-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-tipi-aynali-kisa-tablali-ahsap-manav-reyonu/"
+}

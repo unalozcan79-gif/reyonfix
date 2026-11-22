@@ -1,0 +1,28 @@
+{
+  "id": 26,
+  "category": "Manav Ekipmanları",
+  "code": "OG-2",
+  "order": 40,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "Aynalı Duvar 3 Katlı Manav Tezgahı",
+    "en": "Mirrored 3-Tier Produce Counter",
+    "de": "Dreistöckige Gemüsetheke mit Spiegel",
+    "fr": "Comptoir à trois niveaux avec miroir",
+    "ar": "طاولة خضار بثلاثة طوابق ومرآة"
+  },
+  "descs": {
+    "tr": "Ürünleri üç katta düzenli ve erişilebilir sunan duvar tezgahı.",
+    "en": "Wall counter presenting produce neatly on three levels.",
+    "de": "Wandtheke, die Obst und Gemüse ordentlich auf drei Ebenen präsentiert.",
+    "fr": "Comptoir mural présentant les produits avec soin sur trois niveaux.",
+    "ar": "طاولة جدارية تعرض الخضار والفواكه بترتيب على ثلاثة مستويات."
+  },
+  "images": [
+    "media/products/aynali-duvar-3-katli-manav-tezgahi-1.webp",
+    "media/products/aynali-duvar-3-katli-manav-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-3-katli-meyve-ve-sebze-tezgahi/"
+}

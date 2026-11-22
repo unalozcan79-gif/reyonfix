@@ -1,0 +1,26 @@
+{
+  "id": 134,
+  "category": "Zeytinlik Reyonu",
+  "code": "",
+  "order": 1010,
+  "vitrin": [],
+  "names": {
+    "tr": "Çatılı Zeytin Tezgahı",
+    "en": "Canopied Olive Counter",
+    "de": "Überdachte Olivenbar",
+    "fr": "Bar à olives avec auvent",
+    "ar": "بار زيتون بمظلة"
+  },
+  "descs": {
+    "tr": "Çatılı ve tekerlekli, ahşap zeytin sunum tezgahı.",
+    "en": "Wooden, mobile olive counter with canopy.",
+    "de": "Mobile Olivenbar aus Holz mit Überdachung.",
+    "fr": "Bar à olives mobile en bois avec auvent.",
+    "ar": "بار زيتون خشبي متنقل بمظلة."
+  },
+  "images": [
+    "media/products/catili-zeytin-tezgahi-1.webp",
+    "media/products/catili-zeytin-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/catili-zeytin-tezgahi/"
+}

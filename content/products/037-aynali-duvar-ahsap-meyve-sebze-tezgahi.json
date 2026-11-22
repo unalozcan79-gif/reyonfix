@@ -1,0 +1,26 @@
+{
+  "id": 37,
+  "category": "Manav Ekipmanları",
+  "code": "HP-1",
+  "order": 1250,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Duvar Ahşap Meyve-Sebze Tezgahı",
+    "en": "Mirrored Wooden Produce Counter",
+    "de": "Obst- & Gemüse-Wandtheke aus Holz mit Spiegel",
+    "fr": "Comptoir mural bois à miroir fruits et légumes",
+    "ar": "طاولة جدارية خشبية بمرآة للخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Ahşap ile metalin uyumlu birleşiminden üretilen duvar tezgahı.",
+    "en": "Wall counter crafted from a balanced mix of wood and metal.",
+    "de": "Wandtheke aus einer ausgewogenen Kombination von Holz und Metall.",
+    "fr": "Comptoir mural associant harmonieusement bois et métal.",
+    "ar": "طاولة جدارية تجمع الخشب والمعدن بتناسق."
+  },
+  "images": [
+    "media/products/aynali-duvar-ahsap-meyve-sebze-tezgahi-1.webp",
+    "media/products/aynali-duvar-ahsap-meyve-sebze-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-ahsap-meyve-sebze-tezgahi/"
+}

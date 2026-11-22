@@ -1,0 +1,26 @@
+{
+  "id": 11,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 1010,
+  "vitrin": [],
+  "names": {
+    "tr": "Tekerlekli Kombine Manav Tezgahı",
+    "en": "Mobile Combined Produce Counter",
+    "de": "Mobile Kombi-Theke für Obst & Gemüse",
+    "fr": "Comptoir mobile combiné fruits et légumes",
+    "ar": "طاولة متنقلة مركّبة للخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Yeşillik, patates-soğan ve karpuz bölümlerini tek gövdede toplayan tezgah.",
+    "en": "One mobile unit for greens, potatoes-onions and watermelons.",
+    "de": "Eine mobile Einheit für Blattgemüse, Kartoffeln, Zwiebeln und Melonen.",
+    "fr": "Une seule unité mobile pour légumes verts, pommes de terre, oignons et pastèques.",
+    "ar": "وحدة متنقلة واحدة للخضار الورقية والبطاطا والبصل والبطيخ."
+  },
+  "images": [
+    "media/products/tekerlekli-kombine-manav-tezgahi-1.webp",
+    "media/products/tekerlekli-kombine-manav-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/tekerlekli-kombine-manav-tezgahi-yesillik-patates-sogan-ve-karpuz-tezgahi/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 204,
+  "category": "Çicek Dükkanı Dizaynı",
+  "code": "HTS-1",
+  "order": 1050,
+  "vitrin": [],
+  "names": {
+    "tr": "Ahşap ve Metal Bölme Saksı",
+    "en": "Wood & Metal Planter",
+    "de": "Pflanzkübel aus Holz & Metall",
+    "fr": "Jardinière bois et métal",
+    "ar": "حوض نباتات من الخشب والمعدن"
+  },
+  "descs": {
+    "tr": "Ahşap ve metalden geniş hazneli ekici saksı.",
+    "en": "Wide wood-and-metal planter box.",
+    "de": "Breiter Pflanzkasten aus Holz und Metall.",
+    "fr": "Large bac à plantes en bois et métal.",
+    "ar": "صندوق نباتات عريض من الخشب والمعدن."
+  },
+  "images": [
+    "media/products/ahsap-ve-metal-bolme-saksi-1.webp",
+    "media/products/ahsap-ve-metal-bolme-saksi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-ahsap-saksi-bolme-saksi-metal-saksi/"
+}

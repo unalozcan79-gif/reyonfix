@@ -1,0 +1,29 @@
+{
+  "id": 57,
+  "category": "Manav Ekipmanları",
+  "code": "PR-19",
+  "order": 20,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Aynasız Metal Kavun-Karpuz Tezgahı",
+    "en": "Metal Melon & Watermelon Counter",
+    "de": "Metalltheke für Melonen",
+    "fr": "Comptoir métallique pour melons et pastèques",
+    "ar": "طاولة معدنية للبطيخ والشمام"
+  },
+  "descs": {
+    "tr": "Dayanıklı metal gövdeli kavun-karpuz tezgahı.",
+    "en": "Durable metal counter for melons and watermelons.",
+    "de": "Robuste Metalltheke für Melonen und Wassermelonen.",
+    "fr": "Comptoir métallique robuste pour melons et pastèques.",
+    "ar": "طاولة معدنية متينة للبطيخ والشمام."
+  },
+  "images": [
+    "media/products/aynasiz-metal-kavun-karpuz-tezgahi-1.webp",
+    "media/products/aynasiz-metal-kavun-karpuz-tezgahi-2.webp",
+    "media/products/aynasiz-metal-kavun-karpuz-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynasiz-duvar-metal-kavun-karpuz-tezgahi/"
+}

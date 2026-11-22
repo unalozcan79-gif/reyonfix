@@ -1,0 +1,19 @@
+{
+  "key": "Şarküteri Ekipmanlari",
+  "order": 60,
+  "names": {
+    "tr": "Şarküteri Ekipmanları",
+    "en": "Delicatessen Equipment",
+    "de": "Feinkostausstattung",
+    "fr": "Équipements d’épicerie fine",
+    "ar": "تجهيزات الأطعمة الفاخرة"
+  },
+  "descs": {
+    "tr": "Gurme ve şarküteri ürünleri için raf ve tezgahlar.",
+    "en": "Shelving and counters for gourmet and deli products.",
+    "de": "Regale und Theken für Gourmet- und Feinkostprodukte.",
+    "fr": "Étagères et comptoirs pour produits gourmets et traiteur.",
+    "ar": "رفوف وطاولات لمنتجات الأطعمة الفاخرة والأجبان واللحوم الباردة."
+  },
+  "image": "media/products/4-katli-orta-alan-gurme-rafi-1.webp"
+}

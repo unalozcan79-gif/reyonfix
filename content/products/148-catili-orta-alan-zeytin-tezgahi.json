@@ -1,0 +1,26 @@
+{
+  "id": 148,
+  "category": "Zeytinlik Reyonu",
+  "code": "FR 37_D1085",
+  "order": 1150,
+  "vitrin": [],
+  "names": {
+    "tr": "Çatılı Orta Alan Zeytin Tezgahı",
+    "en": "Canopied Island Olive Counter",
+    "de": "Überdachte Insel-Olivenbar",
+    "fr": "Îlot à olives avec auvent",
+    "ar": "بار زيتون وسطي بمظلة"
+  },
+  "descs": {
+    "tr": "Zeytin ve salata bar için çatılı orta alan tezgahı.",
+    "en": "Canopied island counter for olives and salad bar.",
+    "de": "Überdachte Inseltheke für Oliven und Salatbar.",
+    "fr": "Îlot avec auvent pour olives et bar à salades.",
+    "ar": "طاولة وسطية بمظلة للزيتون وبار السلطات."
+  },
+  "images": [
+    "media/products/catili-orta-alan-zeytin-tezgahi-1.webp",
+    "media/products/catili-orta-alan-zeytin-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-catili-orta-alan-zeytin-teshir-tezgahi/"
+}

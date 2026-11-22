@@ -1,0 +1,26 @@
+{
+  "id": 48,
+  "category": "Manav Ekipmanları",
+  "code": "OG 2",
+  "order": 1360,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Duvar Raflı Manav Reyonu",
+    "en": "Mirrored Wall Shelving Produce Unit",
+    "de": "Wand-Obstregal mit Spiegel",
+    "fr": "Étagère murale à miroir fruits et légumes",
+    "ar": "رف جداري بمرآة للخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Dar alanlar için dikey sepetli, raflı manav reyonu.",
+    "en": "Vertical basket shelving unit for narrow spaces.",
+    "de": "Vertikales Korbregal für schmale Flächen.",
+    "fr": "Étagère verticale à paniers pour espaces étroits.",
+    "ar": "رف سلال عمودي للمساحات الضيقة."
+  },
+  "images": [
+    "media/products/aynali-duvar-rafli-manav-reyonu-1.webp",
+    "media/products/aynali-duvar-rafli-manav-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-rafli-manav-reyonu/"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10,
+  "category": "Cafe Pastane Ekipmanları",
+  "code": "",
+  "order": 90,
+  "vitrin": [
+    "firin"
+  ],
+  "names": {
+    "tr": "Tekerlekli Jelibon ve Şeker Standı",
+    "en": "Mobile Jelly Candy Stand",
+    "de": "Mobiler Fruchtgummi-Stand",
+    "fr": "Présentoir mobile à bonbons gélifiés",
+    "ar": "ستاند متنقل للحلوى الجيلاتينية"
+  },
+  "descs": {
+    "tr": "Market içinde kolayca taşınabilen, renkli şekerleme standı.",
+    "en": "Colourful candy stand that moves easily around the store.",
+    "de": "Farbenfroher Süßwarenstand, leicht im Laden zu verschieben.",
+    "fr": "Présentoir coloré, facile à déplacer dans le magasin.",
+    "ar": "ستاند حلوى ملوّن يسهل تحريكه داخل المتجر."
+  },
+  "images": [
+    "media/products/tekerlekli-jelibon-ve-seker-standi-1.webp",
+    "media/products/tekerlekli-jelibon-ve-seker-standi-2.webp",
+    "media/products/tekerlekli-jelibon-ve-seker-standi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-jelibon-standi-seker-standi/"
+}

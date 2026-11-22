@@ -1,0 +1,26 @@
+{
+  "id": 193,
+  "category": "Promosyon Stand",
+  "code": "HP-SK-100",
+  "order": 1010,
+  "vitrin": [],
+  "names": {
+    "tr": "Tekerli At Arabası Teşhir Standı",
+    "en": "Horse Cart Display Stand",
+    "de": "Pferdekutschen-Präsentation",
+    "fr": "Présentoir charrette à cheval",
+    "ar": "عرض بشكل عربة خيل"
+  },
+  "descs": {
+    "tr": "Doğal ürünleri nostaljik at arabasında sergiler.",
+    "en": "Displays natural products on a nostalgic horse cart.",
+    "de": "Zeigt Naturprodukte auf einer nostalgischen Pferdekutsche.",
+    "fr": "Présente les produits naturels sur une charrette nostalgique.",
+    "ar": "يعرض المنتجات الطبيعية على عربة خيل تقليدية."
+  },
+  "images": [
+    "media/products/tekerli-at-arabasi-teshir-standi-1.webp",
+    "media/products/tekerli-at-arabasi-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-teshir-standi-market-at-arabasi/"
+}

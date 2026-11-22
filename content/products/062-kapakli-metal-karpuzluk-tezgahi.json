@@ -1,0 +1,26 @@
+{
+  "id": 62,
+  "category": "Manav Ekipmanları",
+  "code": "PR-20",
+  "order": 1500,
+  "vitrin": [],
+  "names": {
+    "tr": "Kapaklı Metal Karpuzluk Tezgahı",
+    "en": "Lidded Metal Watermelon Counter",
+    "de": "Abdeckbare Wassermelonentheke aus Metall",
+    "fr": "Comptoir métal à pastèques avec couvercles",
+    "ar": "طاولة بطيخ معدنية مغطاة"
+  },
+  "descs": {
+    "tr": "Dış alanlar için kapaklı, kısa metal karpuz tezgahı.",
+    "en": "Low lidded metal watermelon counter for outdoor use.",
+    "de": "Niedrige, abdeckbare Metalltheke für Melonen im Freien.",
+    "fr": "Comptoir métal bas à couvercles pour l’extérieur.",
+    "ar": "طاولة معدنية منخفضة مغطاة للبطيخ في الخارج."
+  },
+  "images": [
+    "media/products/kapakli-metal-karpuzluk-tezgahi-1.webp",
+    "media/products/kapakli-metal-karpuzluk-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/kapakli-dis-kisa-duvar-tipi-metal-karpuzluk-tezgahi/"
+}

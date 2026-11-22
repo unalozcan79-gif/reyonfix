@@ -1,0 +1,26 @@
+{
+  "id": 128,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "",
+  "order": 1200,
+  "vitrin": [],
+  "names": {
+    "tr": "Kasap ve Şarküteri Figür Dekoru",
+    "en": "Butcher & Deli Figure Décor",
+    "de": "Figurendekoration für Metzgerei & Feinkost",
+    "fr": "Décor à figurines boucherie et traiteur",
+    "ar": "ديكور مجسمات للحوم والأجبان"
+  },
+  "descs": {
+    "tr": "Bıçak, koç, inek ve tavuk figürleriyle ışıklı dekor.",
+    "en": "Illuminated décor with knife, ram, cow and chicken figures.",
+    "de": "Beleuchtete Dekoration mit Messer-, Widder-, Rind- und Huhnfiguren.",
+    "fr": "Décor lumineux avec couteau, bélier, vache et poulet.",
+    "ar": "ديكور مضيء بمجسمات سكين وكبش وبقرة ودجاجة."
+  },
+  "images": [
+    "media/products/kasap-ve-sarkuteri-figur-dekoru-1.webp",
+    "media/products/kasap-ve-sarkuteri-figur-dekoru-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-kasap-etlik-sarkuteri-kasap-bicakkocinektavuk-figur-dekoru/"
+}

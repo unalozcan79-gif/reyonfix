@@ -1,0 +1,28 @@
+{
+  "id": 94,
+  "category": "Yeni Market Ekipmanları",
+  "code": "HP-M-1",
+  "order": 90,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Dönen Muz Teşhir Standı",
+    "en": "Rotating Banana Display",
+    "de": "Drehbarer Bananenständer",
+    "fr": "Présentoir rotatif à bananes",
+    "ar": "ستاند دوّار للموز"
+  },
+  "descs": {
+    "tr": "Muzları her açıdan görünür kılan tekerlekli dönen stand.",
+    "en": "Rotating mobile stand showing bananas from every angle.",
+    "de": "Drehbarer mobiler Ständer, der Bananen von allen Seiten zeigt.",
+    "fr": "Présentoir mobile rotatif qui montre les bananes sous tous les angles.",
+    "ar": "ستاند متنقل دوّار يعرض الموز من كل الجهات."
+  },
+  "images": [
+    "media/products/donen-muz-teshir-standi-1.webp",
+    "media/products/donen-muz-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-donen-muz-teshir-standi/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 169,
+  "category": "Market Ekipmanlari",
+  "code": "HP-B1",
+  "order": 1110,
+  "vitrin": [],
+  "names": {
+    "tr": "Duvar Bal Tezgahı",
+    "en": "Wall Honey Counter",
+    "de": "Wand-Honigtheke",
+    "fr": "Comptoir mural à miel",
+    "ar": "طاولة عسل جدارية"
+  },
+  "descs": {
+    "tr": "Bal ürünlerini en iyi şekilde sunan şarküteri tezgahı.",
+    "en": "Deli counter presenting honey products at their best.",
+    "de": "Feinkosttheke, die Honigprodukte bestens präsentiert.",
+    "fr": "Comptoir d’épicerie fine qui met le miel en valeur.",
+    "ar": "طاولة أطعمة فاخرة تعرض منتجات العسل بأفضل شكل."
+  },
+  "images": [
+    "media/products/duvar-bal-tezgahi-1.webp",
+    "media/products/duvar-bal-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-sarkuteri-duvar-bal-tezgahi/"
+}

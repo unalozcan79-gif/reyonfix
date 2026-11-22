@@ -1,0 +1,26 @@
+{
+  "id": 191,
+  "category": "Tekel Rafları",
+  "code": "",
+  "order": 1040,
+  "vitrin": [],
+  "names": {
+    "tr": "Çekmeceli Sigara Standı",
+    "en": "Cigarette Stand with Drawers",
+    "de": "Zigarettenständer mit Schubladen",
+    "fr": "Présentoir à cigarettes à tiroirs",
+    "ar": "ستاند سجائر بأدراج"
+  },
+  "descs": {
+    "tr": "İtici ve çekmeceli gruplarıyla kasa standı.",
+    "en": "Checkout stand with pushers and drawers.",
+    "de": "Kassenständer mit Vorschubsystem und Schubladen.",
+    "fr": "Présentoir de caisse avec pousseurs et tiroirs.",
+    "ar": "ستاند لمنطقة الدفع بدافعات وأدراج."
+  },
+  "images": [
+    "media/products/cekmeceli-sigara-standi-1.webp",
+    "media/products/cekmeceli-sigara-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-cekmeceli-sigara-standi/"
+}

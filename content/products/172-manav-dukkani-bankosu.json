@@ -1,0 +1,26 @@
+{
+  "id": 172,
+  "category": "Market Ekipmanlari",
+  "code": "PR-39",
+  "order": 1140,
+  "vitrin": [],
+  "names": {
+    "tr": "Manav Dükkanı Bankosu",
+    "en": "Greengrocer Service Counter",
+    "de": "Bedientheke für Obst & Gemüse",
+    "fr": "Comptoir de service fruits et légumes",
+    "ar": "طاولة خدمة الخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Ürünlerin tartılıp fiyatlandırıldığı banko sistemi.",
+    "en": "Counter system for weighing and pricing produce.",
+    "de": "Thekensystem zum Wiegen und Auszeichnen von Obst und Gemüse.",
+    "fr": "Comptoir pour peser et étiqueter les fruits et légumes.",
+    "ar": "نظام طاولات لوزن وتسعير الخضار والفواكه."
+  },
+  "images": [
+    "media/products/manav-dukkani-bankosu-1.webp",
+    "media/products/manav-dukkani-bankosu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-musteri-karsilama-masasi-manav-dukkani-banko/"
+}

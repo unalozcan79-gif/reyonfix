@@ -1,0 +1,26 @@
+{
+  "id": 182,
+  "category": "Vitamin Bar & Kiosk Bar",
+  "code": "HP-İSR-1",
+  "order": 1050,
+  "vitrin": [],
+  "names": {
+    "tr": "Sokak ve Sahil Teşhir Stantları",
+    "en": "Street & Seaside Display Stands",
+    "de": "Präsentationsstände für Straße & Strand",
+    "fr": "Présentoirs pour rue et bord de mer",
+    "ar": "ستاندات عرض للشوارع والشواطئ"
+  },
+  "descs": {
+    "tr": "Sahil ve caddeler için takı ve ürün teşhir stantları.",
+    "en": "Jewellery and product stands for seafronts and streets.",
+    "de": "Schmuck- und Warenstände für Uferpromenaden und Straßen.",
+    "fr": "Présentoirs à bijoux et produits pour fronts de mer et rues.",
+    "ar": "ستاندات للمجوهرات والمنتجات على الواجهات البحرية والشوارع."
+  },
+  "images": [
+    "media/products/sokak-ve-sahil-teshir-stantlari-1.webp",
+    "media/products/sokak-ve-sahil-teshir-stantlari-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-sokak-sahil-taki-teshir-stantlari/"
+}

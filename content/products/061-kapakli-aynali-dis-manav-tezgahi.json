@@ -1,0 +1,26 @@
+{
+  "id": 61,
+  "category": "Manav Ekipmanları",
+  "code": "GR-11",
+  "order": 1490,
+  "vitrin": [],
+  "names": {
+    "tr": "Kapaklı Aynalı Dış Manav Tezgahı",
+    "en": "Lidded Mirrored Outdoor Counter",
+    "de": "Abdeckbare Außentheke mit Spiegel",
+    "fr": "Comptoir extérieur à miroir avec couvercles",
+    "ar": "طاولة خارجية بمرآة وأغطية"
+  },
+  "descs": {
+    "tr": "Dükkan önleri için kapaklı ve aynalı manav tezgahı.",
+    "en": "Lidded, mirrored produce counter for shopfronts.",
+    "de": "Abdeckbare Obsttheke mit Spiegel für die Ladenfront.",
+    "fr": "Comptoir à miroir et couvercles pour devanture.",
+    "ar": "طاولة خضار بمرآة وأغطية لواجهة المتجر."
+  },
+  "images": [
+    "media/products/kapakli-aynali-dis-manav-tezgahi-1.webp",
+    "media/products/kapakli-aynali-dis-manav-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/kapakli-aynali-duvar-tipi-dis-manav-tezgahlari/"
+}

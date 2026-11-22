@@ -1,0 +1,26 @@
+{
+  "id": 115,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "",
+  "order": 1070,
+  "vitrin": [],
+  "names": {
+    "tr": "Sütlük Dolabı Üstü Dekoru",
+    "en": "Dairy Cabinet Overhead Décor",
+    "de": "Dekoration über Molkereikühlregalen",
+    "fr": "Décor au-dessus des vitrines de crèmerie",
+    "ar": "ديكور فوق ثلاجات الألبان"
+  },
+  "descs": {
+    "tr": "Sütlük dolaplarının üstünü dikkat çekici hale getirir.",
+    "en": "Makes the space above dairy cabinets eye-catching.",
+    "de": "Macht den Bereich über den Kühlregalen zum Blickfang.",
+    "fr": "Rend l’espace au-dessus des vitrines laitières attrayant.",
+    "ar": "يجعل المساحة فوق ثلاجات الألبان لافتة للنظر."
+  },
+  "images": [
+    "media/products/sutluk-dolabi-ustu-dekoru-1.webp",
+    "media/products/sutluk-dolabi-ustu-dekoru-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-dekoru-sutluk-dolabi-ustu-dekoru/"
+}

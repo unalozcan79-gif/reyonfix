@@ -1,0 +1,29 @@
+{
+  "id": 54,
+  "category": "Manav Ekipmanları",
+  "code": "N33",
+  "order": 120,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "Aynasız Duvar Meyve ve Sebze Rafı",
+    "en": "Wall Produce Rack without Mirror",
+    "de": "Obst- und Gemüse-Wandregal ohne Spiegel",
+    "fr": "Étagère murale fruits et légumes sans miroir",
+    "ar": "رف خضار وفواكه جداري بدون مرآة"
+  },
+  "descs": {
+    "tr": "Ahşap kaplamalı, sade ve kullanışlı duvar rafı.",
+    "en": "Simple, practical wood-clad wall rack.",
+    "de": "Einfaches, praktisches Wandregal mit Holzverkleidung.",
+    "fr": "Étagère murale simple et pratique habillée de bois.",
+    "ar": "رف جداري بسيط وعملي مكسو بالخشب."
+  },
+  "images": [
+    "media/products/aynasiz-duvar-meyve-ve-sebze-rafi-1.webp",
+    "media/products/aynasiz-duvar-meyve-ve-sebze-rafi-2.webp",
+    "media/products/aynasiz-duvar-meyve-ve-sebze-rafi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynasiz-duvar-meyve-ve-sebze-rafi/"
+}

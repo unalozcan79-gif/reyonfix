@@ -1,0 +1,26 @@
+{
+  "id": 25,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 1130,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Duvar 4 Katlı Meyve ve Sebze Rafı",
+    "en": "Mirrored 4-Tier Produce Shelving",
+    "de": "4-stöckiges Obst- & Gemüseregal mit Spiegel",
+    "fr": "Étagère à miroir 4 niveaux fruits et légumes",
+    "ar": "رف خضار وفواكه جداري بمرآة من 4 طوابق"
+  },
+  "descs": {
+    "tr": "Dar alanda yüksek kapasite sağlayan 4 katlı raf sistemi.",
+    "en": "4-tier shelving giving high capacity in a small footprint.",
+    "de": "4-stöckiges Regal mit hoher Kapazität auf kleiner Fläche.",
+    "fr": "Étagère 4 niveaux, grande capacité sur peu de surface.",
+    "ar": "رف من 4 طوابق بسعة عالية على مساحة صغيرة."
+  },
+  "images": [
+    "media/products/aynali-duvar-4-katli-meyve-ve-sebze-rafi-1.webp",
+    "media/products/aynali-duvar-4-katli-meyve-ve-sebze-rafi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-4-katli-meyve-ve-sebze-raflari/"
+}

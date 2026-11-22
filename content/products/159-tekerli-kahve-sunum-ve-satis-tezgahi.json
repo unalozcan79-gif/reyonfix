@@ -1,0 +1,28 @@
+{
+  "id": 159,
+  "category": "Market Ekipmanlari",
+  "code": "HP-KM-8",
+  "order": 100,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Tekerli Kahve Sunum ve Satış Tezgahı",
+    "en": "Mobile Coffee Service Counter",
+    "de": "Mobile Kaffeetheke",
+    "fr": "Comptoir café mobile",
+    "ar": "طاولة قهوة متنقلة"
+  },
+  "descs": {
+    "tr": "Market, AVM ve kafeler için kahve deneyimi tezgahı.",
+    "en": "Coffee experience counter for stores, malls and cafés.",
+    "de": "Kaffeetheke für Märkte, Einkaufszentren und Cafés.",
+    "fr": "Comptoir café pour magasins, centres commerciaux et cafés.",
+    "ar": "طاولة قهوة للمتاجر والمراكز التجارية والمقاهي."
+  },
+  "images": [
+    "media/products/tekerli-kahve-sunum-ve-satis-tezgahi-1.webp",
+    "media/products/tekerli-kahve-sunum-ve-satis-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-avm-cafe-tekerli-orta-alan-kahve-sunum-veya-satis-tezgahi/"
+}

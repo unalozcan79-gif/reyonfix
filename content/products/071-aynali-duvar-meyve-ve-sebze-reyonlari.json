@@ -1,0 +1,28 @@
+{
+  "id": 71,
+  "category": "Manav Ekipmanları",
+  "code": "FR-1",
+  "order": 80,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "Aynalı Duvar Meyve ve Sebze Reyonları",
+    "en": "Mirrored Wall Fruit & Veg Units",
+    "de": "Obst- und Gemüse-Wandregale mit Spiegel",
+    "fr": "Meubles muraux fruits et légumes avec miroir",
+    "ar": "رفوف خضار وفواكه جدارية بمرآة"
+  },
+  "descs": {
+    "tr": "Dökme ürün ve kasa kullanımına uygun sepetli duvar reyonu.",
+    "en": "Basket wall unit for loose produce or crates.",
+    "de": "Wandregal mit Körben für lose Ware oder Kisten.",
+    "fr": "Meuble mural à paniers pour produits en vrac ou en caisses.",
+    "ar": "وحدة جدارية بسلال للبضاعة السائبة أو الصناديق."
+  },
+  "images": [
+    "media/products/aynali-duvar-meyve-ve-sebze-reyonlari-1.webp",
+    "media/products/aynali-duvar-meyve-ve-sebze-reyonlari-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/aynali-duvar-meyve-ve-sebze-reyonlari/"
+}

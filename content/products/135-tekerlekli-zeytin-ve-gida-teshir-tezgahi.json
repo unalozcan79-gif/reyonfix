@@ -1,0 +1,28 @@
+{
+  "id": 135,
+  "category": "Zeytinlik Reyonu",
+  "code": "Hp-Zyt- 14 UA480",
+  "order": 130,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "Tekerlekli Zeytin ve Gıda Teşhir Tezgahı",
+    "en": "Mobile Olive & Food Display Counter",
+    "de": "Mobile Oliven- & Lebensmitteltheke",
+    "fr": "Comptoir mobile olives et produits alimentaires",
+    "ar": "طاولة متنقلة لعرض الزيتون والأطعمة"
+  },
+  "descs": {
+    "tr": "Otel ve şarküteriler için şık, hijyenik ve esnek sunum.",
+    "en": "Stylish, hygienic, flexible display for hotels and delis.",
+    "de": "Stilvolle, hygienische, flexible Präsentation für Hotels und Feinkost.",
+    "fr": "Présentoir élégant, hygiénique et flexible pour hôtels et épiceries fines.",
+    "ar": "عرض أنيق وصحي ومرن للفنادق ومحلات الأطعمة الفاخرة."
+  },
+  "images": [
+    "media/products/tekerlekli-zeytin-ve-gida-teshir-tezgahi-1.webp",
+    "media/products/tekerlekli-zeytin-ve-gida-teshir-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/oteller-ve-sarkuteriler-icin-profesyonel-tekerlekli-zeytin-ve-gida-teshir-tezgahi/"
+}

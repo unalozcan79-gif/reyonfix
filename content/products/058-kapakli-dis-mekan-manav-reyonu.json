@@ -1,0 +1,29 @@
+{
+  "id": 58,
+  "category": "Manav Ekipmanları",
+  "code": "PR-12",
+  "order": 110,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Kapaklı Dış Mekan Manav Reyonu",
+    "en": "Lidded Outdoor Produce Unit",
+    "de": "Abdeckbare Obsteinheit für außen",
+    "fr": "Meuble extérieur à couvercles",
+    "ar": "وحدة خارجية مغطاة للخضار"
+  },
+  "descs": {
+    "tr": "Marketlerin dış alanları için kapaklı, korunaklı reyon.",
+    "en": "Protected, lidded produce unit for store exteriors.",
+    "de": "Geschützte, abdeckbare Einheit für den Außenbereich.",
+    "fr": "Meuble protégé à couvercles pour l’extérieur du magasin.",
+    "ar": "وحدة محمية ومغطاة للمساحات الخارجية للمتجر."
+  },
+  "images": [
+    "media/products/kapakli-dis-mekan-manav-reyonu-1.webp",
+    "media/products/kapakli-dis-mekan-manav-reyonu-2.webp",
+    "media/products/kapakli-dis-mekan-manav-reyonu-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/aynasiz-kapakli-duvar-dis-mekan-manav-reyonu/"
+}

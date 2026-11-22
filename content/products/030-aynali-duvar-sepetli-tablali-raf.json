@@ -1,0 +1,29 @@
+{
+  "id": 30,
+  "category": "Manav Ekipmanları",
+  "code": "Tr-62 Tablalı",
+  "order": 30,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "Aynalı Duvar Sepetli Tablalı Raf",
+    "en": "Mirrored Wall Rack with Baskets & Trays",
+    "de": "Wandregal mit Körben und Schalen",
+    "fr": "Étagère murale avec paniers et plateaux",
+    "ar": "رف جداري بسلال وصوانٍ"
+  },
+  "descs": {
+    "tr": "Sepet ve tablaları bir arada kullanan 3 katlı duvar rafı.",
+    "en": "3-tier wall rack combining baskets and trays.",
+    "de": "Dreistöckiges Wandregal mit Körben und Schalen.",
+    "fr": "Étagère murale à trois niveaux combinant paniers et plateaux.",
+    "ar": "رف جداري بثلاثة طوابق يجمع السلال والصواني."
+  },
+  "images": [
+    "media/products/aynali-duvar-sepetli-tablali-raf-1.webp",
+    "media/products/aynali-duvar-sepetli-tablali-raf-2.webp",
+    "media/products/aynali-duvar-sepetli-tablali-raf-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-sepetli-tablali-meyve-ve-sebze-rafi/"
+}

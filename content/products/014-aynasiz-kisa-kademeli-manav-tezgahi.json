@@ -1,0 +1,26 @@
+{
+  "id": 14,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 1040,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynasız Kısa Kademeli Manav Tezgahı",
+    "en": "Low Tiered Produce Counter",
+    "de": "Niedrige Stufentheke für Obst & Gemüse",
+    "fr": "Comptoir bas à gradins fruits et légumes",
+    "ar": "طاولة متدرجة منخفضة للخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Ürünleri doğal görünümüyle sergileyen kademeli, aynasız tezgah.",
+    "en": "Tiered counter without mirror, showing produce in its natural look.",
+    "de": "Stufentheke ohne Spiegel für eine natürliche Warenpräsentation.",
+    "fr": "Comptoir à gradins sans miroir pour un aspect naturel des produits.",
+    "ar": "طاولة متدرجة بدون مرآة تُظهر المنتجات بمظهرها الطبيعي."
+  },
+  "images": [
+    "media/products/aynasiz-kisa-kademeli-manav-tezgahi-1.webp",
+    "media/products/aynasiz-kisa-kademeli-manav-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/aynasiz-kisa-kademeli-meyve-ve-sebze-tezgahi/"
+}

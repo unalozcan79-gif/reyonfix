@@ -1,0 +1,19 @@
+{
+  "key": "Vitamin Bar & Kiosk Bar",
+  "order": 70,
+  "names": {
+    "tr": "Vitamin Bar & Kiosk Bar",
+    "en": "Vitamin Bars & Kiosks",
+    "de": "Vitaminbars & Kioske",
+    "fr": "Bars à vitamines & kiosques",
+    "ar": "بارات العصير والأكشاك"
+  },
+  "descs": {
+    "tr": "Taze meyve suyu barları, kiosklar ve seyyar satış tezgahları.",
+    "en": "Fresh juice bars, kiosks and mobile sales counters.",
+    "de": "Saftbars, Kioske und mobile Verkaufstheken.",
+    "fr": "Bars à jus frais, kiosques et comptoirs de vente mobiles.",
+    "ar": "بارات العصير الطازج والأكشاك وطاولات البيع المتنقلة."
+  },
+  "image": "media/products/otel-seyyar-vitamin-bar-tezgahi-1.webp"
+}

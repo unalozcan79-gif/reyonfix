@@ -1,0 +1,26 @@
+{
+  "id": 126,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "HP-DK-M1",
+  "order": 1180,
+  "vitrin": [],
+  "names": {
+    "tr": "Modern Bakkal Dekorasyonu",
+    "en": "Modern Grocery Store Décor",
+    "de": "Moderne Lebensmittelladen-Dekoration",
+    "fr": "Décoration moderne d’épicerie",
+    "ar": "ديكور حديث لمتجر البقالة"
+  },
+  "descs": {
+    "tr": "Mahalle marketleri için modern dekorasyon çözümü.",
+    "en": "Modern décor solution for neighbourhood grocers.",
+    "de": "Moderne Dekorationslösung für Nachbarschaftsläden.",
+    "fr": "Solution décorative moderne pour épiceries de quartier.",
+    "ar": "حل ديكوري حديث لمتاجر الأحياء."
+  },
+  "images": [
+    "media/products/modern-bakkal-dekorasyonu-1.webp",
+    "media/products/modern-bakkal-dekorasyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/modern-manav-dekoru/"
+}

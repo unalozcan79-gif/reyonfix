@@ -1,0 +1,29 @@
+{
+  "id": 106,
+  "category": "Unlu Mamul & Fırın Ekipmanları",
+  "code": "",
+  "order": 70,
+  "vitrin": [
+    "firin"
+  ],
+  "names": {
+    "tr": "Kapaklı Ekmek Dolabı",
+    "en": "Lidded Bread Cabinet",
+    "de": "Abgedeckter Brotschrank",
+    "fr": "Armoire à pain avec couvercles",
+    "ar": "خزانة خبز بأغطية"
+  },
+  "descs": {
+    "tr": "Duvar tipi, kapaklı unlu mamul reyonu.",
+    "en": "Wall-type lidded bakery unit.",
+    "de": "Abgedeckte Backwareneinheit zur Wandmontage.",
+    "fr": "Meuble de boulangerie mural à couvercles.",
+    "ar": "وحدة مخبوزات جدارية بأغطية."
+  },
+  "images": [
+    "media/products/kapakli-ekmek-dolabi-1.webp",
+    "media/products/kapakli-ekmek-dolabi-2.webp",
+    "media/products/kapakli-ekmek-dolabi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-tipi-unlu-mamul-reyonu-ekmek-dolabi/"
+}

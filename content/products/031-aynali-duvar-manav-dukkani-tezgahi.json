@@ -1,0 +1,26 @@
+{
+  "id": 31,
+  "category": "Manav Ekipmanları",
+  "code": "MD-1",
+  "order": 1190,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Duvar Manav Dükkanı Tezgahı",
+    "en": "Mirrored Greengrocer Wall Counter",
+    "de": "Wandtheke mit Spiegel für Obst & Gemüse",
+    "fr": "Comptoir mural à miroir pour primeur",
+    "ar": "طاولة جدارية بمرآة لمحل الخضار"
+  },
+  "descs": {
+    "tr": "Manav dükkanları için tam fonksiyonlu duvar tezgahı.",
+    "en": "Fully functional wall counter for greengrocers.",
+    "de": "Voll funktionsfähige Wandtheke für den Obst- und Gemüsehandel.",
+    "fr": "Comptoir mural entièrement fonctionnel pour primeurs.",
+    "ar": "طاولة جدارية متكاملة الوظائف لمحلات الخضار والفواكه."
+  },
+  "images": [
+    "media/products/aynali-duvar-manav-dukkani-tezgahi-1.webp",
+    "media/products/aynali-duvar-manav-dukkani-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-manav-dukkani-tezgahi/"
+}

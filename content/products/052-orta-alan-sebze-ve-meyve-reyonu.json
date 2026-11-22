@@ -1,0 +1,29 @@
+{
+  "id": 52,
+  "category": "Manav Ekipmanları",
+  "code": "N-37",
+  "order": 10,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Orta Alan Sebze ve Meyve Reyonu",
+    "en": "Island Vegetable & Fruit Unit",
+    "de": "Mittelraumständer für Obst und Gemüse",
+    "fr": "Gondole centrale fruits et légumes",
+    "ar": "وحدة وسطية للخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Ahşap, arka plan görüntüsünü kapatmayan orta alan reyonu.",
+    "en": "Wooden island unit that keeps sightlines open.",
+    "de": "Holzständer, der die Sichtachsen im Laden frei hält.",
+    "fr": "Gondole en bois qui préserve la visibilité dans le magasin.",
+    "ar": "وحدة خشبية تحافظ على وضوح الرؤية داخل المتجر."
+  },
+  "images": [
+    "media/products/orta-alan-sebze-ve-meyve-reyonu-1.webp",
+    "media/products/orta-alan-sebze-ve-meyve-reyonu-2.webp",
+    "media/products/orta-alan-sebze-ve-meyve-reyonu-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-sebze-ve-meyve-reyonu/"
+}

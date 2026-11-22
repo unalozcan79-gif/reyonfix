@@ -1,0 +1,32 @@
+{
+  "id": 207,
+  "category": "Bakliyat ve Kuruyemiş Standları",
+  "code": "HP-CRZ-1",
+  "order": 50,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Çerez ve Kuruyemiş Standı",
+    "en": "Nuts & Snacks Stand",
+    "de": "Stand für Nüsse und Snacks",
+    "fr": "Présentoir fruits secs et snacks",
+    "ar": "ستاند المكسرات والوجبات الخفيفة"
+  },
+  "descs": {
+    "tr": "Estetik görünümüyle satış alanına prestij katar.",
+    "en": "Adds prestige to the sales area with its elegant design.",
+    "de": "Wertet die Verkaufsfläche mit elegantem Design auf.",
+    "fr": "Valorise l’espace de vente grâce à un design élégant.",
+    "ar": "يضفي على منطقة البيع فخامة بتصميمه الأنيق."
+  },
+  "images": [
+    "media/products/cerez-ve-kuruyemis-standi-1.webp",
+    "media/products/cerez-ve-kuruyemis-standi-2.webp",
+    "media/products/cerez-ve-kuruyemis-standi-3.webp",
+    "media/products/cerez-ve-kuruyemis-standi-4.webp",
+    "media/products/cerez-ve-kuruyemis-standi-5.webp",
+    "media/products/cerez-ve-kuruyemis-standi-6.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/cerez-ve-kuruyemis-standi/"
+}

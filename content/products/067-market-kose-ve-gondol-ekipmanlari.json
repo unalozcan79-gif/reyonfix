@@ -1,0 +1,26 @@
+{
+  "id": 67,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 1550,
+  "vitrin": [],
+  "names": {
+    "tr": "Market Köşe ve Gondol Ekipmanları",
+    "en": "Corner & Gondola Units",
+    "de": "Eck- und Gondeleinheiten",
+    "fr": "Meubles d’angle et gondoles",
+    "ar": "وحدات زوايا وجندولات"
+  },
+  "descs": {
+    "tr": "Mağazada düzenli sergileme için köşe ve gondol çözümleri.",
+    "en": "Corner and gondola solutions for organised merchandising.",
+    "de": "Eck- und Gondellösungen für eine geordnete Warenpräsentation.",
+    "fr": "Solutions d’angle et gondoles pour un merchandising ordonné.",
+    "ar": "حلول للزوايا والجندولات لعرض منظم."
+  },
+  "images": [
+    "media/products/market-kose-ve-gondol-ekipmanlari-1.webp",
+    "media/products/market-kose-ve-gondol-ekipmanlari-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-kose-ve-gondol-ekipmanlari/"
+}

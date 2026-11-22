@@ -1,0 +1,26 @@
+{
+  "id": 136,
+  "category": "Zeytinlik Reyonu",
+  "code": "",
+  "order": 1030,
+  "vitrin": [],
+  "names": {
+    "tr": "Zeytin Teşhir Reyonu",
+    "en": "Olive Display Unit",
+    "de": "Oliven-Präsentationseinheit",
+    "fr": "Meuble de présentation d’olives",
+    "ar": "وحدة عرض الزيتون"
+  },
+  "descs": {
+    "tr": "Hijyenik ve fonksiyonel, çatılı zeytin satış reyonu.",
+    "en": "Hygienic, functional canopied olive unit.",
+    "de": "Hygienische, funktionale Oliveneinheit mit Überdachung.",
+    "fr": "Meuble à olives hygiénique et fonctionnel avec auvent.",
+    "ar": "وحدة زيتون صحية وعملية بمظلة."
+  },
+  "images": [
+    "media/products/zeytin-teshir-reyonu-1.webp",
+    "media/products/zeytin-teshir-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/zeytin-teshir-reyonu/"
+}

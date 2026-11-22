@@ -1,0 +1,28 @@
+{
+  "id": 36,
+  "category": "Manav Ekipmanları",
+  "code": "GH1",
+  "order": 70,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "Aynalı Duvar Ahşap Manav Reyonu",
+    "en": "Mirrored Wooden Wall Produce Unit",
+    "de": "Holz-Wandregal mit Spiegel",
+    "fr": "Meuble mural en bois avec miroir",
+    "ar": "رف خضار جداري خشبي بمرآة"
+  },
+  "descs": {
+    "tr": "Ahşap ve metalin birleşimiyle düzenli ve temiz bir manav görünümü.",
+    "en": "Wood-and-metal wall unit for a clean, orderly produce area.",
+    "de": "Wandregal aus Holz und Metall für eine saubere, geordnete Abteilung.",
+    "fr": "Meuble mural bois et métal pour un rayon propre et ordonné.",
+    "ar": "وحدة جدارية من الخشب والمعدن لقسم نظيف ومنظم."
+  },
+  "images": [
+    "media/products/aynali-duvar-ahsap-manav-reyonu-1.webp",
+    "media/products/aynali-duvar-ahsap-manav-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-ahsap-manav-reyonlari/"
+}

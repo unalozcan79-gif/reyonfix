@@ -1,0 +1,26 @@
+{
+  "id": 168,
+  "category": "Market Ekipmanlari",
+  "code": "Fr-29 Palette",
+  "order": 1100,
+  "vitrin": [],
+  "names": {
+    "tr": "Gondol Başı Teşhir Rafı",
+    "en": "Gondola End Display",
+    "de": "Gondelkopf-Präsentation",
+    "fr": "Tête de gondole",
+    "ar": "عرض رأس الجندولة"
+  },
+  "descs": {
+    "tr": "Yükseklik ayarlı, sökülebilir panelli gondol başı rafı.",
+    "en": "Gondola end unit with adjustable height and removable panel.",
+    "de": "Gondelkopf mit höhenverstellbarer, abnehmbarer Platte.",
+    "fr": "Tête de gondole à hauteur réglable et panneau amovible.",
+    "ar": "رأس جندولة بارتفاع قابل للتعديل ولوح قابل للفك."
+  },
+  "images": [
+    "media/products/gondol-basi-teshir-rafi-1.webp",
+    "media/products/gondol-basi-teshir-rafi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-rafi-gondol-basi/"
+}

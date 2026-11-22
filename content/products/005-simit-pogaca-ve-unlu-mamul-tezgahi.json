@@ -1,0 +1,26 @@
+{
+  "id": 5,
+  "category": "Cafe Pastane Ekipmanları",
+  "code": "Hm-13 Noya H132",
+  "order": 1060,
+  "vitrin": [],
+  "names": {
+    "tr": "Simit, Poğaça ve Unlu Mamul Tezgahı",
+    "en": "Bakery Goods Counter",
+    "de": "Theke für Backwaren",
+    "fr": "Comptoir de boulangerie-viennoiserie",
+    "ar": "طاولة عرض للمخبوزات"
+  },
+  "descs": {
+    "tr": "Simit, poğaça ve ekmek satışı için düzenli ve hijyenik sunum tezgahı.",
+    "en": "Tidy, hygienic counter for selling simit, pastries and bread.",
+    "de": "Ordentliche, hygienische Theke für Simit, Gebäck und Brot.",
+    "fr": "Comptoir propre et hygiénique pour simits, viennoiseries et pain.",
+    "ar": "طاولة مرتبة وصحية لبيع السميت والمعجنات والخبز."
+  },
+  "images": [
+    "media/products/simit-pogaca-ve-unlu-mamul-tezgahi-1.webp",
+    "media/products/simit-pogaca-ve-unlu-mamul-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/simit-pogaca-ekmek-unlu-mamul-tezgahi/"
+}

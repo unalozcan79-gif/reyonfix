@@ -1,0 +1,25 @@
+{
+  "id": 117,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "",
+  "order": 1090,
+  "vitrin": [],
+  "names": {
+    "tr": "Çiçekçi Dükkanı Dekorasyonu",
+    "en": "Flower Shop Interior Design",
+    "de": "Innendesign für Blumenläden",
+    "fr": "Aménagement intérieur de fleuriste",
+    "ar": "تصميم داخلي لمحلات الزهور"
+  },
+  "descs": {
+    "tr": "Çiçekçiler için bütünlüklü dekorasyon tasarımı.",
+    "en": "Complete interior design for florists.",
+    "de": "Komplette Innengestaltung für Floristen.",
+    "fr": "Aménagement intérieur complet pour fleuristes.",
+    "ar": "تصميم داخلي متكامل لمحلات الزهور."
+  },
+  "images": [
+    "media/products/cicekci-dukkani-dekorasyonu-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/cicekci-dukkani-dekorasyon-dizayni/"
+}

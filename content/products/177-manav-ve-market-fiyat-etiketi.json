@@ -1,0 +1,26 @@
+{
+  "id": 177,
+  "category": "Market Ekipmanlari",
+  "code": "",
+  "order": 1190,
+  "vitrin": [],
+  "names": {
+    "tr": "Manav ve Market Fiyat Etiketi",
+    "en": "Produce & Store Price Tags",
+    "de": "Preisschilder für Obst & Geschäft",
+    "fr": "Étiquettes de prix pour magasin",
+    "ar": "بطاقات أسعار للخضار والمتاجر"
+  },
+  "descs": {
+    "tr": "Ürün ve fiyatı net gösteren dayanıklı etiketler.",
+    "en": "Durable tags showing product and price clearly.",
+    "de": "Robuste Schilder, die Produkt und Preis deutlich zeigen.",
+    "fr": "Étiquettes durables indiquant clairement produit et prix.",
+    "ar": "بطاقات متينة تُظهر المنتج والسعر بوضوح."
+  },
+  "images": [
+    "media/products/manav-ve-market-fiyat-etiketi-1.webp",
+    "media/products/manav-ve-market-fiyat-etiketi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/manav-etiketi-ve-market-etiketi/"
+}

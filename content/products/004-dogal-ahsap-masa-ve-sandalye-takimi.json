@@ -1,0 +1,26 @@
+{
+  "id": 4,
+  "category": "Cafe Pastane Ekipmanları",
+  "code": "",
+  "order": 1050,
+  "vitrin": [],
+  "names": {
+    "tr": "Doğal Ahşap Masa ve Sandalye Takımı",
+    "en": "Natural Wood Table & Chair Set",
+    "de": "Tisch- und Stuhlset aus Naturholz",
+    "fr": "Ensemble table et chaises en bois naturel",
+    "ar": "طقم طاولة وكراسي من الخشب الطبيعي"
+  },
+  "descs": {
+    "tr": "Pastane ve kafelere sıcak bir atmosfer kazandıran doğal ahşap takım.",
+    "en": "Natural wood set that gives patisseries and cafés a warm atmosphere.",
+    "de": "Naturholzset für eine warme Atmosphäre in Konditoreien und Cafés.",
+    "fr": "Ensemble en bois naturel pour une ambiance chaleureuse en pâtisserie et café.",
+    "ar": "طقم من الخشب الطبيعي يمنح محلات الحلويات والمقاهي أجواء دافئة."
+  },
+  "images": [
+    "media/products/dogal-ahsap-masa-ve-sandalye-takimi-1.webp",
+    "media/products/dogal-ahsap-masa-ve-sandalye-takimi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/lux-pastane-cafe-masa-sandalye/"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 80,
+  "category": "Manav Ekipmanları",
+  "code": "Eco-zcn 3 Profilli",
+  "order": 180,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Ekonomik Kısa Manav Rafı",
+    "en": "Economy Low Produce Rack",
+    "de": "Niedriges Obstregal Economy",
+    "fr": "Étagère basse économique fruits et légumes",
+    "ar": "رف خضار منخفض اقتصادي"
+  },
+  "descs": {
+    "tr": "Her manav dükkanına uygun, pratik ve ekonomik raf.",
+    "en": "Practical, economical rack suitable for any greengrocer.",
+    "de": "Praktisches, wirtschaftliches Regal für jeden Obsthandel.",
+    "fr": "Étagère pratique et économique pour tout primeur.",
+    "ar": "رف عملي واقتصادي يناسب كل محل خضار."
+  },
+  "images": [
+    "media/products/ekonomik-kisa-manav-rafi-1.webp",
+    "media/products/ekonomik-kisa-manav-rafi-2.webp",
+    "media/products/ekonomik-kisa-manav-rafi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-kisa-pratik-ekonomik-raf-kolay-manav-tezgahi/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 83,
+  "category": "Manav Ekipmanları",
+  "code": "PR-10",
+  "order": 1700,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Kısa Duvar Tablalı Manav Reyonu",
+    "en": "Mirrored Low Wall Tray Unit",
+    "de": "Niedrige Wand-Tablareinheit mit Spiegel",
+    "fr": "Meuble mural bas à miroir et plateaux",
+    "ar": "وحدة جدارية منخفضة بمرآة وصوانٍ"
+  },
+  "descs": {
+    "tr": "Alışılmışın dışında çözüm arayanlar için tablalı reyon.",
+    "en": "Tray unit for those seeking a distinctive look.",
+    "de": "Tablareinheit für alle, die eine besondere Optik suchen.",
+    "fr": "Meuble à plateaux pour un style distinctif.",
+    "ar": "وحدة صوانٍ لمن يبحث عن مظهر مميز."
+  },
+  "images": [
+    "media/products/aynali-kisa-duvar-tablali-manav-reyonu-1.webp",
+    "media/products/aynali-kisa-duvar-tablali-manav-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-kisa-duvar-tablali-manav-reyonu/"
+}

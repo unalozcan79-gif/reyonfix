@@ -1,0 +1,26 @@
+{
+  "id": 96,
+  "category": "Yeni Market Ekipmanları",
+  "code": "",
+  "order": 1130,
+  "vitrin": [],
+  "names": {
+    "tr": "Dönen Zeytin Teşhir Standı",
+    "en": "Rotating Olive Display Stand",
+    "de": "Drehbarer Olivenständer",
+    "fr": "Présentoir rotatif à olives",
+    "ar": "ستاند دوّار للزيتون"
+  },
+  "descs": {
+    "tr": "Dairesel raflarıyla orta alanda zeytin sunumu.",
+    "en": "Circular shelving for olive display in the store centre.",
+    "de": "Rundes Regal für die Olivenpräsentation in der Ladenmitte.",
+    "fr": "Étagère circulaire pour présenter les olives au centre du magasin.",
+    "ar": "رف دائري لعرض الزيتون في منتصف المتجر."
+  },
+  "images": [
+    "media/products/donen-zeytin-teshir-standi-1.webp",
+    "media/products/donen-zeytin-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-donen-zeytin-teshir-standi/"
+}

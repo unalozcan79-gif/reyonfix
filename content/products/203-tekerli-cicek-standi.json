@@ -1,0 +1,26 @@
+{
+  "id": 203,
+  "category": "Çicek Dükkanı Dizaynı",
+  "code": "",
+  "order": 1040,
+  "vitrin": [],
+  "names": {
+    "tr": "Tekerli Çiçek Standı",
+    "en": "Mobile Flower Stand",
+    "de": "Mobiler Blumenständer",
+    "fr": "Présentoir mobile pour fleurs",
+    "ar": "ستاند زهور متنقل"
+  },
+  "descs": {
+    "tr": "Çiçekleri kolayca taşınabilir şekilde sergiler.",
+    "en": "Displays flowers in an easily movable way.",
+    "de": "Präsentiert Blumen flexibel und leicht verschiebbar.",
+    "fr": "Présente les fleurs et se déplace facilement.",
+    "ar": "يعرض الزهور ويسهل تحريكه."
+  },
+  "images": [
+    "media/products/tekerli-cicek-standi-1.webp",
+    "media/products/tekerli-cicek-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/tekerli-cicek-standi/"
+}

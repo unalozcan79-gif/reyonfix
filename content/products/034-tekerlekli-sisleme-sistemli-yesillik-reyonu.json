@@ -1,0 +1,29 @@
+{
+  "id": 34,
+  "category": "Manav Ekipmanları",
+  "code": "Mar-Az-37 Yeşillik",
+  "order": 40,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Tekerlekli Sisleme Sistemli Yeşillik Reyonu",
+    "en": "Mobile Greens Unit with Misting",
+    "de": "Mobiler Blattgemüsestand mit Sprühnebel",
+    "fr": "Présentoir mobile à brumisation",
+    "ar": "ستاند متنقل للخضار الورقية بنظام رذاذ"
+  },
+  "descs": {
+    "tr": "Sisleme sistemiyle yeşilliği daha uzun süre taze tutan reyon.",
+    "en": "Misting system keeps leafy greens fresh for longer.",
+    "de": "Das Sprühnebelsystem hält Blattgemüse länger frisch.",
+    "fr": "La brumisation garde les légumes-feuilles frais plus longtemps.",
+    "ar": "نظام الرذاذ يحافظ على نضارة الخضار الورقية لفترة أطول."
+  },
+  "images": [
+    "media/products/tekerlekli-sisleme-sistemli-yesillik-reyonu-1.webp",
+    "media/products/tekerlekli-sisleme-sistemli-yesillik-reyonu-2.webp",
+    "media/products/tekerlekli-sisleme-sistemli-yesillik-reyonu-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-manav-yesil-sebze-sislemeli-reyon/"
+}

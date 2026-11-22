@@ -1,0 +1,26 @@
+{
+  "id": 139,
+  "category": "Zeytinlik Reyonu",
+  "code": "FR-33",
+  "order": 1060,
+  "vitrin": [],
+  "names": {
+    "tr": "Duvar Zeytin Teşhir Dolabı",
+    "en": "Wall Olive Display Cabinet",
+    "de": "Wand-Olivenvitrine",
+    "fr": "Vitrine murale à olives",
+    "ar": "خزانة زيتون جدارية"
+  },
+  "descs": {
+    "tr": "Duvara temaslı, zeytin satışı için özel dolap.",
+    "en": "Wall-mounted cabinet designed for olive sales.",
+    "de": "Wandvitrine speziell für den Olivenverkauf.",
+    "fr": "Vitrine murale conçue pour la vente d’olives.",
+    "ar": "خزانة جدارية مصممة لبيع الزيتون."
+  },
+  "images": [
+    "media/products/duvar-zeytin-teshir-dolabi-1.webp",
+    "media/products/duvar-zeytin-teshir-dolabi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-zeytin-teshir-dolabi/"
+}

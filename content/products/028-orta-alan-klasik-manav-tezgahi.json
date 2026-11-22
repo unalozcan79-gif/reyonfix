@@ -1,0 +1,26 @@
+{
+  "id": 28,
+  "category": "Manav Ekipmanları",
+  "code": "FR 37_D2000",
+  "order": 1160,
+  "vitrin": [],
+  "names": {
+    "tr": "Orta Alan Klasik Manav Tezgahı",
+    "en": "Classic Island Produce Counter",
+    "de": "Klassische Insel-Obsttheke",
+    "fr": "Îlot classique fruits et légumes",
+    "ar": "طاولة جزيرة كلاسيكية للخضار"
+  },
+  "descs": {
+    "tr": "Arka plan görüntüsünü kapatmayan, klasik orta alan tezgahı.",
+    "en": "Classic island counter that keeps sightlines open.",
+    "de": "Klassische Inseltheke, die die Sichtachsen offen hält.",
+    "fr": "Îlot classique qui préserve les lignes de vue.",
+    "ar": "طاولة وسطية كلاسيكية تحافظ على مجال الرؤية مفتوحًا."
+  },
+  "images": [
+    "media/products/orta-alan-klasik-manav-tezgahi-1.webp",
+    "media/products/orta-alan-klasik-manav-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-klasik-meyve-ve-sebze-tezgahi/"
+}

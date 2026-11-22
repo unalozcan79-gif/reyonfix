@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "category": "Cafe Pastane Ekipmanları",
+  "code": "HP-MSSD-3",
+  "order": 1020,
+  "vitrin": [],
+  "names": {
+    "tr": "Lüks Cafe Oturak Bank",
+    "en": "Luxury Café Bench Seating",
+    "de": "Luxus-Sitzbänke für Cafés",
+    "fr": "Banquettes de luxe pour café",
+    "ar": "مقاعد كنب فاخرة للمقاهي"
+  },
+  "descs": {
+    "tr": "Kafe ve restoranlarda şık ve konforlu oturma düzeni sağlayan bank sistemi.",
+    "en": "Bench seating system bringing style and comfort to cafés and restaurants.",
+    "de": "Sitzbanksystem für Stil und Komfort in Cafés und Restaurants.",
+    "fr": "Système de banquettes alliant style et confort pour cafés et restaurants.",
+    "ar": "نظام مقاعد يجمع الأناقة والراحة للمقاهي والمطاعم."
+  },
+  "images": [
+    "media/products/luks-cafe-oturak-bank-1.webp",
+    "media/products/luks-cafe-oturak-bank-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/lux-cafe-oturak-bank/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2,
+  "category": "Cafe Pastane Ekipmanları",
+  "code": "HP-MSSD-11",
+  "order": 1030,
+  "vitrin": [],
+  "names": {
+    "tr": "Lüks Cafe Sandalye",
+    "en": "Luxury Café Chair",
+    "de": "Luxus-Caféstuhl",
+    "fr": "Chaise de café de luxe",
+    "ar": "كرسي مقهى فاخر"
+  },
+  "descs": {
+    "tr": "Mekâna prestij katan, dayanıklı ve konforlu kafe sandalyesi.",
+    "en": "Durable, comfortable café chair that adds prestige to any venue.",
+    "de": "Robuster, bequemer Caféstuhl mit hochwertiger Ausstrahlung.",
+    "fr": "Chaise de café robuste et confortable qui valorise l’établissement.",
+    "ar": "كرسي مقهى متين ومريح يضفي فخامة على المكان."
+  },
+  "images": [
+    "media/products/luks-cafe-sandalye-1.webp",
+    "media/products/luks-cafe-sandalye-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/lux-cafe-sandalye/"
+}

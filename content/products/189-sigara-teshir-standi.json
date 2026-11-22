@@ -1,0 +1,26 @@
+{
+  "id": 189,
+  "category": "Tekel Rafları",
+  "code": "HP-SS-2",
+  "order": 1020,
+  "vitrin": [],
+  "names": {
+    "tr": "Sigara Teşhir Standı",
+    "en": "Cigarette Display Stand",
+    "de": "Zigaretten-Präsentationsständer",
+    "fr": "Présentoir à cigarettes",
+    "ar": "ستاند عرض السجائر"
+  },
+  "descs": {
+    "tr": "Kasa arkası için düzenli sigara teşhir standı.",
+    "en": "Organised cigarette display for behind the checkout.",
+    "de": "Geordnete Zigarettenpräsentation hinter der Kasse.",
+    "fr": "Présentation ordonnée des cigarettes derrière la caisse.",
+    "ar": "عرض منظم للسجائر خلف منطقة الدفع."
+  },
+  "images": [
+    "media/products/sigara-teshir-standi-1.webp",
+    "media/products/sigara-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-sigara-teshir-standi/"
+}

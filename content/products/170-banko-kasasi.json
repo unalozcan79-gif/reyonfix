@@ -1,0 +1,26 @@
+{
+  "id": 170,
+  "category": "Market Ekipmanlari",
+  "code": "HP-39 PRO",
+  "order": 1120,
+  "vitrin": [],
+  "names": {
+    "tr": "Banko Kasası",
+    "en": "Checkout Counter",
+    "de": "Kassentheke",
+    "fr": "Comptoir de caisse",
+    "ar": "كاونتر الدفع"
+  },
+  "descs": {
+    "tr": "Ödeme ve evrak işlemleri için modern kasa bankosu.",
+    "en": "Modern checkout counter for payments and paperwork.",
+    "de": "Moderne Kassentheke für Zahlungen und Belege.",
+    "fr": "Comptoir de caisse moderne pour paiements et documents.",
+    "ar": "كاونتر دفع حديث للمدفوعات والمستندات."
+  },
+  "images": [
+    "media/products/banko-kasasi-1.webp",
+    "media/products/banko-kasasi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-banko-kasasi-manav-musteri-karsilama-bankosu/"
+}

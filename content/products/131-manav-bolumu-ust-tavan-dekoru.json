@@ -1,0 +1,25 @@
+{
+  "id": 131,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "MUTD-4",
+  "order": 1230,
+  "vitrin": [],
+  "names": {
+    "tr": "Manav Bölümü Üst Tavan Dekoru",
+    "en": "Produce Section Ceiling Feature",
+    "de": "Deckengestaltung für die Obstabteilung",
+    "fr": "Plafond décoratif du rayon fruits et légumes",
+    "ar": "تصميم سقف قسم الخضار"
+  },
+  "descs": {
+    "tr": "Manav bölümünün tavanını şık bir alana dönüştürür.",
+    "en": "Turns the produce section ceiling into a feature.",
+    "de": "Macht die Decke der Obstabteilung zum Gestaltungselement.",
+    "fr": "Fait du plafond du rayon un véritable élément de décor.",
+    "ar": "يحوّل سقف قسم الخضار إلى عنصر تصميم."
+  },
+  "images": [
+    "media/products/manav-bolumu-ust-tavan-dekoru-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-manav-bolumu-ust-tavan-dekoru/"
+}

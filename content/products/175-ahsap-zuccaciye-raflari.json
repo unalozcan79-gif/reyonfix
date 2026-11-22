@@ -1,0 +1,26 @@
+{
+  "id": 175,
+  "category": "Market Ekipmanlari",
+  "code": "HP-Z-1",
+  "order": 1170,
+  "vitrin": [],
+  "names": {
+    "tr": "Ahşap Züccaciye Rafları",
+    "en": "Wooden Housewares Shelving",
+    "de": "Holzregal für Haushaltswaren",
+    "fr": "Étagère en bois pour articles ménagers",
+    "ar": "رف خشبي للأدوات المنزلية"
+  },
+  "descs": {
+    "tr": "Ev eşyası satışı için duvar tipi ahşap raf.",
+    "en": "Wall-type wooden shelving for housewares.",
+    "de": "Wandregal aus Holz für Haushaltswaren.",
+    "fr": "Étagère murale en bois pour articles ménagers.",
+    "ar": "رف جداري خشبي للأدوات المنزلية."
+  },
+  "images": [
+    "media/products/ahsap-zuccaciye-raflari-1.webp",
+    "media/products/ahsap-zuccaciye-raflari-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-ahsap-zuccaciye-raflari/"
+}

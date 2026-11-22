@@ -1,0 +1,28 @@
+{
+  "id": 105,
+  "category": "Unlu Mamul & Fırın Ekipmanları",
+  "code": "HM-D1",
+  "order": 110,
+  "vitrin": [
+    "firin"
+  ],
+  "names": {
+    "tr": "Unlu Mamul Dizaynı ve Dekoru",
+    "en": "Bakery Design & Décor",
+    "de": "Bäckerei-Design & Dekoration",
+    "fr": "Conception et décoration de boulangerie",
+    "ar": "تصميم وديكور المخابز"
+  },
+  "descs": {
+    "tr": "Ekmek ve pasta satış alanları için konsept tasarım.",
+    "en": "Concept design for bread and pastry sales areas.",
+    "de": "Konzeptdesign für Brot- und Gebäckverkaufsbereiche.",
+    "fr": "Conception d’espaces de vente de pain et de pâtisserie.",
+    "ar": "تصميم متكامل لمساحات بيع الخبز والحلويات."
+  },
+  "images": [
+    "media/products/unlu-mamul-dizayni-ve-dekoru-1.webp",
+    "media/products/unlu-mamul-dizayni-ve-dekoru-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/unlu-mamul-dizayni-unlu-mamul-dekoru/"
+}

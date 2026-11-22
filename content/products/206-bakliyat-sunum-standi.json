@@ -1,0 +1,28 @@
+{
+  "id": 206,
+  "category": "Bakliyat ve Kuruyemiş Standları",
+  "code": "HP-CRZ-2",
+  "order": 80,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Bakliyat Sunum Standı",
+    "en": "Pulses Display Stand",
+    "de": "Präsentationsstand für Hülsenfrüchte",
+    "fr": "Présentoir à légumineuses",
+    "ar": "ستاند عرض البقوليات"
+  },
+  "descs": {
+    "tr": "Ahşap panelli, aparatlı duvar tipi bakliyat tezgahı.",
+    "en": "Wall-type pulses counter with wooden panels and fittings.",
+    "de": "Wandtheke für Hülsenfrüchte mit Holzpaneelen und Zubehör.",
+    "fr": "Comptoir mural pour légumineuses avec panneaux en bois.",
+    "ar": "طاولة جدارية للبقوليات بألواح وتجهيزات خشبية."
+  },
+  "images": [
+    "media/products/bakliyat-sunum-standi-1.webp",
+    "media/products/bakliyat-sunum-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/bakliyat-sunum-standi/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 3,
+  "category": "Cafe Pastane Ekipmanları",
+  "code": "HP-MSSD-9",
+  "order": 1040,
+  "vitrin": [],
+  "names": {
+    "tr": "Lüks Cafe ve Pastane Masaları",
+    "en": "Luxury Café & Patisserie Tables",
+    "de": "Luxus-Tische für Café & Konditorei",
+    "fr": "Tables de luxe pour café et pâtisserie",
+    "ar": "طاولات فاخرة للمقاهي ومحلات الحلويات"
+  },
+  "descs": {
+    "tr": "Modern kafe ve pastaneler için şık, dayanıklı masa modelleri.",
+    "en": "Elegant, durable table models for modern cafés and patisseries.",
+    "de": "Elegante, langlebige Tischmodelle für moderne Cafés und Konditoreien.",
+    "fr": "Modèles de tables élégants et durables pour cafés et pâtisseries modernes.",
+    "ar": "طاولات أنيقة ومتينة للمقاهي ومحلات الحلويات الحديثة."
+  },
+  "images": [
+    "media/products/luks-cafe-ve-pastane-masalari-1.webp",
+    "media/products/luks-cafe-ve-pastane-masalari-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/lux-cafe-pastane-masalari/"
+}

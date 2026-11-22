@@ -1,0 +1,25 @@
+{
+  "id": 123,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "",
+  "order": 1150,
+  "vitrin": [],
+  "names": {
+    "tr": "Kasap ve Şarküteri Dekoru",
+    "en": "Butcher & Delicatessen Décor",
+    "de": "Metzgerei- und Feinkostdekor",
+    "fr": "Décor boucherie et épicerie fine",
+    "ar": "ديكور الجزارة والأطعمة الفاخرة"
+  },
+  "descs": {
+    "tr": "Şarküterinin iç düzenini ve görsel kimliğini tamamlar.",
+    "en": "Completes the layout and visual identity of a deli.",
+    "de": "Vervollständigt Gestaltung und Erscheinungsbild einer Feinkostabteilung.",
+    "fr": "Complète l’aménagement et l’identité visuelle d’un rayon traiteur.",
+    "ar": "يكمل تصميم قسم الأطعمة الفاخرة وهويته البصرية."
+  },
+  "images": [
+    "media/products/kasap-ve-sarkuteri-dekoru-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-kasap-sarkuteri-etlik-dekoru/"
+}

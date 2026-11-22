@@ -1,0 +1,29 @@
+{
+  "id": 65,
+  "category": "Manav Ekipmanları",
+  "code": "TL-29 RFS",
+  "order": 130,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Tekerli Kısa Havuzlu Manav Tezgahı",
+    "en": "Mobile Low Bin Produce Counter",
+    "de": "Mobile niedrige Obsttheke mit Behältern",
+    "fr": "Comptoir mobile bas à bacs",
+    "ar": "طاولة خضار متنقلة منخفضة بأحواض"
+  },
+  "descs": {
+    "tr": "Taşınabilir, havuzlu yapıda esnek manav tezgahı.",
+    "en": "Flexible mobile produce counter with deep bins.",
+    "de": "Flexible mobile Theke mit tiefen Behältern.",
+    "fr": "Comptoir mobile flexible à bacs profonds.",
+    "ar": "طاولة متنقلة مرنة بأحواض عميقة."
+  },
+  "images": [
+    "media/products/tekerli-kisa-havuzlu-manav-tezgahi-1.webp",
+    "media/products/tekerli-kisa-havuzlu-manav-tezgahi-2.webp",
+    "media/products/tekerli-kisa-havuzlu-manav-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-kisa-havuzlu-manav-tezgahi/"
+}

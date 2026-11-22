@@ -1,0 +1,19 @@
+{
+  "key": "Yeni Market Ekipmanları",
+  "order": 50,
+  "names": {
+    "tr": "Yeni Market Ekipmanları",
+    "en": "New Store Equipment",
+    "de": "Neue Marktausstattung",
+    "fr": "Nouveaux équipements de magasin",
+    "ar": "تجهيزات المتاجر الحديثة"
+  },
+  "descs": {
+    "tr": "Satış alanına fark katan yeni nesil teşhir ve sunum çözümleri.",
+    "en": "New-generation display and presentation solutions.",
+    "de": "Präsentationslösungen der neuen Generation.",
+    "fr": "Solutions de présentation de nouvelle génération.",
+    "ar": "حلول عرض من الجيل الجديد."
+  },
+  "image": "media/products/palet-ve-cuval-tezgahi-1.webp"
+}

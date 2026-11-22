@@ -1,0 +1,29 @@
+{
+  "id": 145,
+  "category": "Zeytinlik Reyonu",
+  "code": "Hp-29 Oil V4",
+  "order": 80,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "Zeytin ve Turşu Dolabı",
+    "en": "Olive & Pickle Cabinet",
+    "de": "Schrank für Oliven & Eingelegtes",
+    "fr": "Armoire à olives et pickles",
+    "ar": "خزانة الزيتون والمخللات"
+  },
+  "descs": {
+    "tr": "Zeytin ve turşular için özel tasarlanmış dolap.",
+    "en": "Cabinet specially designed for olives and pickles.",
+    "de": "Schrank speziell für Oliven und eingelegtes Gemüse.",
+    "fr": "Armoire spécialement conçue pour olives et pickles.",
+    "ar": "خزانة مصممة خصيصًا للزيتون والمخللات."
+  },
+  "images": [
+    "media/products/zeytin-ve-tursu-dolabi-1.webp",
+    "media/products/zeytin-ve-tursu-dolabi-2.webp",
+    "media/products/zeytin-ve-tursu-dolabi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/zeytin-ve-tursu-dolabi/"
+}

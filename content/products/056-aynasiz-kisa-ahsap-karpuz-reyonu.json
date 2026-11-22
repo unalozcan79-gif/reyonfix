@@ -1,0 +1,26 @@
+{
+  "id": 56,
+  "category": "Manav Ekipmanları",
+  "code": "WM-29",
+  "order": 1440,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynasız Kısa Ahşap Karpuz Reyonu",
+    "en": "Low Wooden Watermelon Unit",
+    "de": "Niedrige Wassermelonen-Einheit aus Holz",
+    "fr": "Meuble bas en bois pour pastèques",
+    "ar": "وحدة خشبية منخفضة للبطيخ"
+  },
+  "descs": {
+    "tr": "Yaz sezonu karpuz ve kavun satışı için ahşap reyon.",
+    "en": "Wooden unit for summer watermelon and melon sales.",
+    "de": "Holzeinheit für den sommerlichen Melonenverkauf.",
+    "fr": "Meuble en bois pour la vente estivale de pastèques et melons.",
+    "ar": "وحدة خشبية لبيع البطيخ والشمام صيفًا."
+  },
+  "images": [
+    "media/products/aynasiz-kisa-ahsap-karpuz-reyonu-1.webp",
+    "media/products/aynasiz-kisa-ahsap-karpuz-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynasiz-kisa-duvar-ahsap-karpuz-reyonu/"
+}

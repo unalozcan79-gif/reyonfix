@@ -1,0 +1,26 @@
+{
+  "id": 18,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 1080,
+  "vitrin": [],
+  "names": {
+    "tr": "Yeşillik Sunum Tezgahı",
+    "en": "Leafy Greens Display Counter",
+    "de": "Theke für Blattgemüse",
+    "fr": "Comptoir pour légumes verts",
+    "ar": "طاولة عرض للخضار الورقية"
+  },
+  "descs": {
+    "tr": "120 cm genişliğinde, tekerlekli profesyonel sebze sergileme tezgahı.",
+    "en": "120 cm wide mobile counter for professional vegetable display.",
+    "de": "120 cm breite, mobile Theke für die professionelle Gemüsepräsentation.",
+    "fr": "Comptoir mobile de 120 cm pour une présentation professionnelle des légumes.",
+    "ar": "طاولة متنقلة بعرض 120 سم لعرض الخضار باحتراف."
+  },
+  "images": [
+    "media/products/yesillik-sunum-tezgahi-1.webp",
+    "media/products/yesillik-sunum-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/yesillik-reyonu-sebze-sunum-tezgahi/"
+}

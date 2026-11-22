@@ -1,0 +1,26 @@
+{
+  "id": 125,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "",
+  "order": 1170,
+  "vitrin": [],
+  "names": {
+    "tr": "Market Rafı Ahşap Kaplama",
+    "en": "Wooden Shelf Cladding",
+    "de": "Regalverkleidung aus Holz",
+    "fr": "Habillage d’étagères en bois",
+    "ar": "كسوة رفوف خشبية"
+  },
+  "descs": {
+    "tr": "Market raflarına sıcak ahşap görünüm kazandıran kaplama.",
+    "en": "Cladding that gives store shelves a warm wooden look.",
+    "de": "Verkleidung, die Ladenregalen eine warme Holzoptik verleiht.",
+    "fr": "Habillage qui donne aux étagères un aspect bois chaleureux.",
+    "ar": "كسوة تمنح رفوف المتجر مظهرًا خشبيًا دافئًا."
+  },
+  "images": [
+    "media/products/market-rafi-ahsap-kaplama-1.webp",
+    "media/products/market-rafi-ahsap-kaplama-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-raf-ahsap-kaplama/"
+}

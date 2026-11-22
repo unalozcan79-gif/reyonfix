@@ -1,0 +1,26 @@
+{
+  "id": 196,
+  "category": "Promosyon Stand",
+  "code": "HP-SK-3",
+  "order": 1040,
+  "vitrin": [],
+  "names": {
+    "tr": "Şarküteri Orta Raf Teşhir Standı",
+    "en": "Deli Island Display Shelf",
+    "de": "Feinkost-Inselregal",
+    "fr": "Étagère îlot pour traiteur",
+    "ar": "رف جزيرة للأطعمة الباردة"
+  },
+  "descs": {
+    "tr": "Şarküteri alanlarının ortası için dikkat çekici raf.",
+    "en": "Eye-catching shelf for the middle of deli areas.",
+    "de": "Auffälliges Regal für die Mitte des Feinkostbereichs.",
+    "fr": "Étagère accrocheuse pour le centre de l’espace traiteur.",
+    "ar": "رف لافت لمنتصف قسم الأطعمة الباردة."
+  },
+  "images": [
+    "media/products/sarkuteri-orta-raf-teshir-standi-1.webp",
+    "media/products/sarkuteri-orta-raf-teshir-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-sarkuteri-orta-raf-teshir-standi/"
+}

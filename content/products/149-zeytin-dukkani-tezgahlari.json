@@ -1,0 +1,26 @@
+{
+  "id": 149,
+  "category": "Zeytinlik Reyonu",
+  "code": "",
+  "order": 1160,
+  "vitrin": [],
+  "names": {
+    "tr": "Zeytin Dükkanı Tezgahları",
+    "en": "Olive Shop Counters",
+    "de": "Theken für Olivengeschäfte",
+    "fr": "Comptoirs pour magasins d’olives",
+    "ar": "طاولات محلات الزيتون"
+  },
+  "descs": {
+    "tr": "Yoğun zeytin satışı yapan dükkanlar için çok hazneli tezgahlar.",
+    "en": "Multi-bin counters for high-volume olive shops.",
+    "de": "Theken mit vielen Behältern für Olivengeschäfte mit hohem Umsatz.",
+    "fr": "Comptoirs multi-bacs pour magasins d’olives à fort volume.",
+    "ar": "طاولات متعددة الأحواض لمحلات الزيتون كثيرة المبيعات."
+  },
+  "images": [
+    "media/products/zeytin-dukkani-tezgahlari-1.webp",
+    "media/products/zeytin-dukkani-tezgahlari-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/zeytin-dukkani-tezgahlari/"
+}

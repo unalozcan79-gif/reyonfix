@@ -1,0 +1,29 @@
+{
+  "id": 138,
+  "category": "Zeytinlik Reyonu",
+  "code": "HP-SLTBR-1",
+  "order": 40,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "Salata Bar ve Benmari Standı",
+    "en": "Salad Bar & Bain-Marie Stand",
+    "de": "Salatbar und Bain-Marie",
+    "fr": "Bar à salades et bain-marie",
+    "ar": "بار سلطات وبان ماري"
+  },
+  "descs": {
+    "tr": "Otel ve marketler için zeytin-salata sunum standı.",
+    "en": "Olive and salad presentation stand for hotels and stores.",
+    "de": "Präsentationsstand für Oliven und Salate in Hotels und Märkten.",
+    "fr": "Présentoir à olives et salades pour hôtels et magasins.",
+    "ar": "ستاند لعرض الزيتون والسلطات في الفنادق والمتاجر."
+  },
+  "images": [
+    "media/products/salata-bar-ve-benmari-standi-1.webp",
+    "media/products/salata-bar-ve-benmari-standi-2.webp",
+    "media/products/salata-bar-ve-benmari-standi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/salatabar-standi-otel-bar-benmari/"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 81,
+  "category": "Manav Ekipmanları",
+  "code": "PR-2",
+  "order": 110,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "Aynalı Duvar Raflı Metal Manav Tezgahı",
+    "en": "Mirrored Metal Shelving Counter",
+    "de": "Metall-Wandtheke mit Regal und Spiegel",
+    "fr": "Comptoir mural métallique avec étagères et miroir",
+    "ar": "طاولة جدارية معدنية برفوف ومرآة"
+  },
+  "descs": {
+    "tr": "Raflı ve aynalı, sağlam metal duvar tezgahı.",
+    "en": "Sturdy mirrored metal wall counter with shelves.",
+    "de": "Stabile Metall-Wandtheke mit Spiegel und Regalböden.",
+    "fr": "Comptoir mural métallique solide avec miroir et étagères.",
+    "ar": "طاولة جدارية معدنية متينة بمرآة ورفوف."
+  },
+  "images": [
+    "media/products/aynali-duvar-rafli-metal-manav-tezgahi-1.webp",
+    "media/products/aynali-duvar-rafli-metal-manav-tezgahi-2.webp",
+    "media/products/aynali-duvar-rafli-metal-manav-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-tipi-rafli-manav-metal-tezgahi/"
+}

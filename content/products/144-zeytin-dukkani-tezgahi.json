@@ -1,0 +1,29 @@
+{
+  "id": 144,
+  "category": "Zeytinlik Reyonu",
+  "code": "",
+  "order": 70,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "Zeytin Dükkanı Tezgahı",
+    "en": "Olive Shop Counter",
+    "de": "Olivenladen-Theke",
+    "fr": "Comptoir pour magasin d’olives",
+    "ar": "طاولة محل زيتون"
+  },
+  "descs": {
+    "tr": "Kokuların karışmaması için kapaklı haznelere sahip tezgah.",
+    "en": "Counter with lidded bins to keep aromas separate.",
+    "de": "Theke mit Deckelbehältern, damit sich die Aromen nicht vermischen.",
+    "fr": "Comptoir à bacs couverts pour préserver les arômes.",
+    "ar": "طاولة بأحواض مغطاة تحافظ على الروائح منفصلة."
+  },
+  "images": [
+    "media/products/zeytin-dukkani-tezgahi-1.webp",
+    "media/products/zeytin-dukkani-tezgahi-2.webp",
+    "media/products/zeytin-dukkani-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/zeytin-dukkani-tezgahi/"
+}

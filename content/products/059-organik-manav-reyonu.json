@@ -1,0 +1,26 @@
+{
+  "id": 59,
+  "category": "Manav Ekipmanları",
+  "code": "HP-SK-1",
+  "order": 1470,
+  "vitrin": [],
+  "names": {
+    "tr": "Organik Manav Reyonu",
+    "en": "Organic Produce Unit",
+    "de": "Einheit für Bio-Obst & Gemüse",
+    "fr": "Meuble pour produits bio",
+    "ar": "وحدة للمنتجات العضوية"
+  },
+  "descs": {
+    "tr": "Organik ürünler için doğal görünümlü duvar reyonu.",
+    "en": "Natural-looking wall unit for organic produce.",
+    "de": "Wandeinheit mit natürlicher Optik für Bio-Produkte.",
+    "fr": "Meuble mural d’aspect naturel pour fruits et légumes bio.",
+    "ar": "وحدة جدارية بمظهر طبيعي للخضار والفواكه العضوية."
+  },
+  "images": [
+    "media/products/organik-manav-reyonu-1.webp",
+    "media/products/organik-manav-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/aynasiz-duvar-organik-manav-reyonu/"
+}

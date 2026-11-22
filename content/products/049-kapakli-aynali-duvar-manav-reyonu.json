@@ -1,0 +1,26 @@
+{
+  "id": 49,
+  "category": "Manav Ekipmanları",
+  "code": "HP-11",
+  "order": 1370,
+  "vitrin": [],
+  "names": {
+    "tr": "Kapaklı Aynalı Duvar Manav Reyonu",
+    "en": "Mirrored Wall Produce Unit with Lids",
+    "de": "Wand-Obsteinheit mit Spiegel und Deckeln",
+    "fr": "Meuble mural à miroir avec couvercles",
+    "ar": "وحدة جدارية بمرآة وأغطية"
+  },
+  "descs": {
+    "tr": "Dükkan önü ve dış alanlar için kapaklı manav reyonu.",
+    "en": "Lidded produce unit for shopfronts and outdoor areas.",
+    "de": "Abdeckbare Einheit für Schaufensterfront und Außenbereich.",
+    "fr": "Meuble à couvercles pour devanture et extérieur.",
+    "ar": "وحدة مغطاة لواجهات المحلات والمساحات الخارجية."
+  },
+  "images": [
+    "media/products/kapakli-aynali-duvar-manav-reyonu-1.webp",
+    "media/products/kapakli-aynali-duvar-manav-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-manav-reyonu-kapakli/"
+}

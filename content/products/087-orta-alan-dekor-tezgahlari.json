@@ -1,0 +1,27 @@
+{
+  "id": 87,
+  "category": "Yeni Market Ekipmanları",
+  "code": "HP-MOC-1",
+  "order": 120,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Orta Alan Dekor Tezgahları",
+    "en": "Decorative Island Counters",
+    "de": "Dekorative Inseltheken",
+    "fr": "Îlots décoratifs",
+    "ar": "طاولات جزيرة ديكورية"
+  },
+  "descs": {
+    "tr": "Marketlere özel tasarım dokunuşu katan orta alan tezgahları.",
+    "en": "Island counters adding a bespoke design touch to stores.",
+    "de": "Inseltheken mit individueller Designnote für Ihr Geschäft.",
+    "fr": "Îlots apportant une touche de design sur mesure.",
+    "ar": "طاولات وسطية تضيف لمسة تصميم خاصة للمتجر."
+  },
+  "images": [
+    "media/products/orta-alan-dekor-tezgahlari-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-dekor-tezgahlari/"
+}

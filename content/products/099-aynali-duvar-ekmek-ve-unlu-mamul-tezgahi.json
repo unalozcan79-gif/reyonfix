@@ -1,0 +1,26 @@
+{
+  "id": 99,
+  "category": "Unlu Mamul & Fırın Ekipmanları",
+  "code": "Hp-sk-5 Unlu Mamul",
+  "order": 1020,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynalı Duvar Ekmek ve Unlu Mamul Tezgahı",
+    "en": "Mirrored Wall Bakery Counter",
+    "de": "Wand-Brottheke mit Spiegel",
+    "fr": "Comptoir mural à miroir pour boulangerie",
+    "ar": "طاولة مخبوزات جدارية بمرآة"
+  },
+  "descs": {
+    "tr": "Poşetli ve açık ürünler için unlu mamul duvar tezgahı.",
+    "en": "Wall bakery counter for bagged and loose products.",
+    "de": "Wand-Backwarentheke für verpackte und lose Ware.",
+    "fr": "Comptoir mural pour pain emballé et en vrac.",
+    "ar": "طاولة مخبوزات جدارية للمنتجات المعبأة والسائبة."
+  },
+  "images": [
+    "media/products/aynali-duvar-ekmek-ve-unlu-mamul-tezgahi-1.webp",
+    "media/products/aynali-duvar-ekmek-ve-unlu-mamul-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-ekmek-ve-unlu-mamul-tezgahi/"
+}

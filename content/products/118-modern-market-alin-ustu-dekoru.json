@@ -1,0 +1,26 @@
+{
+  "id": 118,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "HP-DK-S2",
+  "order": 1100,
+  "vitrin": [],
+  "names": {
+    "tr": "Modern Market Alın Üstü Dekoru",
+    "en": "Modern Store Fascia Décor",
+    "de": "Moderne Ladenblenden-Dekoration",
+    "fr": "Décor de fronton moderne",
+    "ar": "ديكور واجهة حديث للمتاجر"
+  },
+  "descs": {
+    "tr": "Süpermarket reyon alınları için modern dekor.",
+    "en": "Modern fascia décor for supermarket sections.",
+    "de": "Moderne Blendendekoration für Supermarktabteilungen.",
+    "fr": "Décor de fronton moderne pour les rayons de supermarché.",
+    "ar": "ديكور واجهة حديث لأقسام السوبرماركت."
+  },
+  "images": [
+    "media/products/modern-market-alin-ustu-dekoru-1.webp",
+    "media/products/modern-market-alin-ustu-dekoru-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/modern-market-alin-ustu-dekoru/"
+}

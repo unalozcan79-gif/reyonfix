@@ -1,0 +1,29 @@
+{
+  "id": 40,
+  "category": "Manav Ekipmanları",
+  "code": "VPR-2",
+  "order": 70,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Meyve Suyu Tezgahı – Vitamin Bar",
+    "en": "Fresh Juice Counter – Vitamin Bar",
+    "de": "Saftbar-Theke – Vitamin Bar",
+    "fr": "Comptoir à jus frais – Vitamin Bar",
+    "ar": "طاولة عصائر طازجة – Vitamin Bar"
+  },
+  "descs": {
+    "tr": "Taze meyve ve sebze suyu satışı için ideal tezgah.",
+    "en": "Ideal counter for selling fresh fruit and vegetable juices.",
+    "de": "Ideale Theke für frisch gepresste Obst- und Gemüsesäfte.",
+    "fr": "Comptoir idéal pour la vente de jus de fruits et légumes frais.",
+    "ar": "طاولة مثالية لبيع عصائر الفواكه والخضار الطازجة."
+  },
+  "images": [
+    "media/products/meyve-suyu-tezgahi-vitamin-bar-1.webp",
+    "media/products/meyve-suyu-tezgahi-vitamin-bar-2.webp",
+    "media/products/meyve-suyu-tezgahi-vitamin-bar-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/meyve-suyu-tezgahi-vitaminbar/"
+}

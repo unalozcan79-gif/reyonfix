@@ -1,0 +1,31 @@
+{
+  "id": 85,
+  "category": "Yeni Market Ekipmanları",
+  "code": "",
+  "order": 40,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Zeytin Bar Sunum Tezgahı",
+    "en": "Olive Bar Display Counter",
+    "de": "Olivenbar-Theke",
+    "fr": "Comptoir de bar à olives",
+    "ar": "طاولة بار الزيتون"
+  },
+  "descs": {
+    "tr": "Çatılı yapısıyla zeytin ve mezeleri öne çıkaran tezgah.",
+    "en": "Canopied counter that highlights olives and meze.",
+    "de": "Überdachte Theke, die Oliven und Meze hervorhebt.",
+    "fr": "Comptoir avec auvent qui met en valeur olives et mezzés.",
+    "ar": "طاولة بمظلة تُبرز الزيتون والمقبلات."
+  },
+  "images": [
+    "media/products/zeytin-bar-sunum-tezgahi-1.webp",
+    "media/products/zeytin-bar-sunum-tezgahi-2.webp",
+    "media/products/zeytin-bar-sunum-tezgahi-3.webp",
+    "media/products/zeytin-bar-sunum-tezgahi-4.webp",
+    "media/products/zeytin-bar-sunum-tezgahi-5.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/oliven-bar-zeytinlik-sunum-tezgahi/"
+}

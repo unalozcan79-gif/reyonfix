@@ -1,0 +1,26 @@
+{
+  "id": 158,
+  "category": "Market Ekipmanlari",
+  "code": "Hp-Ct 3 UA418",
+  "order": 1010,
+  "vitrin": [],
+  "names": {
+    "tr": "Mermer Üstlü Çekmeceli Çalışma Tezgahı",
+    "en": "Marble-Top Work Counter with Drawers",
+    "de": "Arbeitstheke mit Marmorplatte und Schubladen",
+    "fr": "Plan de travail marbre à tiroirs",
+    "ar": "طاولة عمل بسطح رخامي وأدراج"
+  },
+  "descs": {
+    "tr": "Şarküteri ve otel mutfakları için hijyenik çalışma tezgahı.",
+    "en": "Hygienic work counter for delis and hotel kitchens.",
+    "de": "Hygienische Arbeitstheke für Feinkost und Hotelküchen.",
+    "fr": "Plan de travail hygiénique pour traiteurs et cuisines d’hôtel.",
+    "ar": "طاولة عمل صحية لمحلات الأجبان ومطابخ الفنادق."
+  },
+  "images": [
+    "media/products/mermer-ustlu-cekmeceli-calisma-tezgahi-1.webp",
+    "media/products/mermer-ustlu-cekmeceli-calisma-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/mermer-ustlu-cekmece-ve-rafli-calisma-tezgahlari/"
+}

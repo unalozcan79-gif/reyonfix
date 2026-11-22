@@ -1,0 +1,29 @@
+{
+  "id": 142,
+  "category": "Zeytinlik Reyonu",
+  "code": "HP-64-1",
+  "order": 30,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "Zeytin Tezgahı",
+    "en": "Olive Counter",
+    "de": "Oliventheke",
+    "fr": "Comptoir à olives",
+    "ar": "طاولة زيتون"
+  },
+  "descs": {
+    "tr": "Zeytin ve salata bar ürünleri için klasik tezgah.",
+    "en": "Classic counter for olives and salad bar products.",
+    "de": "Klassische Theke für Oliven und Salatbar-Produkte.",
+    "fr": "Comptoir classique pour olives et produits de bar à salades.",
+    "ar": "طاولة كلاسيكية للزيتون ومنتجات بار السلطات."
+  },
+  "images": [
+    "media/products/zeytin-tezgahi-1.webp",
+    "media/products/zeytin-tezgahi-2.webp",
+    "media/products/zeytin-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/zeytin-tezgahi/"
+}

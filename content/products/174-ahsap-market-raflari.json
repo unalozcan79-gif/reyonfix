@@ -1,0 +1,29 @@
+{
+  "id": 174,
+  "category": "Market Ekipmanlari",
+  "code": "HP-MR-1",
+  "order": 10,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Ahşap Market Rafları",
+    "en": "Wooden Store Shelving",
+    "de": "Holz-Ladenregale",
+    "fr": "Rayonnages en bois",
+    "ar": "رفوف متاجر خشبية"
+  },
+  "descs": {
+    "tr": "Market, züccaciye ve eczaneler için modüler ahşap raf.",
+    "en": "Modular wooden shelving for stores, housewares and pharmacies.",
+    "de": "Modulare Holzregale für Märkte, Haushaltswaren und Apotheken.",
+    "fr": "Rayonnages modulaires en bois pour magasins, articles ménagers et pharmacies.",
+    "ar": "رفوف خشبية معيارية للمتاجر والأدوات المنزلية والصيدليات."
+  },
+  "images": [
+    "media/products/ahsap-market-raflari-1.webp",
+    "media/products/ahsap-market-raflari-2.webp",
+    "media/products/ahsap-market-raflari-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-ahsap-market-raflari/"
+}

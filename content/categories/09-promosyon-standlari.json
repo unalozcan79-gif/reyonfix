@@ -1,0 +1,19 @@
+{
+  "key": "Promosyon Stand",
+  "order": 90,
+  "names": {
+    "tr": "Promosyon Standları",
+    "en": "Promotion Stands",
+    "de": "Aktionsstände",
+    "fr": "Stands promotionnels",
+    "ar": "ستاندات العروض"
+  },
+  "descs": {
+    "tr": "Kampanya ve mevsim ürünlerini öne çıkaran özel standlar.",
+    "en": "Special stands that spotlight offers and seasonal products.",
+    "de": "Sonderstände, die Angebote und Saisonware ins Rampenlicht rücken.",
+    "fr": "Présentoirs qui mettent en avant les promotions et les produits de saison.",
+    "ar": "ستاندات خاصة تُبرز العروض ومنتجات الموسم."
+  },
+  "image": "media/products/tekerli-cikolata-ve-lokum-standi-1.webp"
+}

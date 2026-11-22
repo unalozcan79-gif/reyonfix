@@ -1,0 +1,29 @@
+{
+  "id": 8,
+  "category": "Cafe Pastane Ekipmanları",
+  "code": "HM-10",
+  "order": 90,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "Duvar Tipi Ekmek ve Pasta Reyonu",
+    "en": "Wall-Type Bread & Cake Section",
+    "de": "Wandabteilung für Brot und Kuchen",
+    "fr": "Rayon mural pain et gâteaux",
+    "ar": "قسم جداري للخبز والكيك"
+  },
+  "descs": {
+    "tr": "Ekmek ile yaş ve kuru pastayı tek reyonda sunan duvar tezgahı.",
+    "en": "Wall counter presenting bread, fresh and dry cakes in one section.",
+    "de": "Wandtheke für Brot sowie frische und trockene Kuchen in einer Abteilung.",
+    "fr": "Comptoir mural réunissant pains, gâteaux frais et secs dans un même rayon.",
+    "ar": "طاولة جدارية تجمع الخبز والكيك الطازج والجاف في قسم واحد."
+  },
+  "images": [
+    "media/products/duvar-tipi-ekmek-ve-pasta-reyonu-1.webp",
+    "media/products/duvar-tipi-ekmek-ve-pasta-reyonu-2.webp",
+    "media/products/duvar-tipi-ekmek-ve-pasta-reyonu-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/duvar-tipi-unlu-mamul-tezgahi-ekmek-ve-pasta-reyonu/"
+}

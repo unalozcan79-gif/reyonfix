@@ -1,0 +1,29 @@
+{
+  "id": 86,
+  "category": "Yeni Market Ekipmanları",
+  "code": "PR-4",
+  "order": 30,
+  "vitrin": [
+    "yeni"
+  ],
+  "names": {
+    "tr": "Meyve Ağacı Promosyon Tezgahı",
+    "en": "Fruit Tree Promotion Stand",
+    "de": "Obstbaum-Aktionsstand",
+    "fr": "Présentoir promotionnel « arbre fruitier »",
+    "ar": "ستاند عروض على شكل شجرة فاكهة"
+  },
+  "descs": {
+    "tr": "Ağaç konseptiyle mevsim ürünlerini çekici sunan stand.",
+    "en": "Tree-concept stand presenting seasonal produce attractively.",
+    "de": "Stand im Baum-Design, der Saisonware attraktiv präsentiert.",
+    "fr": "Présentoir en forme d’arbre qui met en valeur les produits de saison.",
+    "ar": "ستاند بتصميم شجرة يعرض منتجات الموسم بجاذبية."
+  },
+  "images": [
+    "media/products/meyve-agaci-promosyon-tezgahi-1.webp",
+    "media/products/meyve-agaci-promosyon-tezgahi-2.webp",
+    "media/products/meyve-agaci-promosyon-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/manav-promosyon-teshir-tezgahi-meyve-agaci/"
+}

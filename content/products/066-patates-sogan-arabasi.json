@@ -1,0 +1,26 @@
+{
+  "id": 66,
+  "category": "Manav Ekipmanları",
+  "code": "Fr-29 Potato",
+  "order": 1540,
+  "vitrin": [],
+  "names": {
+    "tr": "Patates-Soğan Arabası",
+    "en": "Potato & Onion Cart",
+    "de": "Kartoffel- & Zwiebelwagen",
+    "fr": "Chariot pommes de terre et oignons",
+    "ar": "عربة البطاطا والبصل"
+  },
+  "descs": {
+    "tr": "Çuvallı ürünleri taşımak ve sergilemek için tekerli araba.",
+    "en": "Mobile cart for transporting and displaying sacked produce.",
+    "de": "Mobiler Wagen zum Transport und zur Präsentation von Sackware.",
+    "fr": "Chariot mobile pour transporter et présenter les produits en sacs.",
+    "ar": "عربة متنقلة لنقل وعرض المنتجات المعبأة في أكياس."
+  },
+  "images": [
+    "media/products/patates-sogan-arabasi-1.webp",
+    "media/products/patates-sogan-arabasi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-patates-sogan-arabasi-patates-sogan-reyonu/"
+}

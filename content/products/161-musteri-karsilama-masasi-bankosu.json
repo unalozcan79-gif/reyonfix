@@ -1,0 +1,26 @@
+{
+  "id": 161,
+  "category": "Market Ekipmanlari",
+  "code": "HP-39",
+  "order": 1040,
+  "vitrin": [],
+  "names": {
+    "tr": "Müşteri Karşılama Masası Bankosu",
+    "en": "Customer Service Desk",
+    "de": "Kundenservice-Theke",
+    "fr": "Comptoir service client",
+    "ar": "مكتب خدمة العملاء"
+  },
+  "descs": {
+    "tr": "Ödeme ve fatura işlemleri için özel tasarım banko.",
+    "en": "Purpose-designed desk for payments and invoicing.",
+    "de": "Speziell gestaltete Theke für Zahlungen und Rechnungen.",
+    "fr": "Comptoir conçu pour les paiements et la facturation.",
+    "ar": "مكتب مصمم للمدفوعات والفواتير."
+  },
+  "images": [
+    "media/products/musteri-karsilama-masasi-bankosu-1.webp",
+    "media/products/musteri-karsilama-masasi-bankosu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-musteri-karsilama-masasi-bankosu/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 129,
+  "category": "Dekorasyon Uygulamaları",
+  "code": "HP-DK-13",
+  "order": 1210,
+  "vitrin": [],
+  "names": {
+    "tr": "Boğa ve İnek Figürleri",
+    "en": "Bull & Cow Figures",
+    "de": "Stier- und Kuhfiguren",
+    "fr": "Figurines taureau et vache",
+    "ar": "مجسمات ثور وبقرة"
+  },
+  "descs": {
+    "tr": "Etlik ve şarküteri arkası için dekoratif figürler.",
+    "en": "Decorative figures for behind meat and deli counters.",
+    "de": "Dekorative Figuren für den Bereich hinter Fleisch- und Feinkosttheken.",
+    "fr": "Figurines décoratives pour l’arrière des comptoirs viande et traiteur.",
+    "ar": "مجسمات ديكورية لخلف طاولات اللحوم والأجبان."
+  },
+  "images": [
+    "media/products/boga-ve-inek-figurleri-1.webp",
+    "media/products/boga-ve-inek-figurleri-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-etlik-sarkuteri-dekor-boga-inek-figurleri/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 185,
+  "category": "Vitamin Bar & Kiosk Bar",
+  "code": "VPR1",
+  "order": 1080,
+  "vitrin": [],
+  "names": {
+    "tr": "Tekerli Meyve ve Sebze Vitamin Bar",
+    "en": "Mobile Fruit & Veg Vitamin Bar",
+    "de": "Mobile Obst- & Gemüse-Vitamin-Bar",
+    "fr": "Vitamin bar mobile fruits et légumes",
+    "ar": "فيتامين بار متنقل للخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Orta alanda taze meyve suyu satışı için tekerli bar.",
+    "en": "Mobile bar for fresh juice sales in the store centre.",
+    "de": "Mobile Bar für den Saftverkauf in der Ladenmitte.",
+    "fr": "Bar mobile pour la vente de jus frais au centre du magasin.",
+    "ar": "بار متنقل لبيع العصائر في منتصف المتجر."
+  },
+  "images": [
+    "media/products/tekerli-meyve-ve-sebze-vitamin-bar-1.webp",
+    "media/products/tekerli-meyve-ve-sebze-vitamin-bar-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-tekerli-meyve-ve-sebze-vitamin-bar/"
+}

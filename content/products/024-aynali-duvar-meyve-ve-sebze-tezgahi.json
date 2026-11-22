@@ -1,0 +1,28 @@
+{
+  "id": 24,
+  "category": "Manav Ekipmanları",
+  "code": "TR-1",
+  "order": 50,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "Aynalı Duvar Meyve ve Sebze Tezgahı",
+    "en": "Mirrored Wall Fruit & Veg Counter",
+    "de": "Obst- und Gemüse-Wandregal mit Spiegel",
+    "fr": "Meuble mural fruits et légumes avec miroir",
+    "ar": "رف خضار وفواكه جداري بمرآة"
+  },
+  "descs": {
+    "tr": "Manav dükkanları için klasik, aynalı duvar tezgahı.",
+    "en": "Classic mirrored wall counter for greengrocers.",
+    "de": "Klassisches Wandregal mit Spiegel für Obst- und Gemüseläden.",
+    "fr": "Meuble mural classique avec miroir pour primeurs.",
+    "ar": "رف جداري كلاسيكي بمرآة لمحلات الخضار والفواكه."
+  },
+  "images": [
+    "media/products/aynali-duvar-meyve-ve-sebze-tezgahi-1.webp",
+    "media/products/aynali-duvar-meyve-ve-sebze-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-meyve-ve-sebze-tezgahi/"
+}

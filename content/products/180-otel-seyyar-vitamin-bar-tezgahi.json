@@ -1,0 +1,28 @@
+{
+  "id": 180,
+  "category": "Vitamin Bar & Kiosk Bar",
+  "code": "Hp-Vtm- 3 Modern",
+  "order": 120,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Otel Seyyar Vitamin Bar Tezgahı",
+    "en": "Hotel Mobile Vitamin Bar",
+    "de": "Mobile Hotel-Vitaminbar",
+    "fr": "Bar à vitamines mobile pour hôtels",
+    "ar": "بار فيتامين متنقل للفنادق"
+  },
+  "descs": {
+    "tr": "Oteller için şık ve çok yönlü seyyar bar tezgahı.",
+    "en": "Stylish, versatile mobile bar counter for hotels.",
+    "de": "Elegante, vielseitige mobile Bartheke für Hotels.",
+    "fr": "Comptoir de bar mobile, élégant et polyvalent pour hôtels.",
+    "ar": "طاولة بار متنقلة أنيقة ومتعددة الاستخدامات للفنادق."
+  },
+  "images": [
+    "media/products/otel-seyyar-vitamin-bar-tezgahi-1.webp",
+    "media/products/otel-seyyar-vitamin-bar-tezgahi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/otel-seyyar-vitamin-bar-tezgahi/"
+}

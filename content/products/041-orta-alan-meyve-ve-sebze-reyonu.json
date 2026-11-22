@@ -1,0 +1,26 @@
+{
+  "id": 41,
+  "category": "Manav Ekipmanları",
+  "code": "FR 37 D1800",
+  "order": 1290,
+  "vitrin": [],
+  "names": {
+    "tr": "Orta Alan Meyve ve Sebze Reyonu",
+    "en": "Island Fruit & Vegetable Unit",
+    "de": "Insel-Einheit für Obst & Gemüse",
+    "fr": "Meuble îlot fruits et légumes",
+    "ar": "وحدة جزيرة للخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Ahşap detaylı, modüler orta alan manav reyonu.",
+    "en": "Modular island produce unit with wooden details.",
+    "de": "Modulare Insel-Einheit mit Holzdetails.",
+    "fr": "Îlot modulaire avec détails en bois.",
+    "ar": "وحدة وسطية معيارية بتفاصيل خشبية."
+  },
+  "images": [
+    "media/products/orta-alan-meyve-ve-sebze-reyonu-1.webp",
+    "media/products/orta-alan-meyve-ve-sebze-reyonu-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-meyve-ve-sebze-reyonu/"
+}

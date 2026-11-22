@@ -1,0 +1,29 @@
+{
+  "id": 55,
+  "category": "Manav Ekipmanları",
+  "code": "PR-37",
+  "order": 100,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Aynasız Orta Alan Çift Taraflı Tezgah",
+    "en": "Double-Sided Island Counter",
+    "de": "Beidseitige Inseltheke",
+    "fr": "Îlot double face",
+    "ar": "طاولة جزيرة بوجهين"
+  },
+  "descs": {
+    "tr": "Metal iskelet ve ahşap kaplamalı çift taraflı manav tezgahı.",
+    "en": "Double-sided produce counter with metal frame and wood cladding.",
+    "de": "Beidseitige Obsttheke mit Metallrahmen und Holzverkleidung.",
+    "fr": "Comptoir double face à cadre métallique et habillage bois.",
+    "ar": "طاولة خضار بوجهين بإطار معدني وكسوة خشبية."
+  },
+  "images": [
+    "media/products/aynasiz-orta-alan-cift-tarafli-tezgah-1.webp",
+    "media/products/aynasiz-orta-alan-cift-tarafli-tezgah-2.webp",
+    "media/products/aynasiz-orta-alan-cift-tarafli-tezgah-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynasiz-orta-alan-metal-cift-tarafli-meyve-ve-sebze-tezgahi/"
+}

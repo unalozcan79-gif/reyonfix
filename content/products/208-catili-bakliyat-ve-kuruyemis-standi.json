@@ -1,0 +1,28 @@
+{
+  "id": 208,
+  "category": "Bakliyat ve Kuruyemiş Standları",
+  "code": "HP-BK-1",
+  "order": 90,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Çatılı Bakliyat ve Kuruyemiş Standı",
+    "en": "Canopied Pulses & Nuts Stand",
+    "de": "Überdachter Stand für Hülsenfrüchte und Nüsse",
+    "fr": "Présentoir couvert légumineuses et fruits secs",
+    "ar": "ستاند مغطى للبقوليات والمكسرات"
+  },
+  "descs": {
+    "tr": "Orta alanda bakliyat ve kuruyemiş sunumu için çatılı stand.",
+    "en": "Canopied island stand for pulses and nuts.",
+    "de": "Überdachter Mittelraumstand für Hülsenfrüchte und Nüsse.",
+    "fr": "Présentoir central couvert pour légumineuses et fruits secs.",
+    "ar": "ستاند وسطي مغطى للبقوليات والمكسرات."
+  },
+  "images": [
+    "media/products/catili-bakliyat-ve-kuruyemis-standi-1.webp",
+    "media/products/catili-bakliyat-ve-kuruyemis-standi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-catili-bakliyat-ve-kuruyemis-teshir-standi/"
+}

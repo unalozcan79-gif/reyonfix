@@ -1,0 +1,25 @@
+{
+  "id": 82,
+  "category": "Manav Ekipmanları",
+  "code": "Eco-zcn 2 V2",
+  "order": 1690,
+  "vitrin": [],
+  "names": {
+    "tr": "Ekonomik Tekerlekli Manav Rafı",
+    "en": "Economy Mobile Produce Rack",
+    "de": "Mobiles Obstregal Economy",
+    "fr": "Étagère mobile économique fruits et légumes",
+    "ar": "رف خضار متنقل اقتصادي"
+  },
+  "descs": {
+    "tr": "Uygun maliyetli, tekerlekli meyve-sebze rafı.",
+    "en": "Cost-effective mobile fruit and vegetable rack.",
+    "de": "Kostengünstiges mobiles Regal für Obst und Gemüse.",
+    "fr": "Étagère mobile à prix avantageux pour fruits et légumes.",
+    "ar": "رف متنقل منخفض التكلفة للخضار والفواكه."
+  },
+  "images": [
+    "media/products/ekonomik-tekerlekli-manav-rafi-1.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-ekonomik-meyve-ve-sebze-rafi-uygun-tekerli-manav-rafi/"
+}

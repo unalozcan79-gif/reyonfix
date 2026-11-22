@@ -1,0 +1,29 @@
+{
+  "id": 192,
+  "category": "Tekel Rafları",
+  "code": "",
+  "order": 20,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Alkol, Şarap ve Viski Rafı",
+    "en": "Wine & Spirits Shelving",
+    "de": "Wein- und Spirituosenregal",
+    "fr": "Rayonnage vins et spiritueux",
+    "ar": "رف النبيذ والمشروبات"
+  },
+  "descs": {
+    "tr": "Alkollü ürünler için özel tasarım raf sistemi.",
+    "en": "Purpose-designed shelving for alcoholic beverages.",
+    "de": "Speziell entwickeltes Regal für alkoholische Getränke.",
+    "fr": "Rayonnage conçu spécialement pour les boissons alcoolisées.",
+    "ar": "رف مصمم خصيصًا للمشروبات."
+  },
+  "images": [
+    "media/products/alkol-sarap-ve-viski-rafi-1.webp",
+    "media/products/alkol-sarap-ve-viski-rafi-2.webp",
+    "media/products/alkol-sarap-ve-viski-rafi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-alkol-rafi-sarap-reyonu-viski-reyonu/"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 146,
+  "category": "Zeytinlik Reyonu",
+  "code": "",
+  "order": 90,
+  "vitrin": [
+    "zeytin"
+  ],
+  "names": {
+    "tr": "Dikdörtgen Zeytin Teşhir Standı",
+    "en": "Rectangular Olive Display Stand",
+    "de": "Rechteckiger Olivenständer",
+    "fr": "Présentoir rectangulaire à olives",
+    "ar": "ستاند زيتون مستطيل"
+  },
+  "descs": {
+    "tr": "Tekerlekli, orta alan dikdörtgen zeytin standı.",
+    "en": "Mobile rectangular olive stand for the store centre.",
+    "de": "Mobiler, rechteckiger Olivenständer für die Ladenmitte.",
+    "fr": "Présentoir mobile rectangulaire pour le centre du magasin.",
+    "ar": "ستاند زيتون متنقل مستطيل لمنتصف المتجر."
+  },
+  "images": [
+    "media/products/dikdortgen-zeytin-teshir-standi-1.webp",
+    "media/products/dikdortgen-zeytin-teshir-standi-2.webp",
+    "media/products/dikdortgen-zeytin-teshir-standi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-dikdortgen-zeytin-teshir-standi/"
+}

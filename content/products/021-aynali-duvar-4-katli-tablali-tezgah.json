@@ -1,0 +1,28 @@
+{
+  "id": 21,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 100,
+  "vitrin": [
+    "duvar"
+  ],
+  "names": {
+    "tr": "Aynalı Duvar 4 Katlı Tablalı Tezgah",
+    "en": "Mirrored 4-Tier Wall Counter with Trays",
+    "de": "Vierstöckige Wandtheke mit Schalen",
+    "fr": "Comptoir mural à quatre niveaux avec plateaux",
+    "ar": "طاولة جدارية بأربعة طوابق وصوانٍ"
+  },
+  "descs": {
+    "tr": "Aynalı arka panel ve tablalarla ürünü bol gösteren duvar tezgahı.",
+    "en": "Wall counter with mirror and trays that makes produce look abundant.",
+    "de": "Wandtheke mit Spiegel und Schalen, die die Ware reichhaltig wirken lässt.",
+    "fr": "Comptoir mural avec miroir et plateaux qui donne une impression d’abondance.",
+    "ar": "طاولة جدارية بمرآة وصوانٍ تُظهر البضاعة وفيرة."
+  },
+  "images": [
+    "media/products/aynali-duvar-4-katli-tablali-tezgah-1.webp",
+    "media/products/aynali-duvar-4-katli-tablali-tezgah-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-4-katli-tablali-tezgah/"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 76,
+  "category": "Manav Ekipmanları",
+  "code": "",
+  "order": 60,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Tekerlekli Yeşillik Standı",
+    "en": "Mobile Greens Stand",
+    "de": "Mobiler Ständer für Blattgemüse",
+    "fr": "Présentoir mobile pour légumes-feuilles",
+    "ar": "ستاند متنقل للخضار الورقية"
+  },
+  "descs": {
+    "tr": "Marul ve su teresi gibi yeşillikler için tekerlekli stand.",
+    "en": "Mobile stand for lettuce, watercress and other greens.",
+    "de": "Mobiler Ständer für Salat, Kresse und anderes Blattgemüse.",
+    "fr": "Présentoir mobile pour salades, cresson et autres légumes-feuilles.",
+    "ar": "ستاند متنقل للخس والجرجير وسائر الخضار الورقية."
+  },
+  "images": [
+    "media/products/tekerlekli-yesillik-standi-1.webp",
+    "media/products/tekerlekli-yesillik-standi-2.webp",
+    "media/products/tekerlekli-yesillik-standi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-yesillik-meyve-ve-sebze-standi/"
+}

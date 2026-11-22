@@ -1,0 +1,29 @@
+{
+  "id": 44,
+  "category": "Manav Ekipmanları",
+  "code": "Hp-81 d 2000",
+  "order": 30,
+  "vitrin": [
+    "manav"
+  ],
+  "names": {
+    "tr": "Orta Alan Tablalı Manav Tezgahı",
+    "en": "Island Counter with Trays",
+    "de": "Mittelraumtheke mit Schalen",
+    "fr": "Comptoir central à plateaux",
+    "ar": "طاولة وسطية بصوانٍ"
+  },
+  "descs": {
+    "tr": "Market ortası için tablalı sunum yapısına sahip tezgah.",
+    "en": "Island counter with tray-based display for the store centre.",
+    "de": "Mittelraumtheke mit Schalen für die Ladenmitte.",
+    "fr": "Comptoir central à plateaux pour le milieu du magasin.",
+    "ar": "طاولة وسطية بصوانٍ لمنتصف المتجر."
+  },
+  "images": [
+    "media/products/orta-alan-tablali-manav-tezgahi-1.webp",
+    "media/products/orta-alan-tablali-manav-tezgahi-2.webp",
+    "media/products/orta-alan-tablali-manav-tezgahi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-orta-alan-tablali-tezgahi/"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 184,
+  "category": "Vitamin Bar & Kiosk Bar",
+  "code": "",
+  "order": 1070,
+  "vitrin": [],
+  "names": {
+    "tr": "Konteyner Büfe",
+    "en": "Container Kiosk",
+    "de": "Container-Kiosk",
+    "fr": "Kiosque conteneur",
+    "ar": "كشك حاوية"
+  },
+  "descs": {
+    "tr": "Taşınabilir konteyner içine kurulan büfe sistemi.",
+    "en": "Kiosk system built into a transportable container.",
+    "de": "Kiosksystem in einem transportablen Container.",
+    "fr": "Kiosque intégré dans un conteneur transportable.",
+    "ar": "نظام كشك داخل حاوية قابلة للنقل."
+  },
+  "images": [
+    "media/products/konteyner-bufe-1.webp",
+    "media/products/konteyner-bufe-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/meyve-ve-sebze-konteyner-bufe-reyonu/"
+}

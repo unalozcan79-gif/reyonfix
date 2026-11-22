@@ -1,0 +1,29 @@
+{
+  "id": 197,
+  "category": "Promosyon Stand",
+  "code": "HP-SK-22",
+  "order": 50,
+  "vitrin": [
+    "market"
+  ],
+  "names": {
+    "tr": "Tekerli Çikolata ve Lokum Standı",
+    "en": "Mobile Chocolate & Candy Stand",
+    "de": "Mobiler Schokoladen- und Süßwarenstand",
+    "fr": "Présentoir mobile chocolats et confiseries",
+    "ar": "ستاند متنقل للشوكولاتة والحلوى"
+  },
+  "descs": {
+    "tr": "Çikolata, bisküvi ve şekerlemeler için tekerli stand.",
+    "en": "Mobile stand for chocolate, biscuits and sweets.",
+    "de": "Mobiler Stand für Schokolade, Kekse und Süßwaren.",
+    "fr": "Présentoir mobile pour chocolats, biscuits et confiseries.",
+    "ar": "ستاند متنقل للشوكولاتة والبسكويت والحلوى."
+  },
+  "images": [
+    "media/products/tekerli-cikolata-ve-lokum-standi-1.webp",
+    "media/products/tekerli-cikolata-ve-lokum-standi-2.webp",
+    "media/products/tekerli-cikolata-ve-lokum-standi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-tekerli-cikolata-standi-lokum-standi-seker-standi/"
+}

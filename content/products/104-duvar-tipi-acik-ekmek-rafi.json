@@ -1,0 +1,29 @@
+{
+  "id": 104,
+  "category": "Unlu Mamul & Fırın Ekipmanları",
+  "code": "HM-14",
+  "order": 50,
+  "vitrin": [
+    "firin"
+  ],
+  "names": {
+    "tr": "Duvar Tipi Açık Ekmek Rafı",
+    "en": "Wall Open Bread Shelving",
+    "de": "Offenes Wand-Brotregal",
+    "fr": "Étagère murale ouverte pour le pain",
+    "ar": "رف خبز جداري مفتوح"
+  },
+  "descs": {
+    "tr": "Ekmek, simit ve pastalar için açık raf sistemi.",
+    "en": "Open shelving for bread, simit and pastries.",
+    "de": "Offenes Regal für Brot, Simit und Gebäck.",
+    "fr": "Étagère ouverte pour pains, simits et viennoiseries.",
+    "ar": "رف مفتوح للخبز والسميت والمعجنات."
+  },
+  "images": [
+    "media/products/duvar-tipi-acik-ekmek-rafi-1.webp",
+    "media/products/duvar-tipi-acik-ekmek-rafi-2.webp",
+    "media/products/duvar-tipi-acik-ekmek-rafi-4.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-tipi-unlu-mamul-rafi-acik-ekmek-raflari/"
+}

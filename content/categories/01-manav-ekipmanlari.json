@@ -1,0 +1,19 @@
+{
+  "key": "Manav Ekipmanları",
+  "order": 10,
+  "names": {
+    "tr": "Manav Ekipmanları",
+    "en": "Produce Equipment",
+    "de": "Obst- und Gemüseausstattung",
+    "fr": "Équipements primeur",
+    "ar": "تجهيزات الخضار والفواكه"
+  },
+  "descs": {
+    "tr": "Ürünü taze, bol ve davetkâr gösteren manav reyonları, tezgahlar ve aksesuarlar.",
+    "en": "Produce units, counters and accessories that make fruit and vegetables look fresh and abundant.",
+    "de": "Mittelraumständer, Theken und Zubehör, die Obst und Gemüse frisch und reichhaltig wirken lassen.",
+    "fr": "Gondoles centrales, comptoirs et accessoires qui mettent en valeur la fraîcheur des fruits et légumes.",
+    "ar": "وحدات وسطية وطاولات وإكسسوارات تُظهر الخضار والفواكه طازجة ووفيرة."
+  },
+  "image": "media/products/aynali-duvar-meyve-ve-sebze-tezgahi-1.webp"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 51,
+  "category": "Manav Ekipmanları",
+  "code": "MA-2",
+  "order": 1390,
+  "vitrin": [],
+  "names": {
+    "tr": "Aynasız Tablalı Meyve Adası",
+    "en": "Island Fruit Display with Trays",
+    "de": "Insel-Obstpräsentation mit Tablaren",
+    "fr": "Présentoir îlot à fruits avec plateaux",
+    "ar": "عرض فواكه وسطي بصوانٍ"
+  },
+  "descs": {
+    "tr": "Yaş meyveleri orta alanda bolluk hissiyle sergileyen ada.",
+    "en": "Island that displays fresh fruit with a sense of abundance.",
+    "de": "Insel, die frisches Obst üppig präsentiert.",
+    "fr": "Îlot qui présente les fruits frais avec abondance.",
+    "ar": "جزيرة تعرض الفواكه الطازجة بوفرة."
+  },
+  "images": [
+    "media/products/aynasiz-tablali-meyve-adasi-1.webp",
+    "media/products/aynasiz-tablali-meyve-adasi-3.webp"
+  ],
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-aynasiz-tablali-meyve-adasi/"
+}
