@@ -158,7 +158,7 @@ TPL['base'] = r'''<!doctype html>
 <div class="bottom"><span>© 2026 Reyonfix · Huzur Pano. {{ t.rights }}</span><span class="langs">{% for l2, href in langlinks %}<a href="{{ href }}" hreflang="{{ l2 }}" lang="{{ l2 }}">{{ langnames[l2] }}</a>{% endfor %}</span></div>
 </div></footer>
 <a class="wa" href="{{ wa_link or wa_general }}" target="_blank" rel="noopener" aria-label="WhatsApp">{{ chat|safe }}</a>
-<script>document.addEventListener('click',function(e){var b=e.target.closest('.st-pad');if(!b)return;var r=b.parentNode.previousElementSibling,rtl=getComputedStyle(r).direction=='rtl';r.scrollBy({left:(+b.dataset.d)*(rtl?-1:1)*r.clientWidth*.8,behavior:'smooth'})});</script>
+<script>document.addEventListener('click',function(e){var b=e.target.closest('.st-pad');if(!b)return;var r=b.parentNode.previousElementSibling,rtl=getComputedStyle(r).direction=='rtl';r.scrollBy({left:(+b.dataset.d)*(rtl?-1:1)*r.clientWidth*.8,behavior:'smooth'})});</script><script>document.querySelectorAll('.st-icons').forEach(function(n){var c=n.querySelector('a.cur');if(c){n.scrollLeft+=c.getBoundingClientRect().left-n.getBoundingClientRect().left-(n.clientWidth-c.offsetWidth)/2}});document.addEventListener('click',function(e){var a=e.target.closest('.st-icons a');if(a&&!a.classList.contains('cur'))a.classList.add('go')});window.addEventListener('pageshow',function(){document.querySelectorAll('.st-icons a.go').forEach(function(a){a.classList.remove('go')})});</script>
 {% block js %}{% endblock %}
 </body></html>'''
 

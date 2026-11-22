@@ -311,11 +311,8 @@ section.ap{padding:56px 0 0;text-align:center;overflow:hidden}
 .st-icons{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding:8px var(--edge) 28px;scroll-padding-inline:var(--edge)}
 .st-icons::-webkit-scrollbar,.st-row::-webkit-scrollbar{display:none}
 .st-icons a{flex:0 0 132px;text-align:center;color:var(--ink);padding:8px 4px;border-radius:14px}
-.st-icons a:hover{text-decoration:none}
-.st-icons a:hover b{color:var(--acc-t)}
 .st-icons .ic{display:flex;align-items:center;justify-content:center;height:96px;margin-bottom:10px}
 .st-icons .ic img{max-height:96px;max-width:118px;width:auto;object-fit:contain;mix-blend-mode:multiply;transition:transform .3s}
-.st-icons a:hover .ic img{transform:scale(1.06)}
 .st-icons .ic.ph img{width:96px;height:96px;object-fit:cover;border-radius:22px;mix-blend-mode:normal}
 .st-icons b{display:block;font-size:14px;font-weight:500;line-height:1.25;letter-spacing:-.01em}
 .st-sec{padding:clamp(36px,5vw,56px) 0 0}
@@ -459,3 +456,13 @@ a.st-card:hover{text-decoration:none;transform:scale(1.015);box-shadow:2px 4px 1
 .kat-pages{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;padding-bottom:40px}
 .kat-pages img{width:100%;border-radius:14px;box-shadow:2px 4px 14px rgba(0,0,0,.1)}
 @media (max-width:900px){.kat{grid-template-columns:1fr}.kat-pages{grid-template-columns:1fr}}
+
+/* kategori şeridi: dokunma tepkisi + yalnız gerçek fare için hover */
+.st-icons a{-webkit-tap-highlight-color:transparent;touch-action:manipulation;transition:transform .12s,background .12s}
+.st-icons a:hover{text-decoration:none}
+@media (hover:hover){.st-icons a:hover b{color:var(--acc-t)}.st-icons a:hover .ic img{transform:scale(1.06)}}
+.st-icons a:active{transform:scale(.94);background:rgba(238,101,16,.10)}
+.st-icons a:active b{color:var(--acc-t)}
+.st-icons a.go{background:rgba(238,101,16,.10)}
+.st-icons a.go b{color:var(--acc-t)}
+.st-icons a.go .ic{opacity:.6}
