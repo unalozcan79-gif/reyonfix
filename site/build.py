@@ -232,7 +232,7 @@ TPL['macros'] = r'''{% macro card(p) %}<a class="card" href="{{ r(p.path) }}"><d
 <div class="tx">{% if eb %}<span class="eb">{{ eb }}</span>{% endif %}<h3>{{ p.name }}</h3>{% if p.code %}<p class="pr">{{ x.code }}: <span class="ltr">{{ p.code }}</span></p>{% else %}<p>{{ p.desc }}</p>{% endif %}</div>
 <img src="{{ r(p.img.s) }}" alt="{{ p.name }}" loading="lazy"></a>{% endmacro %}
 {% macro pads() %}<div class="wrap st-pads"><button type="button" class="st-pad" data-d="-1" aria-label="‹">‹</button><button type="button" class="st-pad" data-d="1" aria-label="›">›</button></div>{% endmacro %}
-{% macro catnavbar(curkey='') %}<nav class="st-icons" aria-label="{{ t.nav_products }}">{% for c in catnav %}<a href="{{ r(c.path) }}"{% if c.key == curkey %} aria-current="page" class="cur"{% endif %}><span class="ic{% if not c.cut %} ph{% endif %}"><img src="{{ r(c.img) }}" alt="" loading="lazy"></span><b>{{ c.name }}</b></a>{% endfor %}</nav>{{ pads() }}{% endmacro %}
+{% macro catnavbar(curkey='') %}<nav class="st-icons" aria-label="{{ t.nav_products }}">{% for c in catnav %}<a href="{{ r(c.path) }}#modeller"{% if c.key == curkey %} aria-current="page" class="cur"{% endif %}><span class="ic{% if not c.cut %} ph{% endif %}"><img src="{{ r(c.img) }}" alt="" loading="lazy"></span><b>{{ c.name }}</b></a>{% endfor %}</nav>{{ pads() }}{% endmacro %}
 {% macro onlyrow() %}<section class="st-sec">
 <h2 class="wrap st-h2"><em>{{ x.only_a }}</em> {{ x.only_b }}</h2>
 <div class="st-row">{% for eb, h, l in x.only %}<div class="st-card st-tc"><div class="tx"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true">{{ icons_svg[loop.index0]|safe }}</svg><span class="eb">{{ eb }}</span><h3>{{ h }}</h3>{% if l %}<a href="{{ wa_general }}" target="_blank" rel="noopener">{{ l }} ›</a>{% endif %}</div></div>{% endfor %}</div>{{ pads() }}
@@ -265,7 +265,7 @@ TPL['category'] = r'''{% extends "base" %}{% block main %}
 </div>
 {{ catnavbar(cat.key) }}
 <section class="st-sec"><div class="wrap">
-<h2 class="st-h2"><em>{{ x.all_models }}</em> {{ cat.name }}</h2>
+<h2 class="st-h2" id="modeller"><em>{{ x.all_models }}</em> {{ cat.name }}</h2>
 <div class="st-grid">{% for p in items %}{{ stcard(p) }}{% endfor %}</div>
 </div></section>
 {{ onlyrow() }}
