@@ -333,14 +333,18 @@ TPL['contact'] = r'''{% extends "base" %}{% block main %}
 {% endblock %}'''
 
 TPL['catalog'] = r'''{% extends "base" %}{% block main %}
-<div class="wrap">
-<nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="{{ r(home) }}">{{ t.home }}</a></li><li aria-current="page">{{ t.nav_catalog }}</li></ol></nav>
-<div class="split" style="padding:clamp(32px,5vw,64px) 0 100px">
-<div class="ph"><img src="{{ r(img.l) }}" alt="{{ t.catalog_page_h }}" width="1400" height="{{ (1400*img.r)|int }}"></div>
-<div><p class="eyebrow">{{ t.nav_catalog }} · PDF</p><h1 class="h2">{{ t.catalog_page_h }}</h1><p class="lead" style="margin-top:14px">{{ t.catalog_page_lead }}</p>
-<div class="btns"><a class="btn btn-p" href="{{ catalog_url }}" target="_blank" rel="noopener">{{ t.btn_catalog }}</a></div>
-<p class="note" style="margin-top:28px">{% for l2 in langs %}{% if l2 != L %}<a href="{{ catalogs[l2] }}" target="_blank" rel="noopener" lang="{{ l2 }}">{{ langnames[l2] }}</a>{% if not loop.last %} · {% endif %}{% endif %}{% endfor %}</p>
-</div></div></div>
+<div class="st">
+<div class="wrap"><nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="{{ r(home) }}">{{ t.home }}</a></li><li aria-current="page">{{ t.nav_catalog }}</li></ol></nav></div>
+<div class="wrap kat">
+<a class="kat-cover" href="{{ r(catalog_url) }}" target="_blank" rel="noopener"><img src="{{ r('/katalog/' ~ L ~ '-0.webp') }}" alt="{{ t.catalog_page_h }}" width="1000" height="707"></a>
+<div class="kat-tx"><p class="pd-eb">{{ t.nav_catalog }} · PDF · 43 {{ x.pages }}</p><h1>{{ t.catalog_page_h }}</h1><p class="pd-sum">{{ t.catalog_page_lead }}</p>
+<div class="pd-btns"><a class="btn btn-p" href="{{ r(catalog_url) }}" target="_blank" rel="noopener" download>{{ t.btn_catalog }}</a><a class="btn btn-s" href="{{ r(catalog_url) }}" target="_blank" rel="noopener">{{ x.open_pdf }}</a></div>
+<p class="note">{{ x.other_langs }}: {% for l2 in langs %}{% if l2 != L %}<a href="{{ r(catalogs[l2]) }}" target="_blank" rel="noopener" lang="{{ l2 }}">{{ langnames[l2] }}</a>{% if not loop.last %} · {% endif %}{% endif %}{% endfor %}</p></div>
+</div>
+<section class="st-sec"><h2 class="wrap st-h2"><em>{{ x.inside }}</em></h2>
+<div class="wrap kat-pages">{% for n in [1,2,3] %}<a href="{{ r(catalog_url) }}" target="_blank" rel="noopener"><img src="{{ r('/katalog/' ~ L ~ '-' ~ n ~ '.webp') }}" alt="{{ t.catalog_page_h }} {{ n + 1 }}" loading="lazy" width="1000" height="707"></a>{% endfor %}</div>
+</section>
+</div>
 {{ ctabox() }}
 {% endblock %}'''
 
@@ -369,7 +373,8 @@ ORG = {"@type": ["Organization", "LocalBusiness"], "@id": BASE + "/#org", "name"
                    "addressRegion": CONTACT['region'], "postalCode": CONTACT['postal'], "addressCountry": "TR"},
        "contactPoint": [{"@type": "ContactPoint", "telephone": CONTACT['mobile'], "contactType": "sales",
                          "availableLanguage": ["tr", "en", "de", "fr", "ar"]}],
-       "sameAs": ["https://manavreyonu.com.tr/"] + [u for _, u in CONTACT["social"]]}
+       "sameAs": ["https://manavreyonu.com.tr/"] + [u for _, u in CONTACT["social"]],
+       "geo": {"@type": "GeoCoordinates", "latitude": CONTACT["geo"][0], "longitude": CONTACT["geo"][1]}, "hasMap": CONTACT["maps"]}
 
 def caticon(c):
     if c['icon'] and c['icon'] in IMGMAP:
@@ -567,6 +572,8 @@ def build():
         for f in keep:
             if not os.path.exists(DIST + '/img/' + f):
                 shutil.copy(CACHE + '/' + f, DIST + '/img/' + f)
+        if os.path.isdir(ROOT + '/katalog'):
+            shutil.copytree(ROOT + '/katalog', DIST + '/katalog')
         if os.path.isdir(ROOT + '/admin'):
             shutil.copytree(ROOT + '/admin', DIST + '/admin')
     write_redirects()

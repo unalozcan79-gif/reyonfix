@@ -272,11 +272,11 @@ T['ar'] = dict(
 
 # katalog PDF dosyaları (önizlemede mevcut site medya adreslerine bağlanır)
 CATALOG_URL = {
-    'tr': 'https://manavreyonu.com.tr/wp-content/uploads/2026/11/Manav-Reyonu-Urun-Katalogu-2026-1.pdf',
-    'en': 'https://manavreyonu.com.tr/wp-content/uploads/2026/11/Manav-Reyonu-Catalogue-2026-EN.pdf',
-    'de': 'https://manavreyonu.com.tr/wp-content/uploads/2026/11/Manav-Reyonu-Katalog-2026-DE.pdf',
-    'fr': 'https://manavreyonu.com.tr/wp-content/uploads/2026/11/Manav-Reyonu-Catalogue-2026-FR.pdf',
-    'ar': 'https://manavreyonu.com.tr/wp-content/uploads/2026/11/Manav-Reyonu-Catalogue-2026-AR.pdf',
+    'tr': '/katalog/reyonfix-katalog-2026-tr.pdf',
+    'en': '/katalog/reyonfix-catalogue-2026-en.pdf',
+    'de': '/katalog/reyonfix-katalog-2026-de.pdf',
+    'fr': '/katalog/reyonfix-catalogue-2026-fr.pdf',
+    'ar': '/katalog/reyonfix-catalogue-2026-ar.pdf',
 }
 
 CONTACT = dict(
@@ -285,5 +285,6 @@ CONTACT = dict(
     phone1='+90 216 499 53 01', phone2='+90 216 499 53 02', mobile='+90 535 363 96 79', wa='905353639679',
     email='fabrika@huzurpano.com.tr',
     social=[('Instagram', 'https://www.instagram.com/manavreyonu_manavtezgahi/'), ('Facebook', 'https://www.facebook.com/manavreyon'), ('X', 'https://twitter.com/manavtezgahi/')],
-    maps='https://www.google.com/maps/search/?api=1&query=Eyüp+Sultan+İmam+Hatip+Cd.+No:22/A+Sancaktepe+İstanbul',
+    maps='https://www.google.com/maps/search/?api=1&query=Huzur+Pano&query_place_id=ChIJv4ZoC-fPyhQRaL0a7jij86s',
+    geo=(40.9796044, 29.2241196),
 )

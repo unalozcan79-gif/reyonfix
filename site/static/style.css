@@ -451,3 +451,11 @@ a.st-card:hover{text-decoration:none;transform:scale(1.015);box-shadow:2px 4px 1
 .social a:hover{background:var(--acc);color:#fff;text-decoration:none}
 .social svg{width:18px;height:18px;fill:currentColor}
 .social a:first-child svg{fill:none}
+/* katalog sayfası */
+.kat{display:grid;grid-template-columns:1.2fr 1fr;gap:clamp(28px,4vw,64px);align-items:center;padding-top:12px}
+.kat-cover img{width:100%;border-radius:18px;box-shadow:0 20px 50px rgba(0,0,0,.18);transition:transform .4s}
+.kat-cover:hover img{transform:scale(1.01)}
+.kat-tx h1{font-size:clamp(34px,4vw,56px);font-weight:600;letter-spacing:-.03em;line-height:1.06}
+.kat-pages{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;padding-bottom:40px}
+.kat-pages img{width:100%;border-radius:14px;box-shadow:2px 4px 14px rgba(0,0,0,.1)}
+@media (max-width:900px){.kat{grid-template-columns:1fr}.kat-pages{grid-template-columns:1fr}}
