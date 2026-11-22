@@ -284,5 +284,6 @@ CONTACT = dict(
     street='Eyüp Sultan Mah., İmam Hatip Cd. No:22/A', city='Sancaktepe', region='İstanbul', postal='34885', country='TR',
     phone1='+90 216 499 53 01', phone2='+90 216 499 53 02', mobile='+90 535 363 96 79', wa='905353639679',
     email='fabrika@huzurpano.com.tr',
+    social=[('Instagram', 'https://www.instagram.com/manavreyonu_manavtezgahi/'), ('Facebook', 'https://www.facebook.com/manavreyon'), ('X', 'https://twitter.com/manavtezgahi/')],
     maps='https://www.google.com/maps/search/?api=1&query=Eyüp+Sultan+İmam+Hatip+Cd.+No:22/A+Sancaktepe+İstanbul',
 )

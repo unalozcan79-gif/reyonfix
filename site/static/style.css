@@ -445,3 +445,9 @@ a.st-card:hover{text-decoration:none;transform:scale(1.015);box-shadow:2px 4px 1
 .pd-uses li{padding-inline-start:22px;position:relative;color:#3b3b3f}
 .pd-uses li::before{content:"✓";position:absolute;inset-inline-start:0;color:var(--acc-t);font-weight:700}
 @media (max-width:900px){.pd-more{grid-template-columns:1fr}}
+/* sosyal medya */
+.social{display:flex;gap:10px;margin-top:16px}
+.social a{width:36px;height:36px;border-radius:50%;background:#e8e8ed;color:#1d1d1f;display:grid;place-items:center;transition:background .2s,color .2s}
+.social a:hover{background:var(--acc);color:#fff;text-decoration:none}
+.social svg{width:18px;height:18px;fill:currentColor}
+.social a:first-child svg{fill:none}

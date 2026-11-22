@@ -96,6 +96,12 @@ def absu(path): return BASE + path
 LOGO = '<svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#ee6510"/><path d="M8.5 10.5h15M8.5 16h15M8.5 21.5h15" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/><path d="M8.5 7.5v17M23.5 7.5v17" stroke="#fff" stroke-width="2.2" stroke-linecap="round" opacity=".55"/></svg>'
 CHAT = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.2a9.8 9.8 0 0 0-8.5 14.7L2.2 21.8l5-1.3A9.8 9.8 0 1 0 12 2.2zm0 1.8a8 8 0 1 1-4.2 14.8l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 0 1 12 4zm-3.1 4.2c-.2 0-.5 0-.7.3-.3.3-.9.9-.9 2.2s1 2.6 1.1 2.7c.1.2 1.9 3 4.7 4.1 2.3.9 2.8.7 3.3.7s1.6-.7 1.8-1.3.2-1.2.2-1.3-.2-.2-.5-.3l-1.7-.8c-.3-.1-.4-.2-.6.1l-.8 1c-.2.2-.3.2-.6.1a6.6 6.6 0 0 1-3.3-2.9c-.2-.4.3-.4.7-1.2.1-.2 0-.3 0-.5l-.8-1.9c-.2-.5-.4-.4-.6-.4z"/></svg>'
 
+SOCIAL_SVG = {
+ 'Instagram': '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="17.3" cy="6.7" r="1.2" fill="currentColor"/></svg>',
+ 'Facebook': '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.5 21v-7.5h2.5l.4-3h-2.9V8.6c0-.9.3-1.5 1.5-1.5h1.5V4.4c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2.4H8v3h2.6V21z"/></svg>',
+ 'X': '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.8 3h3l-6.6 7.6L22 21h-6.1l-4.8-6.3L5.6 21h-3l7.1-8.1L2.3 3h6.2l4.3 5.7zm-1 16.2h1.7L7.3 4.7H5.5z"/></svg>',
+ 'WhatsApp': CHAT,
+}
 TPL = {}
 TPL['base'] = r'''<!doctype html>
 <html lang="{{ L }}" dir="{{ 'rtl' if L=='ar' else 'ltr' }}">
@@ -144,7 +150,8 @@ TPL['base'] = r'''<!doctype html>
 <div><a class="logo" href="{{ r(home) }}">{{ logo|safe }}<span>Reyon<b>fix</b></span></a><p style="margin-top:12px;max-width:320px">{{ t.footer_about }}</p></div>
 <div><h2>{{ t.nav_products }}</h2><ul>{% for c in fcats %}<li><a href="{{ r(c.path) }}">{{ c.name }}</a></li>{% endfor %}</ul></div>
 <div><h2>Reyonfix</h2><ul><li><a href="{{ r(p_products) }}">{{ t.all_products }}</a></li><li><a href="{{ r(p_about) }}">{{ t.nav_about }}</a></li><li><a href="{{ r(p_catalog) }}">{{ t.nav_catalog }}</a></li><li><a href="{{ r(p_contact) }}">{{ t.nav_contact }}</a></li></ul></div>
-<div><h2>{{ t.nav_contact }}</h2><ul><li>{{ c.street }}, {{ c.postal }} {{ c.city }} / {{ c.region }}</li><li><a class="ltr" href="tel:{{ c.phone1|replace(' ','') }}">{{ c.phone1 }}</a></li><li><a class="ltr" href="{{ wa_general }}" target="_blank" rel="noopener">{{ c.mobile }}</a></li><li><a href="mailto:{{ c.email }}">{{ c.email }}</a></li></ul></div>
+<div><h2>{{ t.nav_contact }}</h2><ul><li>{{ c.street }}, {{ c.postal }} {{ c.city }} / {{ c.region }}</li><li><a class="ltr" href="tel:{{ c.phone1|replace(' ','') }}">{{ c.phone1 }}</a></li><li><a class="ltr" href="{{ wa_general }}" target="_blank" rel="noopener">{{ c.mobile }}</a></li><li><a href="mailto:{{ c.email }}">{{ c.email }}</a></li></ul>
+<div class="social">{% for n, u in c.social %}<a href="{{ u }}" target="_blank" rel="noopener me" aria-label="{{ n }}" title="{{ n }}">{{ social_svg[n]|safe }}</a>{% endfor %}<a href="{{ wa_general }}" target="_blank" rel="noopener" aria-label="WhatsApp" title="WhatsApp">{{ social_svg['WhatsApp']|safe }}</a></div></div>
 </div>
 <div class="bottom"><span>© 2026 Reyonfix · Huzur Pano. {{ t.rights }}</span><span class="langs">{% for l2, href in langlinks %}<a href="{{ href }}" hreflang="{{ l2 }}" lang="{{ l2 }}">{{ langnames[l2] }}</a>{% endfor %}</span></div>
 </div></footer>
@@ -362,7 +369,7 @@ ORG = {"@type": ["Organization", "LocalBusiness"], "@id": BASE + "/#org", "name"
                    "addressRegion": CONTACT['region'], "postalCode": CONTACT['postal'], "addressCountry": "TR"},
        "contactPoint": [{"@type": "ContactPoint", "telephone": CONTACT['mobile'], "contactType": "sales",
                          "availableLanguage": ["tr", "en", "de", "fr", "ar"]}],
-       "sameAs": ["https://manavreyonu.com.tr/"]}
+       "sameAs": ["https://manavreyonu.com.tr/"] + [u for _, u in CONTACT["social"]]}
 
 def caticon(c):
     if c['icon'] and c['icon'] in IMGMAP:
@@ -398,7 +405,7 @@ def page_ctx(L, cur, alts_paths, title, desc, active=None, ogimg=None, ogtype='w
                 noindex=NOINDEX, active=active, logo=LOGO, chat=CHAT, home=path_home(L), p_products=path_products(L),
                 p_about=path_page(L, 'about'), p_contact=path_page(L, 'contact'), p_catalog=path_page(L, 'catalog'),
                 wa_general=wa(t['wa_general']), wa_link=wa_link, fcats=fcats,
-                x=XT[L], s=ST[L], icons_svg=ICOSVG, catnav=navicons(L))
+                x=XT[L], s=ST[L], icons_svg=ICOSVG, catnav=navicons(L), social_svg=SOCIAL_SVG)
 
 def write(path, htmltext):
     fp = DIST + path + ('index.html' if path.endswith('/') else '')
