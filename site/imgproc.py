@@ -23,12 +23,12 @@ def _job(src):
             return src, None
         need = [W for W, _ in SIZES if not os.path.exists(f'{CACHE}/{out[W]}')]
         if need:
-            im = im.convert('RGB')
+            im = im.convert('RGBA' if im.mode in ('RGBA', 'LA', 'P') and 'A' in im.convert('RGBA').getbands() and im.convert('RGBA').getextrema()[3][0] < 255 else 'RGB')
             for W, q in SIZES:
                 if W not in need:
                     continue
                 dst = f'{CACHE}/{out[W]}'
-                if W == 1400 and w <= 1400 and src.lower().endswith('.webp'):
+                if w <= W and src.lower().endswith('.webp'):
                     shutil.copy(src, dst)
                     continue
                 W2 = min(W, w)

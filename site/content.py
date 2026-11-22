@@ -46,7 +46,7 @@ def build_categories():
         slugs['ar'] = slugs['en']
         for L in names:
             descs.setdefault(L, '')
-        cats.append(dict(key=d['key'], names=names, descs=descs, slugs=slugs, image=_abs(d.get('image')), cover=None))
+        cats.append(dict(key=d['key'], names=names, descs=descs, slugs=slugs, image=_abs(d.get('image')), icon=_abs(d.get('icon')) if d.get('icon') else '', cover=None))
     return cats
 
 def build_products():

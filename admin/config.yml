@@ -132,6 +132,7 @@ collections:
           - { label: "Français", name: fr, widget: text }
           - { label: "العربية", name: ar, widget: text }
       - { label: "Kategori fotoğrafı", name: image, widget: image }
+      - { label: "Kategori ikonu (şeffaf zeminli, isteğe bağlı)", name: icon, widget: image, required: false, hint: "Boş bırakılırsa kategori fotoğrafı yuvarlak köşeli olarak kullanılır." }
 
   - name: settings
     label: Ayarlar

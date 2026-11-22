@@ -25,7 +25,7 @@ SEG = {
 
 cats = build_categories()
 prods = build_products()
-IMGMAP = imgproc.process([x for p in prods for x in p['srcs']] + [c['image'] for c in cats if c['image']])
+IMGMAP = imgproc.process([x for p in prods for x in p['srcs']] + [c['image'] for c in cats if c['image']] + [c['icon'] for c in cats if c['icon']])
 CAT = {c['key']: c for c in cats}
 
 # ---------- görseller ----------
@@ -223,7 +223,7 @@ TPL['macros'] = r'''{% macro card(p) %}<a class="card" href="{{ r(p.path) }}"><d
 <div class="tx">{% if eb %}<span class="eb">{{ eb }}</span>{% endif %}<h3>{{ p.name }}</h3>{% if p.code %}<p class="pr">{{ x.code }}: <span class="ltr">{{ p.code }}</span></p>{% else %}<p>{{ p.desc }}</p>{% endif %}</div>
 <img src="{{ r(p.img.s) }}" alt="{{ p.name }}" loading="lazy"></a>{% endmacro %}
 {% macro pads() %}<div class="wrap st-pads"><button type="button" class="st-pad" data-d="-1" aria-label="‹">‹</button><button type="button" class="st-pad" data-d="1" aria-label="›">›</button></div>{% endmacro %}
-{% macro catnavbar(curkey='') %}<nav class="st-icons" aria-label="{{ t.nav_products }}">{% for c in catnav %}<a href="{{ r(c.path) }}"{% if c.key == curkey %} aria-current="page" class="cur"{% endif %}><span class="ic ph"><img src="{{ r(c.img) }}" alt="" loading="lazy"></span><b>{{ c.name }}</b></a>{% endfor %}</nav>{{ pads() }}{% endmacro %}
+{% macro catnavbar(curkey='') %}<nav class="st-icons" aria-label="{{ t.nav_products }}">{% for c in catnav %}<a href="{{ r(c.path) }}"{% if c.key == curkey %} aria-current="page" class="cur"{% endif %}><span class="ic{% if not c.cut %} ph{% endif %}"><img src="{{ r(c.img) }}" alt="" loading="lazy"></span><b>{{ c.name }}</b></a>{% endfor %}</nav>{{ pads() }}{% endmacro %}
 {% macro onlyrow() %}<section class="st-sec">
 <h2 class="wrap st-h2"><em>{{ x.only_a }}</em> {{ x.only_b }}</h2>
 <div class="st-row">{% for eb, h, l in x.only %}<div class="st-card st-tc"><div class="tx"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true">{{ icons_svg[loop.index0]|safe }}</svg><span class="eb">{{ eb }}</span><h3>{{ h }}</h3>{% if l %}<a href="{{ wa_general }}" target="_blank" rel="noopener">{{ l }} ›</a>{% endif %}</div></div>{% endfor %}</div>{{ pads() }}
@@ -359,6 +359,12 @@ ORG = {"@type": ["Organization", "LocalBusiness"], "@id": BASE + "/#org", "name"
                          "availableLanguage": ["tr", "en", "de", "fr", "ar"]}],
        "sameAs": ["https://manavreyonu.com.tr/"]}
 
+def caticon(c):
+    if c['icon'] and c['icon'] in IMGMAP:
+        im = images(dict(srcs=[c['icon']]))[0]
+        return '/img/' + im['t'], True
+    return favimg(c, True), False
+
 def favimg(c, small=False):
     if c['image'] and c['image'] in IMGMAP:
         im = images(dict(srcs=[c['image']]))[0]
@@ -369,7 +375,7 @@ def favimg(c, small=False):
 _NAV = {}
 def navicons(L):
     if L not in _NAV:
-        _NAV[L] = [dict(key=c['key'], name=c['names'][L], path=path_cat(L, c), img=favimg(c, True),
+        _NAV[L] = [dict(key=c['key'], name=c['names'][L], path=path_cat(L, c), img=caticon(c)[0], cut=caticon(c)[1],
                         count=sum(1 for p in in_lang(L) if p['key'] == c['key']))
                    for c in cats if any(p['key'] == c['key'] for p in in_lang(L))]
     return _NAV[L]
@@ -432,7 +438,7 @@ def build():
                "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in t['faq']]}]
         ctx = page_ctx(L, cur, alts, f"Reyonfix · {t['tagline']}", t['meta_home'], ogimg=BASE + '/img/' + hero['l'], jsonld=jl)
         ctx.update(catimg=dict(s='/img/' + pick(54)['imgs'][0]['s'], r=pick(54)['imgs'][0]['r']), catalog_url=CATALOG_URL[L])
-        icons = [dict(name=c['names'][L], path=path_cat(L, c), img=favimg(c, True), cut=False) for c in lcats]
+        icons = [dict(name=c['names'][L], path=path_cat(L, c), img=caticon(c)[0], cut=caticon(c)[1]) for c in lcats]
         ccards = []
         for c in lcats:
             ccards.append(dict(name=c['names'][L], desc=c['descs'][L], path=path_cat(L, c), img=favimg(c),
@@ -531,6 +537,9 @@ def build():
     if PREVIEW:
         for big, short in BIG.items():
             shutil.copy(CACHE + '/' + big, DIST + '/img/' + short)
+        for big, short in SHORT.items():
+            if not os.path.exists(DIST + '/img/' + short):
+                shutil.copy(CACHE + '/' + big, DIST + '/img/' + short)
     else:
         os.makedirs(DIST + '/img', exist_ok=True)
         keep = set(USED)
