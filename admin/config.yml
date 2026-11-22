@@ -1,8 +1,8 @@
 # Reyonfix yönetim paneli (Sveltia CMS)
-# GitHub kullanıcı adınız belli olunca aşağıdaki "KULLANICI_ADI" kısmını değiştirin.
+# GitHub deposu: unalozcan79-gif/reyonfix
 backend:
   name: github
-  repo: KULLANICI_ADI/reyonfix
+  repo: unalozcan79-gif/reyonfix
   branch: main
   commit_messages:
     create: "Yeni: {{slug}}"
