@@ -22,5 +22,61 @@
     "media/products/kasap-ve-sarkuteri-ustu-dekor-1.webp",
     "media/products/kasap-ve-sarkuteri-ustu-dekor-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-kasap-ustu-dekor-etlik-ustu-dekor-sarkuteri-dekoru/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-kasap-ustu-dekor-etlik-ustu-dekor-sarkuteri-dekoru/",
+  "details": {
+    "tr": "Kasap ve Şarküteri Üstü Dekor, mağazaya kimlik kazandırmak ve reyonları öne çıkarmak için tasarlandı. Etlik ve şarküteri bölümleri için üst dekor uygulaması.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Butcher & Deli Overhead Décor is designed to give the store its identity and make each section stand out. Overhead décor for meat and deli sections.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Dekoration über Fleisch- & Feinkosttheke wurde entwickelt, um dem Geschäft Identität zu geben und Abteilungen hervorzuheben. Dekoration oberhalb von Fleisch- und Feinkostabteilung.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Décor au-dessus des rayons boucherie et traiteur : une solution conçue pour donner une identité au magasin et mettre chaque rayon en valeur. Décor surplombant les rayons viande et traiteur.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ديكور فوق قسمي اللحوم والأجبان: صُمِّم لمنح المتجر هوية مميزة وإبراز كل قسم. ديكور علوي لأقسام اللحوم والأطعمة الباردة.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Kasap ve şarküteriler",
+      "Fırınlar",
+      "Manavlar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Butchers and delis",
+      "Bakeries",
+      "Greengrocers"
+    ],
+    "de": [
+      "Supermärkte",
+      "Metzgereien und Feinkost",
+      "Bäckereien",
+      "Obst- und Gemüseläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Boucheries et traiteurs",
+      "Boulangeries",
+      "Primeurs"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات اللحوم والأجبان",
+      "المخابز",
+      "محلات الخضار والفواكه"
+    ]
+  }
 }

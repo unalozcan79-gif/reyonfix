@@ -25,5 +25,76 @@
     "media/products/orta-alan-sebze-ve-meyve-reyonu-2.webp",
     "media/products/orta-alan-sebze-ve-meyve-reyonu-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-sebze-ve-meyve-reyonu/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-sebze-ve-meyve-reyonu/",
+  "details": {
+    "tr": "Orta Alan Sebze ve Meyve Reyonu, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Ahşap, arka plan görüntüsünü kapatmayan orta alan reyonu. Paslanmaz çelik detaylar hijyenik ve kolay temizlenir. Ahşap görünümü mağazaya sıcak ve doğal bir hava katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Island Vegetable & Fruit Unit is designed to show fruit and vegetables fresh, plentiful and tidy. Wooden island unit that keeps sightlines open. Stainless steel details are hygienic and easy to clean. The wood finish gives the store a warm, natural feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mittelraumständer für Obst und Gemüse wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Holzständer, der die Sichtachsen im Laden frei hält. Edelstahl-Elemente sind hygienisch und leicht zu reinigen. Die Holzoptik verleiht dem Geschäft eine warme, natürliche Atmosphäre.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Gondole centrale fruits et légumes : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Gondole en bois qui préserve la visibilité dans le magasin. Les éléments en inox sont hygiéniques et faciles à nettoyer. La finition bois apporte une ambiance chaleureuse et naturelle.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "وحدة وسطية للخضار والفواكه: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. وحدة خشبية تحافظ على وضوح الرؤية داخل المتجر. تفاصيل الستانلس ستيل صحية وسهلة التنظيف. يمنح التشطيب الخشبي المتجر أجواء دافئة وطبيعية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Ahşap görünüm ve kaplama",
+      "Paslanmaz çelik detaylar",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "Wood finish",
+      "Stainless steel details",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Holzoptik / Holzverkleidung",
+      "Edelstahl-Elemente",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Finition bois",
+      "Éléments en inox",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "تشطيب خشبي",
+      "تفاصيل من الستانلس ستيل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

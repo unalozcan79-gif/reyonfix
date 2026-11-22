@@ -22,5 +22,66 @@
     "media/products/duvar-rafli-karpuz-teshir-standi-1.webp",
     "media/products/duvar-rafli-karpuz-teshir-standi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-rafli-karpuz-teshir-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-rafli-karpuz-teshir-standi/",
+  "details": {
+    "tr": "Duvar Raflı Karpuz Teşhir Standı, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Karpuz ve kavunu estetik ve güvenli şekilde sergileyen raf.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Wall Watermelon Display Rack is designed to show fruit and vegetables fresh, plentiful and tidy. Rack displaying watermelons and melons safely and attractively.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Wandregal für Wassermelonen wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Regal, das Wasser- und Honigmelonen sicher und attraktiv zeigt.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Étagère murale à pastèques : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Étagère qui présente pastèques et melons de façon sûre et attrayante.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "رف جداري لعرض البطيخ: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. رف يعرض البطيخ والشمام بأمان وجاذبية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Duvar boyunca kullanım",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Runs along the wall",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Wandaufstellung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Installation le long du mur",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "يُركَّب على امتداد الجدار",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

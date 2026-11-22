@@ -23,5 +23,66 @@
   "images": [
     "media/products/orta-alan-dekor-tezgahlari-1.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-dekor-tezgahlari/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-dekor-tezgahlari/",
+  "details": {
+    "tr": "Orta Alan Dekor Tezgahları, satış alanında fark yaratan, dikkat çekici bir sunum için tasarlandı. Marketlere özel tasarım dokunuşu katan orta alan tezgahları.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Decorative Island Counters is designed for an eye-catching display that sets your sales floor apart. Island counters adding a bespoke design touch to stores.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Dekorative Inseltheken wurde für eine auffällige Präsentation entwickelt, die Ihre Verkaufsfläche hervorhebt. Inseltheken mit individueller Designnote für Ihr Geschäft.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Îlots décoratifs : une solution conçue pour une présentation remarquable qui distingue votre surface de vente. Îlots apportant une touche de design sur mesure.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولات جزيرة ديكورية: صُمِّم لعرض لافت يميّز مساحة البيع لديك. طاولات وسطية تضيف لمسة تصميم خاصة للمتجر.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Manavlar",
+      "Şarküteriler",
+      "Konsept mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Greengrocers",
+      "Delicatessens",
+      "Concept stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Obst- und Gemüseläden",
+      "Feinkostläden",
+      "Konzeptläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Primeurs",
+      "Épiceries fines",
+      "Concept stores"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات الخضار والفواكه",
+      "محلات الأطعمة الفاخرة",
+      "المتاجر المفاهيمية"
+    ]
+  }
 }

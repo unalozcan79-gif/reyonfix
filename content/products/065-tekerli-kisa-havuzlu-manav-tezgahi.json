@@ -25,5 +25,71 @@
     "media/products/tekerli-kisa-havuzlu-manav-tezgahi-2.webp",
     "media/products/tekerli-kisa-havuzlu-manav-tezgahi-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-kisa-havuzlu-manav-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-kisa-havuzlu-manav-tezgahi/",
+  "details": {
+    "tr": "Tekerli Kısa Havuzlu Manav Tezgahı, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Taşınabilir, havuzlu yapıda esnek manav tezgahı. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mobile Low Bin Produce Counter is designed to show fruit and vegetables fresh, plentiful and tidy. Flexible mobile produce counter with deep bins. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobile niedrige Obsttheke mit Behältern wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Flexible mobile Theke mit tiefen Behältern. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir mobile bas à bacs : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Comptoir mobile flexible à bacs profonds. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة خضار متنقلة منخفضة بأحواض: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. طاولة متنقلة مرنة بأحواض عميقة. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Tekerlekli, kolay taşınır",
+      "Derin hazneler",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "On castors, easy to move",
+      "Deep bins",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Auf Rollen, leicht zu verschieben",
+      "Tiefe Behälter",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Sur roulettes, facile à déplacer",
+      "Bacs profonds",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بعجلات وسهل التنقل",
+      "أحواض عميقة",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

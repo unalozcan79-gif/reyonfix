@@ -25,5 +25,81 @@
     "media/products/8-uniteli-zeytin-sunum-standi-2.webp",
     "media/products/8-uniteli-zeytin-sunum-standi-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-zeytin-sunum-standi-8-uniteli/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-zeytin-sunum-standi-8-uniteli/",
+  "details": {
+    "tr": "8 Üniteli Zeytin Sunum Standı, zeytin, meze ve salata çeşitlerini hijyenik ve iştah açıcı şekilde sunmak için tasarlandı. Sekiz haznede zeytin çeşitlerini bir arada sunar. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "8-Bin Olive Display Stand is designed to present olives, meze and salads hygienically and appetisingly. Presents eight olive varieties together. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Olivenständer mit 8 Behältern wurde entwickelt, um Oliven, Meze und Salate hygienisch und appetitlich zu präsentieren. Präsentiert acht Olivensorten auf einen Blick. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir à olives 8 bacs : une solution conçue pour présenter olives, mezzés et salades de façon hygiénique et appétissante. Présente huit variétés d’olives d’un seul coup d’œil. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند زيتون بثمانية أحواض: صُمِّم لعرض الزيتون والمقبلات والسلطات بشكل صحي وفاتح للشهية. يعرض ثمانية أصناف من الزيتون معًا. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Tekerlekli, kolay taşınır",
+      "Derin hazneler",
+      "8 ayrı ürün haznesi",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "On castors, easy to move",
+      "Deep bins",
+      "8 separate product wells",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Auf Rollen, leicht zu verschieben",
+      "Tiefe Behälter",
+      "8 getrennte Behälter",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Sur roulettes, facile à déplacer",
+      "Bacs profonds",
+      "8 bacs séparés",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "بعجلات وسهل التنقل",
+      "أحواض عميقة",
+      "8 حجيرات منفصلة",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Zeytin dükkanları",
+      "Şarküteriler",
+      "Süpermarketler",
+      "Otel ve açık büfeler"
+    ],
+    "en": [
+      "Olive shops",
+      "Delicatessens",
+      "Supermarkets",
+      "Hotels and buffets"
+    ],
+    "de": [
+      "Olivengeschäfte",
+      "Feinkostläden",
+      "Supermärkte",
+      "Hotels und Buffets"
+    ],
+    "fr": [
+      "Boutiques d’olives",
+      "Épiceries fines",
+      "Supermarchés",
+      "Hôtels et buffets"
+    ],
+    "ar": [
+      "محلات الزيتون",
+      "محلات الأطعمة الفاخرة",
+      "السوبرماركت",
+      "الفنادق والبوفيهات"
+    ]
+  }
 }

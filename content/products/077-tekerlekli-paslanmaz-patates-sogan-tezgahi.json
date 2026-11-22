@@ -25,5 +25,81 @@
     "media/products/tekerlekli-paslanmaz-patates-sogan-tezgahi-2.webp",
     "media/products/tekerlekli-paslanmaz-patates-sogan-tezgahi-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-havuzlu-orta-alan-patates-sogan-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-havuzlu-orta-alan-patates-sogan-tezgahi/",
+  "details": {
+    "tr": "Tekerlekli Paslanmaz Patates-Soğan Tezgahı, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Paslanmaz hazneli, hijyenik ve kolay temizlenen tezgah. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir. Paslanmaz çelik detaylar hijyenik ve kolay temizlenir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mobile Stainless Potato & Onion Counter is designed to show fruit and vegetables fresh, plentiful and tidy. Hygienic, easy-clean counter with stainless bins. Its castors let you move it easily around the store or out to the shopfront. Stainless steel details are hygienic and easy to clean.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobile Edelstahltheke für Kartoffeln & Zwiebeln wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Hygienische, leicht zu reinigende Theke mit Edelstahlbehältern. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen. Edelstahl-Elemente sind hygienisch und leicht zu reinigen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir mobile inox pommes de terre et oignons : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Comptoir hygiénique, facile à nettoyer, avec bacs inox. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine. Les éléments en inox sont hygiéniques et faciles à nettoyer.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة متنقلة من الستانلس للبطاطا والبصل: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. طاولة صحية سهلة التنظيف بأحواض من الستانلس. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه. تفاصيل الستانلس ستيل صحية وسهلة التنظيف.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Tekerlekli, kolay taşınır",
+      "Paslanmaz çelik detaylar",
+      "Derin hazneler",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "On castors, easy to move",
+      "Stainless steel details",
+      "Deep bins",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Auf Rollen, leicht zu verschieben",
+      "Edelstahl-Elemente",
+      "Tiefe Behälter",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Sur roulettes, facile à déplacer",
+      "Éléments en inox",
+      "Bacs profonds",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "بعجلات وسهل التنقل",
+      "تفاصيل من الستانلس ستيل",
+      "أحواض عميقة",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

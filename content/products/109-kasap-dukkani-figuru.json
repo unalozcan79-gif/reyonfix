@@ -22,5 +22,66 @@
     "media/products/kasap-dukkani-figuru-1.webp",
     "media/products/kasap-dukkani-figuru-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/kasap-dukkani-figuru/"
+  "old_url": "https://manavreyonu.com.tr/urun/kasap-dukkani-figuru/",
+  "details": {
+    "tr": "Kasap Dükkanı Figürü, mağazaya kimlik kazandırmak ve reyonları öne çıkarmak için tasarlandı. Ahşap oymalı kuzu, tavuk ve inek figürleriyle güven veren dekor. Ahşap görünümü mağazaya sıcak ve doğal bir hava katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Butcher Shop Animal Figures is designed to give the store its identity and make each section stand out. Carved wooden lamb, chicken and cow figures for butcher shops. The wood finish gives the store a warm, natural feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Tierfiguren für Metzgereien wurde entwickelt, um dem Geschäft Identität zu geben und Abteilungen hervorzuheben. Geschnitzte Holzfiguren von Lamm, Huhn und Rind für Metzgereien. Die Holzoptik verleiht dem Geschäft eine warme, natürliche Atmosphäre.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Figurines animales pour boucherie : une solution conçue pour donner une identité au magasin et mettre chaque rayon en valeur. Figurines en bois sculpté d’agneau, poulet et vache. La finition bois apporte une ambiance chaleureuse et naturelle.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "مجسمات حيوانات لمحلات اللحوم: صُمِّم لمنح المتجر هوية مميزة وإبراز كل قسم. مجسمات خشبية منحوتة لخروف ودجاجة وبقرة. يمنح التشطيب الخشبي المتجر أجواء دافئة وطبيعية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ahşap görünüm ve kaplama",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Wood finish",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Holzoptik / Holzverkleidung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Finition bois",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "تشطيب خشبي",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Kasap ve şarküteriler",
+      "Fırınlar",
+      "Manavlar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Butchers and delis",
+      "Bakeries",
+      "Greengrocers"
+    ],
+    "de": [
+      "Supermärkte",
+      "Metzgereien und Feinkost",
+      "Bäckereien",
+      "Obst- und Gemüseläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Boucheries et traiteurs",
+      "Boulangeries",
+      "Primeurs"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات اللحوم والأجبان",
+      "المخابز",
+      "محلات الخضار والفواكه"
+    ]
+  }
 }

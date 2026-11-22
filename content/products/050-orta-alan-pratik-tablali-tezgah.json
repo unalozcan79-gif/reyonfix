@@ -25,5 +25,71 @@
     "media/products/orta-alan-pratik-tablali-tezgah-2.webp",
     "media/products/orta-alan-pratik-tablali-tezgah-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-pratik-tablali-tezgah/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-pratik-tablali-tezgah/",
+  "details": {
+    "tr": "Orta Alan Pratik Tablalı Tezgah, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Vitrin önünde müşteriyi çeken, pratik tablalı tezgah.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Practical Island Tray Counter is designed to show fruit and vegetables fresh, plentiful and tidy. Practical tray counter that draws customers in from the window.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Praktische Insel-Tablartheke wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Praktische Tablartheke, die Kunden vom Schaufenster hereinholt.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir îlot pratique à plateaux : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Comptoir à plateaux pratique qui attire les clients depuis la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة جزيرة عملية بصوانٍ: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. طاولة صوانٍ عملية تجذب الزبائن من الواجهة.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Tablalı sunum yüzeyleri",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "Display trays",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Präsentationstablare",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Plateaux de présentation",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "صوانٍ للعرض",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

@@ -22,5 +22,66 @@
     "media/products/donut-kiosk-ve-satis-kabini-1.webp",
     "media/products/donut-kiosk-ve-satis-kabini-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/donust-kiosk-satis-kabini/"
+  "old_url": "https://manavreyonu.com.tr/urun/donust-kiosk-satis-kabini/",
+  "details": {
+    "tr": "Donut Kiosk ve Satış Kabini, taze meyve suyu, kahve ya da ürün satışını her yerde mümkün kılmak için tasarlandı. Cadde ve AVM'ler için kapalı satış kabini. Dükkân önü ve dış alanlarda kullanıma uygundur.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Donut Kiosk & Sales Cabin is designed to make fresh juice, coffee or product sales possible almost anywhere. Enclosed sales cabin for streets and malls. It is suitable for shopfronts and outdoor areas.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Donut-Kiosk & Verkaufskabine wurde entwickelt, um Saft-, Kaffee- oder Warenverkauf fast überall zu ermöglichen. Geschlossene Verkaufskabine für Straßen und Einkaufszentren. Geeignet für Ladenfront und Außenbereich.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Kiosque et cabine de vente de donuts : une solution conçue pour vendre jus frais, café ou produits presque partout. Cabine de vente fermée pour rues et centres commerciaux. Il convient aux devantures et aux espaces extérieurs.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "كشك ومقصورة بيع الدونات: صُمِّم لإتاحة بيع العصائر الطازجة أو القهوة أو المنتجات في أي مكان تقريبًا. مقصورة بيع مغلقة للشوارع ومراكز التسوق. مناسب لواجهات المحلات والمساحات الخارجية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Dış mekân ve dükkân önü kullanımına uygun",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Suitable for outdoor and shopfront use",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für Außenbereich und Ladenfront geeignet",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Adapté à l’extérieur et aux devantures",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "مناسب للخارج وواجهات المحلات",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Alışveriş merkezleri",
+      "Süpermarketler",
+      "Oteller",
+      "Cadde ve sahil noktaları"
+    ],
+    "en": [
+      "Shopping malls",
+      "Supermarkets",
+      "Hotels",
+      "Streets and seafronts"
+    ],
+    "de": [
+      "Einkaufszentren",
+      "Supermärkte",
+      "Hotels",
+      "Straßen und Promenaden"
+    ],
+    "fr": [
+      "Centres commerciaux",
+      "Supermarchés",
+      "Hôtels",
+      "Rues et fronts de mer"
+    ],
+    "ar": [
+      "مراكز التسوق",
+      "السوبرماركت",
+      "الفنادق",
+      "الشوارع والواجهات البحرية"
+    ]
+  }
 }

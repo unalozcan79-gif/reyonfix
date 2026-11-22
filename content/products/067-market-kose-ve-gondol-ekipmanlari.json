@@ -22,5 +22,66 @@
     "media/products/market-kose-ve-gondol-ekipmanlari-1.webp",
     "media/products/market-kose-ve-gondol-ekipmanlari-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-kose-ve-gondol-ekipmanlari/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-kose-ve-gondol-ekipmanlari/",
+  "details": {
+    "tr": "Market Köşe ve Gondol Ekipmanları, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Mağazada düzenli sergileme için köşe ve gondol çözümleri.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Corner & Gondola Units is designed to show fruit and vegetables fresh, plentiful and tidy. Corner and gondola solutions for organised merchandising.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Eck- und Gondeleinheiten wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Eck- und Gondellösungen für eine geordnete Warenpräsentation.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Meubles d’angle et gondoles : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Solutions d’angle et gondoles pour un merchandising ordonné.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "وحدات زوايا وجندولات: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. حلول للزوايا والجندولات لعرض منظم.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

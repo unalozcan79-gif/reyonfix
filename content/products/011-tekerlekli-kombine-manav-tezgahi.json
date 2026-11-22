@@ -22,5 +22,66 @@
     "media/products/tekerlekli-kombine-manav-tezgahi-1.webp",
     "media/products/tekerlekli-kombine-manav-tezgahi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/tekerlekli-kombine-manav-tezgahi-yesillik-patates-sogan-ve-karpuz-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/tekerlekli-kombine-manav-tezgahi-yesillik-patates-sogan-ve-karpuz-tezgahi/",
+  "details": {
+    "tr": "Tekerlekli Kombine Manav Tezgahı, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Yeşillik, patates-soğan ve karpuz bölümlerini tek gövdede toplayan tezgah. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mobile Combined Produce Counter is designed to show fruit and vegetables fresh, plentiful and tidy. One mobile unit for greens, potatoes-onions and watermelons. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobile Kombi-Theke für Obst & Gemüse wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Eine mobile Einheit für Blattgemüse, Kartoffeln, Zwiebeln und Melonen. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir mobile combiné fruits et légumes : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Une seule unité mobile pour légumes verts, pommes de terre, oignons et pastèques. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة متنقلة مركّبة للخضار والفواكه: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. وحدة متنقلة واحدة للخضار الورقية والبطاطا والبصل والبطيخ. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Tekerlekli, kolay taşınır",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "On castors, easy to move",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Auf Rollen, leicht zu verschieben",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Sur roulettes, facile à déplacer",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بعجلات وسهل التنقل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

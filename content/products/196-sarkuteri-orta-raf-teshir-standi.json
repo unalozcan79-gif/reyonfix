@@ -22,5 +22,66 @@
     "media/products/sarkuteri-orta-raf-teshir-standi-1.webp",
     "media/products/sarkuteri-orta-raf-teshir-standi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-sarkuteri-orta-raf-teshir-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-sarkuteri-orta-raf-teshir-standi/",
+  "details": {
+    "tr": "Şarküteri Orta Raf Teşhir Standı, kampanya ve mevsim ürünlerini öne çıkarmak için tasarlandı. Şarküteri alanlarının ortası için dikkat çekici raf.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Deli Island Display Shelf is designed to put promotions and seasonal products in the spotlight. Eye-catching shelf for the middle of deli areas.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Feinkost-Inselregal wurde entwickelt, um Aktions- und Saisonware hervorzuheben. Auffälliges Regal für die Mitte des Feinkostbereichs.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Étagère îlot pour traiteur : une solution conçue pour mettre en avant promotions et produits de saison. Étagère accrocheuse pour le centre de l’espace traiteur.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "رف جزيرة للأطعمة الباردة: صُمِّم لإبراز العروض الترويجية والمنتجات الموسمية. رف لافت لمنتصف قسم الأطعمة الباردة.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Manavlar",
+      "Mağaza girişleri",
+      "Kasa önleri"
+    ],
+    "en": [
+      "Supermarkets",
+      "Greengrocers",
+      "Store entrances",
+      "Checkout areas"
+    ],
+    "de": [
+      "Supermärkte",
+      "Obst- und Gemüseläden",
+      "Ladeneingänge",
+      "Kassenbereiche"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Primeurs",
+      "Entrées de magasin",
+      "Zones de caisse"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات الخضار والفواكه",
+      "مداخل المتاجر",
+      "مناطق الدفع"
+    ]
+  }
 }

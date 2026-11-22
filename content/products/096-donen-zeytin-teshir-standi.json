@@ -22,5 +22,76 @@
     "media/products/donen-zeytin-teshir-standi-1.webp",
     "media/products/donen-zeytin-teshir-standi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-donen-zeytin-teshir-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-donen-zeytin-teshir-standi/",
+  "details": {
+    "tr": "Dönen Zeytin Teşhir Standı, satış alanında fark yaratan, dikkat çekici bir sunum için tasarlandı. Dairesel raflarıyla orta alanda zeytin sunumu. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir. Dönen yapısı ürünü her açıdan görünür kılar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Rotating Olive Display Stand is designed for an eye-catching display that sets your sales floor apart. Circular shelving for olive display in the store centre. Its castors let you move it easily around the store or out to the shopfront. Its rotating design shows products from every angle.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Drehbarer Olivenständer wurde für eine auffällige Präsentation entwickelt, die Ihre Verkaufsfläche hervorhebt. Rundes Regal für die Olivenpräsentation in der Ladenmitte. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen. Die Drehfunktion zeigt die Ware von allen Seiten.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir rotatif à olives : une solution conçue pour une présentation remarquable qui distingue votre surface de vente. Étagère circulaire pour présenter les olives au centre du magasin. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine. Sa rotation montre les produits sous tous les angles.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند دوّار للزيتون: صُمِّم لعرض لافت يميّز مساحة البيع لديك. رف دائري لعرض الزيتون في منتصف المتجر. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه. تصميمه الدوّار يُظهر المنتجات من كل الجهات.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Tekerlekli, kolay taşınır",
+      "Dönen sunum",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "On castors, easy to move",
+      "Rotating display",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Auf Rollen, leicht zu verschieben",
+      "Drehbare Präsentation",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Sur roulettes, facile à déplacer",
+      "Présentation rotative",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "بعجلات وسهل التنقل",
+      "عرض دوّار",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Manavlar",
+      "Şarküteriler",
+      "Konsept mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Greengrocers",
+      "Delicatessens",
+      "Concept stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Obst- und Gemüseläden",
+      "Feinkostläden",
+      "Konzeptläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Primeurs",
+      "Épiceries fines",
+      "Concept stores"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات الخضار والفواكه",
+      "محلات الأطعمة الفاخرة",
+      "المتاجر المفاهيمية"
+    ]
+  }
 }

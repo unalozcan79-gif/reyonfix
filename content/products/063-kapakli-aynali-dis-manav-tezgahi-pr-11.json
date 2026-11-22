@@ -25,5 +25,81 @@
     "media/products/kapakli-aynali-dis-manav-tezgahi-pr-11-2.webp",
     "media/products/kapakli-aynali-dis-manav-tezgahi-pr-11-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/kapakli-aynali-duvar-tipi-dis-manav-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/kapakli-aynali-duvar-tipi-dis-manav-tezgahi/",
+  "details": {
+    "tr": "Kapaklı Aynalı Dış Manav Tezgahı – Pr-11, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Cadde ve sokak cepheli dükkanlar için kapaklı tezgah. Aynalı arka panel, reyonu daha dolu ve ferah gösterir. Kapaklı yapısı ürünleri toz ve dış etkenlerden korur.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Lidded Mirrored Outdoor Counter – Pr-11 is designed to show fruit and vegetables fresh, plentiful and tidy. Lidded counter for street-facing shops. The mirrored back panel makes the display look fuller and brighter. Its lids protect products from dust and the elements.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Abdeckbare Außentheke mit Spiegel – Pr-11 wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Abdeckbare Theke für Geschäfte zur Straße hin. Die Spiegelrückwand lässt die Auslage voller und heller wirken. Die Deckel schützen die Ware vor Staub und Witterung.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir extérieur à miroir avec couvercles – Pr-11 : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Comptoir à couvercles pour commerces donnant sur la rue. Le fond miroir donne une présentation plus pleine et plus lumineuse. Ses couvercles protègent les produits de la poussière et des intempéries.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة خارجية بمرآة وأغطية – Pr-11: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. طاولة مغطاة للمحلات المطلة على الشارع. اللوح الخلفي المرآتي يُظهر العرض أكثر امتلاءً وإشراقًا. تحمي الأغطية المنتجات من الغبار والعوامل الخارجية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Aynalı arka panel",
+      "Duvar boyunca kullanım",
+      "Kapaklı, korunaklı yapı",
+      "Dış mekân ve dükkân önü kullanımına uygun",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Mirrored back panel",
+      "Runs along the wall",
+      "Lidded, protected design",
+      "Suitable for outdoor and shopfront use",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Spiegelrückwand",
+      "Für die Wandaufstellung",
+      "Mit Deckeln, geschützt",
+      "Für Außenbereich und Ladenfront geeignet",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Fond miroir",
+      "Installation le long du mur",
+      "Avec couvercles, protégé",
+      "Adapté à l’extérieur et aux devantures",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "لوح خلفي مرآتي",
+      "يُركَّب على امتداد الجدار",
+      "بأغطية وتصميم محمي",
+      "مناسب للخارج وواجهات المحلات",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

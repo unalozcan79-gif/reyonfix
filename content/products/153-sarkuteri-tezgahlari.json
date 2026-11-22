@@ -24,5 +24,61 @@
     "media/products/sarkuteri-tezgahlari-1.webp",
     "media/products/sarkuteri-tezgahlari-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-sarkuteri-tezgahlari/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-sarkuteri-tezgahlari/",
+  "details": {
+    "tr": "Şarküteri Tezgahları, gurme ve şarküteri ürünlerini düzenli ve satışı artıracak şekilde sergilemek için tasarlandı. Zeytin, peynir ve köy ürünleri satan dükkanlar için tezgahlar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Delicatessen Counters is designed to display gourmet and deli products neatly and to boost sales. Counters for shops selling olives, cheese and farm produce.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Feinkosttheken wurde entwickelt, um Feinkost ordentlich und verkaufsfördernd zu präsentieren. Theken für Geschäfte mit Oliven, Käse und Hofprodukten.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoirs d’épicerie fine : une solution conçue pour présenter les produits fins de façon ordonnée et vendeuse. Comptoirs pour commerces d’olives, fromages et produits fermiers.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولات الأطعمة الفاخرة: صُمِّم لعرض المنتجات الفاخرة والأطعمة الباردة بشكل منظم يزيد المبيعات. طاولات لمحلات الزيتون والأجبان ومنتجات المزارع.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Şarküteriler",
+      "Gurme dükkanları",
+      "Süpermarketler",
+      "Köy ürünleri mağazaları"
+    ],
+    "en": [
+      "Delicatessens",
+      "Gourmet shops",
+      "Supermarkets",
+      "Farm produce shops"
+    ],
+    "de": [
+      "Feinkostläden",
+      "Gourmetläden",
+      "Supermärkte",
+      "Hofläden"
+    ],
+    "fr": [
+      "Épiceries fines",
+      "Boutiques gourmet",
+      "Supermarchés",
+      "Boutiques de produits fermiers"
+    ],
+    "ar": [
+      "محلات الأطعمة الفاخرة",
+      "متاجر الذواقة",
+      "السوبرماركت",
+      "متاجر منتجات المزارع"
+    ]
+  }
 }

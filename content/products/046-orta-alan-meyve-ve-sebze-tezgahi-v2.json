@@ -22,5 +22,71 @@
     "media/products/orta-alan-meyve-ve-sebze-tezgahi-v2-1.webp",
     "media/products/orta-alan-meyve-ve-sebze-tezgahi-v2-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-orta-alan-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-orta-alan-tezgahi/",
+  "details": {
+    "tr": "Orta Alan Meyve ve Sebze Tezgahı V2, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Modüler yapıda, kolay kurulan orta alan tezgahı. Modüler yapısıyla alanınıza göre uzatılabilir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Island Produce Counter V2 is designed to show fruit and vegetables fresh, plentiful and tidy. Modular island counter that is quick to install. Its modular build can be extended to fit your space.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Insel-Obsttheke V2 wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Modulare Inseltheke, schnell zu montieren. Durch den modularen Aufbau an Ihre Fläche anpassbar.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Îlot fruits et légumes V2 : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Îlot modulaire rapide à installer. Sa conception modulaire s’adapte à votre surface.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة جزيرة للخضار V2: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. طاولة وسطية معيارية سريعة التركيب. تصميمه المعياري يتيح تمديده حسب مساحتك.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Modüler, uzatılabilir yapı",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "Modular, extendable",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Modular erweiterbar",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Modulaire et extensible",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "تصميم معياري قابل للتمديد",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

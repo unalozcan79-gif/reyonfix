@@ -24,5 +24,66 @@
     "media/products/orta-alan-rafli-ekmek-reyonu-1.webp",
     "media/products/orta-alan-rafli-ekmek-reyonu-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-rafli-acik-ekmek-rafi-ekmek-reyonu/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-rafli-acik-ekmek-rafi-ekmek-reyonu/",
+  "details": {
+    "tr": "Orta Alan Raflı Ekmek Reyonu, ekmek ve unlu mamulleri taze, temiz ve göz önünde tutmak için tasarlandı. Poşetli ve kutulu ekmekler için orta alan rafı.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Island Bread Shelving Unit is designed to keep bread and baked goods fresh, clean and in view. Island shelving for bagged and boxed bread.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Insel-Brotregal wurde entwickelt, um Brot und Backwaren frisch, sauber und sichtbar zu halten. Inselregal für verpacktes und abgepacktes Brot.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Îlot à étagères pour pain : une solution conçue pour garder le pain et les viennoiseries frais, propres et bien visibles. Îlot pour pain emballé et en boîte.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "رف جزيرة للخبز: صُمِّم للحفاظ على الخبز والمخبوزات طازجة ونظيفة وظاهرة للزبائن. رف وسطي للخبز المعبأ وفي العلب.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Fırınlar",
+      "Marketlerin ekmek reyonları",
+      "Pastaneler",
+      "Unlu mamul dükkanları"
+    ],
+    "en": [
+      "Bakeries",
+      "Supermarket bread sections",
+      "Patisseries",
+      "Bakery shops"
+    ],
+    "de": [
+      "Bäckereien",
+      "Brotabteilungen in Supermärkten",
+      "Konditoreien",
+      "Backshops"
+    ],
+    "fr": [
+      "Boulangeries",
+      "Rayons pain des supermarchés",
+      "Pâtisseries",
+      "Points chauds"
+    ],
+    "ar": [
+      "المخابز",
+      "أقسام الخبز في السوبرماركت",
+      "محلات الحلويات",
+      "محلات المعجنات"
+    ]
+  }
 }

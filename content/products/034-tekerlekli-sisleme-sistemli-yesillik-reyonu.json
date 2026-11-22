@@ -25,5 +25,76 @@
     "media/products/tekerlekli-sisleme-sistemli-yesillik-reyonu-2.webp",
     "media/products/tekerlekli-sisleme-sistemli-yesillik-reyonu-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-manav-yesil-sebze-sislemeli-reyon/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-manav-yesil-sebze-sislemeli-reyon/",
+  "details": {
+    "tr": "Tekerlekli Sisleme Sistemli Yeşillik Reyonu, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Sisleme sistemiyle yeşilliği daha uzun süre taze tutan reyon. Sisleme sistemi yeşilliklerin tazeliğini daha uzun korur. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mobile Greens Unit with Misting is designed to show fruit and vegetables fresh, plentiful and tidy. Misting system keeps leafy greens fresh for longer. The misting system keeps greens fresh for longer. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobiler Blattgemüsestand mit Sprühnebel wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Das Sprühnebelsystem hält Blattgemüse länger frisch. Das Sprühnebelsystem hält Blattgemüse länger frisch. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir mobile à brumisation : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. La brumisation garde les légumes-feuilles frais plus longtemps. La brumisation garde les légumes verts frais plus longtemps. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند متنقل للخضار الورقية بنظام رذاذ: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. نظام الرذاذ يحافظ على نضارة الخضار الورقية لفترة أطول. يحافظ نظام الرذاذ على نضارة الخضار الورقية لفترة أطول. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Tekerlekli, kolay taşınır",
+      "Sisleme (nemlendirme) sistemi",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "On castors, easy to move",
+      "Misting system",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Auf Rollen, leicht zu verschieben",
+      "Sprühnebelsystem",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Sur roulettes, facile à déplacer",
+      "Système de brumisation",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "بعجلات وسهل التنقل",
+      "نظام رذاذ للترطيب",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

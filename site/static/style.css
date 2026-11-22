@@ -436,3 +436,12 @@ a.st-card:hover{text-decoration:none;transform:scale(1.015);box-shadow:2px 4px 1
 .st-icons .ic:not(.ph) img{max-height:104px;max-width:150px;width:auto;height:auto;mix-blend-mode:normal;filter:drop-shadow(0 6px 8px rgba(0,0,0,.10))}
 .st-icons a.cur .ic:not(.ph) img{outline:none}
 @media (max-width:820px){.st-icons a{flex-basis:118px}.st-icons .ic:not(.ph) img{max-height:84px;max-width:118px}}
+/* ürün hakkında */
+.pd-more{display:grid;grid-template-columns:1.6fr 1fr;gap:clamp(24px,4vw,56px);margin-top:clamp(40px,5vw,64px);align-items:start}
+.pd-about p{font-size:19px;line-height:1.55;color:#1d1d1f;margin-top:14px;max-width:720px}
+.pd-uses{background:#fff;border-radius:18px;padding:24px 26px;box-shadow:2px 4px 12px rgba(0,0,0,.05)}
+.pd-uses h3{font-size:19px;font-weight:600}
+.pd-uses ul{list-style:none;margin-top:12px;display:grid;gap:8px}
+.pd-uses li{padding-inline-start:22px;position:relative;color:#3b3b3f}
+.pd-uses li::before{content:"✓";position:absolute;inset-inline-start:0;color:var(--acc-t);font-weight:700}
+@media (max-width:900px){.pd-more{grid-template-columns:1fr}}

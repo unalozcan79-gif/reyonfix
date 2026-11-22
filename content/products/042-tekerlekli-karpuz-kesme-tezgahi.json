@@ -25,5 +25,71 @@
     "media/products/tekerlekli-karpuz-kesme-tezgahi-2.webp",
     "media/products/tekerlekli-karpuz-kesme-tezgahi-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-karpuz-kesme-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-karpuz-kesme-tezgahi/",
+  "details": {
+    "tr": "Tekerlekli Karpuz Kesme Tezgahı, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Kavun ve karpuz kesimi için tasarlanmış tekerlekli tezgah. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mobile Watermelon Cutting Counter is designed to show fruit and vegetables fresh, plentiful and tidy. Mobile counter designed for cutting melons and watermelons. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobile Schneidetheke für Wassermelonen wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Mobile Theke zum Schneiden von Melonen und Wassermelonen. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir mobile de découpe de pastèques : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Comptoir mobile conçu pour découper melons et pastèques. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة متنقلة لتقطيع البطيخ: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. طاولة متنقلة مصممة لتقطيع الشمام والبطيخ. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Tekerlekli, kolay taşınır",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "On castors, easy to move",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Auf Rollen, leicht zu verschieben",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Sur roulettes, facile à déplacer",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "بعجلات وسهل التنقل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

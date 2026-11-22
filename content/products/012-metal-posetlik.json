@@ -22,5 +22,66 @@
     "media/products/metal-posetlik-1.webp",
     "media/products/metal-posetlik-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-metal-posetlik/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-metal-posetlik/",
+  "details": {
+    "tr": "Metal Poşetlik, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Kasa ve manav alanlarında düzeni sağlayan sağlam metal poşetlik.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Metal Bag Holder is designed to show fruit and vegetables fresh, plentiful and tidy. Sturdy metal bag holder keeping checkout and produce areas tidy.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Tütenhalter aus Metall wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Stabiler Tütenhalter für Ordnung an Kasse und Obstabteilung.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Porte-sacs en métal : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Porte-sacs solide pour garder caisse et rayon fruits et légumes en ordre.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "حامل أكياس معدني: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. حامل أكياس متين يحافظ على ترتيب منطقة الدفع وقسم الخضار.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Metal gövde",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Metal frame",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Metallgestell",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Structure métallique",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "هيكل معدني",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

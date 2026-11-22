@@ -27,5 +27,66 @@
     "media/products/zeytin-bar-sunum-tezgahi-4.webp",
     "media/products/zeytin-bar-sunum-tezgahi-5.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/oliven-bar-zeytinlik-sunum-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/oliven-bar-zeytinlik-sunum-tezgahi/",
+  "details": {
+    "tr": "Zeytin Bar Sunum Tezgahı, satış alanında fark yaratan, dikkat çekici bir sunum için tasarlandı. Çatılı yapısıyla zeytin ve mezeleri öne çıkaran tezgah. Çatılı üst yapısı sunuma vitrin etkisi katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Olive Bar Display Counter is designed for an eye-catching display that sets your sales floor apart. Canopied counter that highlights olives and meze. The canopy top gives the display a shopfront feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Olivenbar-Theke wurde für eine auffällige Präsentation entwickelt, die Ihre Verkaufsfläche hervorhebt. Überdachte Theke, die Oliven und Meze hervorhebt. Die Überdachung verleiht der Auslage Marktstand-Charakter.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir de bar à olives : une solution conçue pour une présentation remarquable qui distingue votre surface de vente. Comptoir avec auvent qui met en valeur olives et mezzés. L’auvent donne à la présentation un effet d’échoppe.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة بار الزيتون: صُمِّم لعرض لافت يميّز مساحة البيع لديك. طاولة بمظلة تُبرز الزيتون والمقبلات. تضفي المظلة العلوية طابع الكشك على العرض.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Çatılı üst yapı",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Canopy top",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Mit Überdachung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Avec auvent",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بمظلة علوية",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Manavlar",
+      "Şarküteriler",
+      "Konsept mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Greengrocers",
+      "Delicatessens",
+      "Concept stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Obst- und Gemüseläden",
+      "Feinkostläden",
+      "Konzeptläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Primeurs",
+      "Épiceries fines",
+      "Concept stores"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات الخضار والفواكه",
+      "محلات الأطعمة الفاخرة",
+      "المتاجر المفاهيمية"
+    ]
+  }
 }

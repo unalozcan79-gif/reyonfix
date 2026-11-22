@@ -22,5 +22,71 @@
     "media/products/ahsap-zuccaciye-raflari-1.webp",
     "media/products/ahsap-zuccaciye-raflari-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-ahsap-zuccaciye-raflari/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-ahsap-zuccaciye-raflari/",
+  "details": {
+    "tr": "Ahşap Züccaciye Rafları, market düzenini ve satış alanının verimini artırmak için tasarlandı. Ev eşyası satışı için duvar tipi ahşap raf. Ahşap görünümü mağazaya sıcak ve doğal bir hava katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Wooden Housewares Shelving is designed to improve store layout and sales-floor efficiency. Wall-type wooden shelving for housewares. The wood finish gives the store a warm, natural feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Holzregal für Haushaltswaren wurde entwickelt, um Ordnung und Effizienz auf der Verkaufsfläche zu verbessern. Wandregal aus Holz für Haushaltswaren. Die Holzoptik verleiht dem Geschäft eine warme, natürliche Atmosphäre.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Étagère en bois pour articles ménagers : une solution conçue pour améliorer l’organisation et l’efficacité de la surface de vente. Étagère murale en bois pour articles ménagers. La finition bois apporte une ambiance chaleureuse et naturelle.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "رف خشبي للأدوات المنزلية: صُمِّم لتحسين تنظيم المتجر وكفاءة مساحة البيع. رف جداري خشبي للأدوات المنزلية. يمنح التشطيب الخشبي المتجر أجواء دافئة وطبيعية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Duvar boyunca kullanım",
+      "Ahşap görünüm ve kaplama",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Runs along the wall",
+      "Wood finish",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Wandaufstellung",
+      "Holzoptik / Holzverkleidung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Installation le long du mur",
+      "Finition bois",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "يُركَّب على امتداد الجدار",
+      "تشطيب خشبي",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Mahalle marketleri",
+      "Şarküteriler",
+      "Mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Convenience stores",
+      "Delicatessens",
+      "Retail stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Nachbarschaftsläden",
+      "Feinkostläden",
+      "Einzelhandel"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Commerces de proximité",
+      "Épiceries fines",
+      "Magasins"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "متاجر الأحياء",
+      "محلات الأطعمة الفاخرة",
+      "متاجر التجزئة"
+    ]
+  }
 }

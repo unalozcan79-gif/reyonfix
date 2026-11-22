@@ -28,5 +28,76 @@
     "media/products/cerez-ve-kuruyemis-standi-5.webp",
     "media/products/cerez-ve-kuruyemis-standi-6.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/cerez-ve-kuruyemis-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/cerez-ve-kuruyemis-standi/",
+  "details": {
+    "tr": "Çerez ve Kuruyemiş Standı, bakliyat, çerez ve kuruyemişi taze görünümlü ve düzenli sunmak için tasarlandı. Estetik görünümüyle satış alanına prestij katar. Şeffaf pleksi bölmeler ürünü hijyenik ve görünür şekilde sunar. Katlı yapısı dar alanda yüksek sunum kapasitesi sağlar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Nuts & Snacks Stand is designed to present pulses, nuts and dried fruit neatly and fresh-looking. Adds prestige to the sales area with its elegant design. Clear acrylic compartments keep products visible and hygienic. Its tiered layout gives high display capacity in a small footprint.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Stand für Nüsse und Snacks wurde entwickelt, um Hülsenfrüchte, Nüsse und Trockenobst ordentlich und frisch zu präsentieren. Wertet die Verkaufsfläche mit elegantem Design auf. Transparente Acrylfächer präsentieren die Ware sichtbar und hygienisch. Die Etagen bieten viel Präsentationsfläche auf wenig Raum.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir fruits secs et snacks : une solution conçue pour présenter légumineuses, fruits secs et noix de façon nette et attrayante. Valorise l’espace de vente grâce à un design élégant. Les compartiments en plexiglas gardent les produits visibles et protégés. Ses niveaux offrent une grande capacité sur peu de surface.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند المكسرات والوجبات الخفيفة: صُمِّم لعرض البقوليات والمكسرات والفواكه المجففة بشكل مرتب وجذاب. يضفي على منطقة البيع فخامة بتصميمه الأنيق. تعرض حجيرات الأكريليك الشفافة المنتجات بشكل واضح وصحي. يوفر تصميمه المتعدد الطوابق سعة عرض كبيرة في مساحة صغيرة.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Şeffaf pleksi bölmeler",
+      "3 katlı sunum",
+      "Ahşap görünüm ve kaplama",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Clear acrylic compartments",
+      "3-tier display",
+      "Wood finish",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Transparente Acrylfächer",
+      "3 Etagen",
+      "Holzoptik / Holzverkleidung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Compartiments en plexiglas transparent",
+      "Présentation sur 3 niveaux",
+      "Finition bois",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "حجيرات أكريليك شفافة",
+      "عرض على 3 طوابق",
+      "تشطيب خشبي",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Kuruyemişçiler",
+      "Süpermarketler",
+      "Şarküteriler",
+      "Kuru gıda mağazaları"
+    ],
+    "en": [
+      "Nut shops",
+      "Supermarkets",
+      "Delicatessens",
+      "Dry food stores"
+    ],
+    "de": [
+      "Nussläden",
+      "Supermärkte",
+      "Feinkostläden",
+      "Trockenwarengeschäfte"
+    ],
+    "fr": [
+      "Boutiques de fruits secs",
+      "Supermarchés",
+      "Épiceries fines",
+      "Magasins de produits secs"
+    ],
+    "ar": [
+      "محلات المكسرات",
+      "السوبرماركت",
+      "محلات الأطعمة الفاخرة",
+      "متاجر المواد الجافة"
+    ]
+  }
 }

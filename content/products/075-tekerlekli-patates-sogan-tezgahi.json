@@ -22,5 +22,81 @@
     "media/products/tekerlekli-patates-sogan-tezgahi-1.webp",
     "media/products/tekerlekli-patates-sogan-tezgahi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-patates-sogan-havuzu-patates-sogan-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-patates-sogan-havuzu-patates-sogan-tezgahi/",
+  "details": {
+    "tr": "Tekerlekli Patates-Soğan Tezgahı, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Ahşap kaplamalı, sekizgen formlu patates-soğan tezgahı. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir. Ahşap görünümü mağazaya sıcak ve doğal bir hava katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mobile Potato & Onion Counter is designed to show fruit and vegetables fresh, plentiful and tidy. Wood-clad octagonal counter for potatoes and onions. Its castors let you move it easily around the store or out to the shopfront. The wood finish gives the store a warm, natural feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobile Theke für Kartoffeln & Zwiebeln wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Achteckige, holzverkleidete Theke für Kartoffeln und Zwiebeln. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen. Die Holzoptik verleiht dem Geschäft eine warme, natürliche Atmosphäre.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir mobile pommes de terre et oignons : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Comptoir octogonal habillé de bois pour pommes de terre et oignons. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine. La finition bois apporte une ambiance chaleureuse et naturelle.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة متنقلة للبطاطا والبصل: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. طاولة مثمنة مكسوة بالخشب للبطاطا والبصل. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه. يمنح التشطيب الخشبي المتجر أجواء دافئة وطبيعية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Tekerlekli, kolay taşınır",
+      "Ahşap görünüm ve kaplama",
+      "Derin hazneler",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "On castors, easy to move",
+      "Wood finish",
+      "Deep bins",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Auf Rollen, leicht zu verschieben",
+      "Holzoptik / Holzverkleidung",
+      "Tiefe Behälter",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Sur roulettes, facile à déplacer",
+      "Finition bois",
+      "Bacs profonds",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "بعجلات وسهل التنقل",
+      "تشطيب خشبي",
+      "أحواض عميقة",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

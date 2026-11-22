@@ -22,5 +22,66 @@
     "media/products/dogal-ahsap-masa-ve-sandalye-takimi-1.webp",
     "media/products/dogal-ahsap-masa-ve-sandalye-takimi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/lux-pastane-cafe-masa-sandalye/"
+  "old_url": "https://manavreyonu.com.tr/urun/lux-pastane-cafe-masa-sandalye/",
+  "details": {
+    "tr": "Doğal Ahşap Masa ve Sandalye Takımı, kafe ve pastanelerde hem şık hem kullanışlı bir sunum için tasarlandı. Pastane ve kafelere sıcak bir atmosfer kazandıran doğal ahşap takım. Ahşap görünümü mağazaya sıcak ve doğal bir hava katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Natural Wood Table & Chair Set is designed for a stylish yet practical setting in cafés and patisseries. Natural wood set that gives patisseries and cafés a warm atmosphere. The wood finish gives the store a warm, natural feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Tisch- und Stuhlset aus Naturholz wurde für eine stilvolle und praktische Einrichtung in Cafés und Konditoreien entwickelt. Naturholzset für eine warme Atmosphäre in Konditoreien und Cafés. Die Holzoptik verleiht dem Geschäft eine warme, natürliche Atmosphäre.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Ensemble table et chaises en bois naturel : une solution conçue pour un aménagement élégant et pratique en café et pâtisserie. Ensemble en bois naturel pour une ambiance chaleureuse en pâtisserie et café. La finition bois apporte une ambiance chaleureuse et naturelle.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طقم طاولة وكراسي من الخشب الطبيعي: صُمِّم لتجهيز أنيق وعملي في المقاهي ومحلات الحلويات. طقم من الخشب الطبيعي يمنح محلات الحلويات والمقاهي أجواء دافئة. يمنح التشطيب الخشبي المتجر أجواء دافئة وطبيعية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ahşap görünüm ve kaplama",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Wood finish",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Holzoptik / Holzverkleidung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Finition bois",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "تشطيب خشبي",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Kafeler",
+      "Pastaneler",
+      "Fırınlar",
+      "Restoranlar"
+    ],
+    "en": [
+      "Cafés",
+      "Patisseries",
+      "Bakeries",
+      "Restaurants"
+    ],
+    "de": [
+      "Cafés",
+      "Konditoreien",
+      "Bäckereien",
+      "Restaurants"
+    ],
+    "fr": [
+      "Cafés",
+      "Pâtisseries",
+      "Boulangeries",
+      "Restaurants"
+    ],
+    "ar": [
+      "المقاهي",
+      "محلات الحلويات",
+      "المخابز",
+      "المطاعم"
+    ]
+  }
 }

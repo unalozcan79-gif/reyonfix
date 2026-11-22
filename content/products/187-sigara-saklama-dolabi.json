@@ -22,5 +22,61 @@
     "media/products/sigara-saklama-dolabi-1.webp",
     "media/products/sigara-saklama-dolabi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/sigara-saklama-dolabi/"
+  "old_url": "https://manavreyonu.com.tr/urun/sigara-saklama-dolabi/",
+  "details": {
+    "tr": "Sigara Saklama Dolabı, tekel ve içecek ürünlerini düzenli, güvenli ve şık sergilemek için tasarlandı. Zarif ve güvenli sigara saklama çözümü.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Cigarette Storage Cabinet is designed to display tobacco and beverages neatly, securely and elegantly. Elegant, secure cigarette storage solution.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Zigaretten-Aufbewahrungsschrank wurde entwickelt, um Tabakwaren und Getränke ordentlich, sicher und elegant zu präsentieren. Eleganter, sicherer Aufbewahrungsschrank für Zigaretten.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Armoire de rangement à cigarettes : une solution conçue pour présenter tabac et boissons de façon ordonnée, sûre et élégante. Solution de rangement élégante et sécurisée pour cigarettes.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "خزانة تخزين السجائر: صُمِّم لعرض منتجات التبغ والمشروبات بشكل منظم وآمن وأنيق. حل أنيق وآمن لتخزين السجائر.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Tekel bayileri",
+      "Süpermarketler",
+      "Kasa arkaları",
+      "İçecek reyonları"
+    ],
+    "en": [
+      "Tobacconists",
+      "Supermarkets",
+      "Behind the checkout",
+      "Beverage sections"
+    ],
+    "de": [
+      "Tabakläden",
+      "Supermärkte",
+      "Hinter der Kasse",
+      "Getränkeabteilungen"
+    ],
+    "fr": [
+      "Bureaux de tabac",
+      "Supermarchés",
+      "Derrière la caisse",
+      "Rayons boissons"
+    ],
+    "ar": [
+      "محلات التبغ",
+      "السوبرماركت",
+      "خلف منطقة الدفع",
+      "أقسام المشروبات"
+    ]
+  }
 }

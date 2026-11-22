@@ -22,5 +22,71 @@
     "media/products/orta-alan-meyve-ve-sebze-tezgahi-1.webp",
     "media/products/orta-alan-meyve-ve-sebze-tezgahi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-meyve-ve-sebze-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-meyve-ve-sebze-tezgahi/",
+  "details": {
+    "tr": "Orta Alan Meyve ve Sebze Tezgahı, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Çift taraflı yapısıyla market ortasının vazgeçilmez tezgahı. Çift taraflı yapısı sayesinde iki yönden de ürüne erişilir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Island Fruit & Vegetable Counter is designed to show fruit and vegetables fresh, plentiful and tidy. Double-sided island counter for the centre of the store. Being double-sided, it can be shopped from both sides.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Insel-Theke für Obst & Gemüse wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Beidseitig nutzbare Inseltheke für die Ladenmitte. Beidseitig nutzbar – die Ware ist von zwei Seiten erreichbar.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Îlot fruits et légumes : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Îlot double face pour le centre du magasin. Double face, il est accessible des deux côtés.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة جزيرة للخضار والفواكه: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. طاولة وسطية بوجهين لمنتصف المتجر. بفضل تصميمه ذي الوجهين يمكن الوصول إلى المنتجات من الجهتين.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Çift taraflı kullanım",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "Double-sided",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Beidseitig nutzbar",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Double face",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "استخدام من الجهتين",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

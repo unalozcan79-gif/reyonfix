@@ -22,5 +22,66 @@
     "media/products/taze-misir-sunum-tezgahi-1.webp",
     "media/products/taze-misir-sunum-tezgahi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/taze-misir-sunum-tezgahi-vitamin-bar/"
+  "old_url": "https://manavreyonu.com.tr/urun/taze-misir-sunum-tezgahi-vitamin-bar/",
+  "details": {
+    "tr": "Taze Mısır Sunum Tezgahı, taze meyve suyu, kahve ya da ürün satışını her yerde mümkün kılmak için tasarlandı. Tekerlekli, hijyenik mısır satış tezgahı. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Fresh Corn Kiosk is designed to make fresh juice, coffee or product sales possible almost anywhere. Mobile, hygienic corn sales counter. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Maiskiosk wurde entwickelt, um Saft-, Kaffee- oder Warenverkauf fast überall zu ermöglichen. Mobile, hygienische Theke für den Maisverkauf. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Kiosque à maïs : une solution conçue pour vendre jus frais, café ou produits presque partout. Comptoir mobile et hygiénique pour la vente de maïs. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "كشك الذرة: صُمِّم لإتاحة بيع العصائر الطازجة أو القهوة أو المنتجات في أي مكان تقريبًا. طاولة متنقلة وصحية لبيع الذرة. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Tekerlekli, kolay taşınır",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "On castors, easy to move",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Auf Rollen, leicht zu verschieben",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Sur roulettes, facile à déplacer",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بعجلات وسهل التنقل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Alışveriş merkezleri",
+      "Süpermarketler",
+      "Oteller",
+      "Cadde ve sahil noktaları"
+    ],
+    "en": [
+      "Shopping malls",
+      "Supermarkets",
+      "Hotels",
+      "Streets and seafronts"
+    ],
+    "de": [
+      "Einkaufszentren",
+      "Supermärkte",
+      "Hotels",
+      "Straßen und Promenaden"
+    ],
+    "fr": [
+      "Centres commerciaux",
+      "Supermarchés",
+      "Hôtels",
+      "Rues et fronts de mer"
+    ],
+    "ar": [
+      "مراكز التسوق",
+      "السوبرماركت",
+      "الفنادق",
+      "الشوارع والواجهات البحرية"
+    ]
+  }
 }

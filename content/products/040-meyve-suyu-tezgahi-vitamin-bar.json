@@ -25,5 +25,61 @@
     "media/products/meyve-suyu-tezgahi-vitamin-bar-2.webp",
     "media/products/meyve-suyu-tezgahi-vitamin-bar-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/meyve-suyu-tezgahi-vitaminbar/"
+  "old_url": "https://manavreyonu.com.tr/urun/meyve-suyu-tezgahi-vitaminbar/",
+  "details": {
+    "tr": "Meyve Suyu Tezgahı – Vitamin Bar, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Taze meyve ve sebze suyu satışı için ideal tezgah.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Fresh Juice Counter – Vitamin Bar is designed to show fruit and vegetables fresh, plentiful and tidy. Ideal counter for selling fresh fruit and vegetable juices.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Saftbar-Theke – Vitamin Bar wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Ideale Theke für frisch gepresste Obst- und Gemüsesäfte.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir à jus frais – Vitamin Bar : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Comptoir idéal pour la vente de jus de fruits et légumes frais.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة عصائر طازجة – Vitamin Bar: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. طاولة مثالية لبيع عصائر الفواكه والخضار الطازجة.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

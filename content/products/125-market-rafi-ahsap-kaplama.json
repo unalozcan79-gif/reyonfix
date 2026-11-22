@@ -22,5 +22,66 @@
     "media/products/market-rafi-ahsap-kaplama-1.webp",
     "media/products/market-rafi-ahsap-kaplama-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-raf-ahsap-kaplama/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-raf-ahsap-kaplama/",
+  "details": {
+    "tr": "Market Rafı Ahşap Kaplama, mağazaya kimlik kazandırmak ve reyonları öne çıkarmak için tasarlandı. Market raflarına sıcak ahşap görünüm kazandıran kaplama. Ahşap görünümü mağazaya sıcak ve doğal bir hava katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Wooden Shelf Cladding is designed to give the store its identity and make each section stand out. Cladding that gives store shelves a warm wooden look. The wood finish gives the store a warm, natural feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Regalverkleidung aus Holz wurde entwickelt, um dem Geschäft Identität zu geben und Abteilungen hervorzuheben. Verkleidung, die Ladenregalen eine warme Holzoptik verleiht. Die Holzoptik verleiht dem Geschäft eine warme, natürliche Atmosphäre.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Habillage d’étagères en bois : une solution conçue pour donner une identité au magasin et mettre chaque rayon en valeur. Habillage qui donne aux étagères un aspect bois chaleureux. La finition bois apporte une ambiance chaleureuse et naturelle.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "كسوة رفوف خشبية: صُمِّم لمنح المتجر هوية مميزة وإبراز كل قسم. كسوة تمنح رفوف المتجر مظهرًا خشبيًا دافئًا. يمنح التشطيب الخشبي المتجر أجواء دافئة وطبيعية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ahşap görünüm ve kaplama",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Wood finish",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Holzoptik / Holzverkleidung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Finition bois",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "تشطيب خشبي",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Kasap ve şarküteriler",
+      "Fırınlar",
+      "Manavlar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Butchers and delis",
+      "Bakeries",
+      "Greengrocers"
+    ],
+    "de": [
+      "Supermärkte",
+      "Metzgereien und Feinkost",
+      "Bäckereien",
+      "Obst- und Gemüseläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Boucheries et traiteurs",
+      "Boulangeries",
+      "Primeurs"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات اللحوم والأجبان",
+      "المخابز",
+      "محلات الخضار والفواكه"
+    ]
+  }
 }

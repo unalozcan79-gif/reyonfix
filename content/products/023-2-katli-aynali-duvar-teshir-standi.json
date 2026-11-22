@@ -24,5 +24,76 @@
     "media/products/2-katli-aynali-duvar-teshir-standi-1.webp",
     "media/products/2-katli-aynali-duvar-teshir-standi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-2-katli-aynali-duvar-meyve-ve-sebze-teshir-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-2-katli-aynali-duvar-meyve-ve-sebze-teshir-standi/",
+  "details": {
+    "tr": "2 Katlı Aynalı Duvar Teşhir Standı, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Meyve ve sebzeyi iki katta sergileyen aynalı duvar standı. Aynalı arka panel, reyonu daha dolu ve ferah gösterir. Katlı yapısı dar alanda yüksek sunum kapasitesi sağlar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "2-Tier Mirrored Wall Display is designed to show fruit and vegetables fresh, plentiful and tidy. Mirrored wall stand displaying produce on two levels. The mirrored back panel makes the display look fuller and brighter. Its tiered layout gives high display capacity in a small footprint.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Zweistöckiges Wandregal mit Spiegel wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Wandregal mit Spiegel, das Obst und Gemüse auf zwei Ebenen präsentiert. Die Spiegelrückwand lässt die Auslage voller und heller wirken. Die Etagen bieten viel Präsentationsfläche auf wenig Raum.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir mural à deux niveaux avec miroir : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Meuble mural avec miroir présentant les produits sur deux niveaux. Le fond miroir donne une présentation plus pleine et plus lumineuse. Ses niveaux offrent une grande capacité sur peu de surface.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند جداري بطابقين ومرآة: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. ستاند جداري بمرآة يعرض الخضار والفواكه على مستويين. اللوح الخلفي المرآتي يُظهر العرض أكثر امتلاءً وإشراقًا. يوفر تصميمه المتعدد الطوابق سعة عرض كبيرة في مساحة صغيرة.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Aynalı arka panel",
+      "Duvar boyunca kullanım",
+      "2 katlı sunum",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Mirrored back panel",
+      "Runs along the wall",
+      "2-tier display",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Spiegelrückwand",
+      "Für die Wandaufstellung",
+      "2 Etagen",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Fond miroir",
+      "Installation le long du mur",
+      "Présentation sur 2 niveaux",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "لوح خلفي مرآتي",
+      "يُركَّب على امتداد الجدار",
+      "عرض على طابقين",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

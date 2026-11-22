@@ -279,11 +279,16 @@ TPL['product'] = r'''{% extends "base" %}{% block main %}
 <p class="pd-sum">{{ p.desc }}</p>
 <div class="pd-box"><b>{{ x.made }}</b><span>{{ x.made_p }}</span></div>
 <div class="pd-btns"><a class="btn btn-p" href="{{ wa_link }}" target="_blank" rel="noopener">{{ t.quote_product }}</a><a class="btn btn-s" href="tel:{{ c.phone1|replace(' ','') }}">{{ t.call }}</a></div>
-<h2 class="pd-h">{{ t.highlights_h }}</h2>
-<ul class="pd-hl">{% for h in t.highlights %}<li>{{ h }}</li>{% endfor %}</ul>
+{% if p.features %}<h2 class="pd-h">{{ x.feat_h }}</h2>
+<ul class="pd-hl">{% for h in p.features %}<li>{{ h }}</li>{% endfor %}</ul>{% else %}<h2 class="pd-h">{{ t.highlights_h }}</h2>
+<ul class="pd-hl">{% for h in t.highlights %}<li>{{ h }}</li>{% endfor %}</ul>{% endif %}
 <p class="note">{{ t.img_note }}</p>
 </div>
 </article>
+{% if p.details %}<section class="wrap pd-more">
+<div class="pd-about"><h2 class="st-h2"><em>{{ x.about_h }}</em></h2>{% for para in p.details %}<p>{{ para }}</p>{% endfor %}</div>
+{% if p.uses %}<div class="pd-uses"><h3>{{ x.uses_h }}</h3><ul>{% for u in p.uses %}<li>{{ u }}</li>{% endfor %}</ul></div>{% endif %}
+</section>{% endif %}
 {% if related %}<section class="st-sec">
 <h2 class="wrap st-h2 st-hl"><em>{{ t.related_h }}.</em> <a href="{{ r(cat.path) }}">{{ t.see_all }} ›</a></h2>
 <div class="st-row">{% for q in related %}{{ stcard(q) }}{% endfor %}</div>{{ pads() }}
@@ -511,6 +516,12 @@ def build():
             desc = f"{pv['desc']}" + (f" {t['code']}: {p['code']}." if p['code'] else '')
             ctx = page_ctx(L, cur, alts, f"{name} · {cname} · Reyonfix", desc, active='products', ogtype='product',
                            ogimg=absu(pv['imgs'][0]['l']), jsonld=jl, wa_link=wa(msg))
+            pv['details'] = [x.strip() for x in (p['details'].get(L) or '').split('\n\n') if x.strip()]
+            pv['features'] = p['features'].get(L) or []
+            pv['uses'] = p['uses'].get(L) or []
+            if pv['details']:
+                prod_ld['description'] = pv['details'][0]
+            jl[0] = prod_ld
             ctx.update(p=pv, cat=dict(name=cname, path=path_cat(L, c)), related=rel_items)
             write(cur, env.get_template('product').render(**ctx)); sitemap.append((cur, alts))
 

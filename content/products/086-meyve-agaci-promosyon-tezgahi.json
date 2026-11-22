@@ -25,5 +25,61 @@
     "media/products/meyve-agaci-promosyon-tezgahi-2.webp",
     "media/products/meyve-agaci-promosyon-tezgahi-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/manav-promosyon-teshir-tezgahi-meyve-agaci/"
+  "old_url": "https://manavreyonu.com.tr/urun/manav-promosyon-teshir-tezgahi-meyve-agaci/",
+  "details": {
+    "tr": "Meyve Ağacı Promosyon Tezgahı, satış alanında fark yaratan, dikkat çekici bir sunum için tasarlandı. Ağaç konseptiyle mevsim ürünlerini çekici sunan stand.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Fruit Tree Promotion Stand is designed for an eye-catching display that sets your sales floor apart. Tree-concept stand presenting seasonal produce attractively.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Obstbaum-Aktionsstand wurde für eine auffällige Präsentation entwickelt, die Ihre Verkaufsfläche hervorhebt. Stand im Baum-Design, der Saisonware attraktiv präsentiert.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir promotionnel « arbre fruitier » : une solution conçue pour une présentation remarquable qui distingue votre surface de vente. Présentoir en forme d’arbre qui met en valeur les produits de saison.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند عروض على شكل شجرة فاكهة: صُمِّم لعرض لافت يميّز مساحة البيع لديك. ستاند بتصميم شجرة يعرض منتجات الموسم بجاذبية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Manavlar",
+      "Şarküteriler",
+      "Konsept mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Greengrocers",
+      "Delicatessens",
+      "Concept stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Obst- und Gemüseläden",
+      "Feinkostläden",
+      "Konzeptläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Primeurs",
+      "Épiceries fines",
+      "Concept stores"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات الخضار والفواكه",
+      "محلات الأطعمة الفاخرة",
+      "المتاجر المفاهيمية"
+    ]
+  }
 }

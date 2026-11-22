@@ -22,5 +22,81 @@
     "media/products/tablali-orta-alan-manav-reyonu-1.webp",
     "media/products/tablali-orta-alan-manav-reyonu-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-tablali-orta-alan-manav-reyonu/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-tablali-orta-alan-manav-reyonu/",
+  "details": {
+    "tr": "Tablalı Orta Alan Manav Reyonu, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Çift taraflı tablalar ve üstte yuvarlak tablalarla modüler reyon. Çift taraflı yapısı sayesinde iki yönden de ürüne erişilir. Modüler yapısıyla alanınıza göre uzatılabilir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Island Produce Unit with Trays is designed to show fruit and vegetables fresh, plentiful and tidy. Modular unit with double-sided trays and round top trays. Being double-sided, it can be shopped from both sides. Its modular build can be extended to fit your space.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Insel-Obsteinheit mit Tablaren wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Modulare Einheit mit beidseitigen und runden Tablaren. Beidseitig nutzbar – die Ware ist von zwei Seiten erreichbar. Durch den modularen Aufbau an Ihre Fläche anpassbar.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Îlot fruits et légumes à plateaux : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Meuble modulaire à plateaux double face et plateaux ronds. Double face, il est accessible des deux côtés. Sa conception modulaire s’adapte à votre surface.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "وحدة جزيرة للخضار بصوانٍ: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. وحدة معيارية بصوانٍ على الوجهين وصوانٍ دائرية. بفضل تصميمه ذي الوجهين يمكن الوصول إلى المنتجات من الجهتين. تصميمه المعياري يتيح تمديده حسب مساحتك.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Tablalı sunum yüzeyleri",
+      "Çift taraflı kullanım",
+      "Modüler, uzatılabilir yapı",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "Display trays",
+      "Double-sided",
+      "Modular, extendable",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Präsentationstablare",
+      "Beidseitig nutzbar",
+      "Modular erweiterbar",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Plateaux de présentation",
+      "Double face",
+      "Modulaire et extensible",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "صوانٍ للعرض",
+      "استخدام من الجهتين",
+      "تصميم معياري قابل للتمديد",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

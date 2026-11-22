@@ -24,5 +24,71 @@
     "media/products/bakliyat-sunum-standi-1.webp",
     "media/products/bakliyat-sunum-standi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/bakliyat-sunum-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/bakliyat-sunum-standi/",
+  "details": {
+    "tr": "Bakliyat Sunum Standı, bakliyat, çerez ve kuruyemişi taze görünümlü ve düzenli sunmak için tasarlandı. Ahşap panelli, aparatlı duvar tipi bakliyat tezgahı. Ahşap görünümü mağazaya sıcak ve doğal bir hava katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Pulses Display Stand is designed to present pulses, nuts and dried fruit neatly and fresh-looking. Wall-type pulses counter with wooden panels and fittings. The wood finish gives the store a warm, natural feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Präsentationsstand für Hülsenfrüchte wurde entwickelt, um Hülsenfrüchte, Nüsse und Trockenobst ordentlich und frisch zu präsentieren. Wandtheke für Hülsenfrüchte mit Holzpaneelen und Zubehör. Die Holzoptik verleiht dem Geschäft eine warme, natürliche Atmosphäre.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir à légumineuses : une solution conçue pour présenter légumineuses, fruits secs et noix de façon nette et attrayante. Comptoir mural pour légumineuses avec panneaux en bois. La finition bois apporte une ambiance chaleureuse et naturelle.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند عرض البقوليات: صُمِّم لعرض البقوليات والمكسرات والفواكه المجففة بشكل مرتب وجذاب. طاولة جدارية للبقوليات بألواح وتجهيزات خشبية. يمنح التشطيب الخشبي المتجر أجواء دافئة وطبيعية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Duvar boyunca kullanım",
+      "Ahşap görünüm ve kaplama",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Runs along the wall",
+      "Wood finish",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Wandaufstellung",
+      "Holzoptik / Holzverkleidung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Installation le long du mur",
+      "Finition bois",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "يُركَّب على امتداد الجدار",
+      "تشطيب خشبي",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Kuruyemişçiler",
+      "Süpermarketler",
+      "Şarküteriler",
+      "Kuru gıda mağazaları"
+    ],
+    "en": [
+      "Nut shops",
+      "Supermarkets",
+      "Delicatessens",
+      "Dry food stores"
+    ],
+    "de": [
+      "Nussläden",
+      "Supermärkte",
+      "Feinkostläden",
+      "Trockenwarengeschäfte"
+    ],
+    "fr": [
+      "Boutiques de fruits secs",
+      "Supermarchés",
+      "Épiceries fines",
+      "Magasins de produits secs"
+    ],
+    "ar": [
+      "محلات المكسرات",
+      "السوبرماركت",
+      "محلات الأطعمة الفاخرة",
+      "متاجر المواد الجافة"
+    ]
+  }
 }

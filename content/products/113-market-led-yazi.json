@@ -21,5 +21,66 @@
   "images": [
     "media/products/market-led-yazi-1.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-dekorasyon-led-yazi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-dekorasyon-led-yazi/",
+  "details": {
+    "tr": "Market LED Yazı, mağazaya kimlik kazandırmak ve reyonları öne çıkarmak için tasarlandı. Reyonları gösteren ışıklı yönlendirme yazıları.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Illuminated LED Lettering is designed to give the store its identity and make each section stand out. Illuminated lettering that signposts store sections.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Beleuchtete LED-Schriftzüge wurde entwickelt, um dem Geschäft Identität zu geben und Abteilungen hervorzuheben. Leuchtschriften, die die Abteilungen im Laden kennzeichnen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Lettrage LED lumineux : une solution conçue pour donner une identité au magasin et mettre chaque rayon en valeur. Lettrage lumineux qui signale les rayons du magasin.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "حروف LED مضيئة: صُمِّم لمنح المتجر هوية مميزة وإبراز كل قسم. حروف مضيئة تدل على أقسام المتجر.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Işıklı uygulama",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Illuminated",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Beleuchtet",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Éclairé",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "مضيء",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Kasap ve şarküteriler",
+      "Fırınlar",
+      "Manavlar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Butchers and delis",
+      "Bakeries",
+      "Greengrocers"
+    ],
+    "de": [
+      "Supermärkte",
+      "Metzgereien und Feinkost",
+      "Bäckereien",
+      "Obst- und Gemüseläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Boucheries et traiteurs",
+      "Boulangeries",
+      "Primeurs"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات اللحوم والأجبان",
+      "المخابز",
+      "محلات الخضار والفواكه"
+    ]
+  }
 }

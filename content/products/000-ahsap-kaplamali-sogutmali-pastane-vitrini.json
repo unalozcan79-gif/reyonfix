@@ -23,5 +23,71 @@
   "images": [
     "media/products/ahsap-kaplamali-sogutmali-pastane-vitrini-1.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/ahsap-kaplamali-modern-pastane-ve-sogutmali-teshir-vitrini/"
+  "old_url": "https://manavreyonu.com.tr/urun/ahsap-kaplamali-modern-pastane-ve-sogutmali-teshir-vitrini/",
+  "details": {
+    "tr": "Ahşap Kaplamalı Soğutmalı Pastane Vitrini, kafe ve pastanelerde hem şık hem kullanışlı bir sunum için tasarlandı. Ahşap kaplama ile ticari soğutmayı birleştiren, kafe ve pastaneler için modern teşhir vitrini. Ahşap görünümü mağazaya sıcak ve doğal bir hava katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Wood-Clad Refrigerated Patisserie Showcase is designed for a stylish yet practical setting in cafés and patisseries. Modern display case combining wood cladding with commercial refrigeration for cafés and patisseries. The wood finish gives the store a warm, natural feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Kühlvitrine für Konditoreien mit Holzverkleidung wurde für eine stilvolle und praktische Einrichtung in Cafés und Konditoreien entwickelt. Moderne Vitrine mit Holzverkleidung und gewerblicher Kühlung für Cafés und Konditoreien. Die Holzoptik verleiht dem Geschäft eine warme, natürliche Atmosphäre.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Vitrine réfrigérée pour pâtisserie habillée de bois : une solution conçue pour un aménagement élégant et pratique en café et pâtisserie. Vitrine moderne associant habillage bois et froid professionnel pour cafés et pâtisseries. La finition bois apporte une ambiance chaleureuse et naturelle.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "واجهة حلويات مبردة مكسوة بالخشب: صُمِّم لتجهيز أنيق وعملي في المقاهي ومحلات الحلويات. واجهة عرض حديثة تجمع الكسوة الخشبية والتبريد التجاري للمقاهي ومحلات الحلويات. يمنح التشطيب الخشبي المتجر أجواء دافئة وطبيعية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ahşap görünüm ve kaplama",
+      "Soğutmalı vitrin",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Wood finish",
+      "Refrigerated display",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Holzoptik / Holzverkleidung",
+      "Gekühlte Vitrine",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Finition bois",
+      "Vitrine réfrigérée",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "تشطيب خشبي",
+      "واجهة عرض مبردة",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Kafeler",
+      "Pastaneler",
+      "Fırınlar",
+      "Restoranlar"
+    ],
+    "en": [
+      "Cafés",
+      "Patisseries",
+      "Bakeries",
+      "Restaurants"
+    ],
+    "de": [
+      "Cafés",
+      "Konditoreien",
+      "Bäckereien",
+      "Restaurants"
+    ],
+    "fr": [
+      "Cafés",
+      "Pâtisseries",
+      "Boulangeries",
+      "Restaurants"
+    ],
+    "ar": [
+      "المقاهي",
+      "محلات الحلويات",
+      "المخابز",
+      "المطاعم"
+    ]
+  }
 }

@@ -22,5 +22,81 @@
     "media/products/kapakli-aynali-duvar-manav-reyonu-1.webp",
     "media/products/kapakli-aynali-duvar-manav-reyonu-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-manav-reyonu-kapakli/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-duvar-manav-reyonu-kapakli/",
+  "details": {
+    "tr": "Kapaklı Aynalı Duvar Manav Reyonu, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Dükkan önü ve dış alanlar için kapaklı manav reyonu. Aynalı arka panel, reyonu daha dolu ve ferah gösterir. Kapaklı yapısı ürünleri toz ve dış etkenlerden korur.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mirrored Wall Produce Unit with Lids is designed to show fruit and vegetables fresh, plentiful and tidy. Lidded produce unit for shopfronts and outdoor areas. The mirrored back panel makes the display look fuller and brighter. Its lids protect products from dust and the elements.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Wand-Obsteinheit mit Spiegel und Deckeln wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Abdeckbare Einheit für Schaufensterfront und Außenbereich. Die Spiegelrückwand lässt die Auslage voller und heller wirken. Die Deckel schützen die Ware vor Staub und Witterung.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Meuble mural à miroir avec couvercles : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Meuble à couvercles pour devanture et extérieur. Le fond miroir donne une présentation plus pleine et plus lumineuse. Ses couvercles protègent les produits de la poussière et des intempéries.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "وحدة جدارية بمرآة وأغطية: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. وحدة مغطاة لواجهات المحلات والمساحات الخارجية. اللوح الخلفي المرآتي يُظهر العرض أكثر امتلاءً وإشراقًا. تحمي الأغطية المنتجات من الغبار والعوامل الخارجية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Aynalı arka panel",
+      "Duvar boyunca kullanım",
+      "Kapaklı, korunaklı yapı",
+      "Dış mekân ve dükkân önü kullanımına uygun",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Mirrored back panel",
+      "Runs along the wall",
+      "Lidded, protected design",
+      "Suitable for outdoor and shopfront use",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Spiegelrückwand",
+      "Für die Wandaufstellung",
+      "Mit Deckeln, geschützt",
+      "Für Außenbereich und Ladenfront geeignet",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Fond miroir",
+      "Installation le long du mur",
+      "Avec couvercles, protégé",
+      "Adapté à l’extérieur et aux devantures",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "لوح خلفي مرآتي",
+      "يُركَّب على امتداد الجدار",
+      "بأغطية وتصميم محمي",
+      "مناسب للخارج وواجهات المحلات",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

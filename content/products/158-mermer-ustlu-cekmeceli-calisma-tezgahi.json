@@ -22,5 +22,71 @@
     "media/products/mermer-ustlu-cekmeceli-calisma-tezgahi-1.webp",
     "media/products/mermer-ustlu-cekmeceli-calisma-tezgahi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/mermer-ustlu-cekmece-ve-rafli-calisma-tezgahlari/"
+  "old_url": "https://manavreyonu.com.tr/urun/mermer-ustlu-cekmece-ve-rafli-calisma-tezgahlari/",
+  "details": {
+    "tr": "Mermer Üstlü Çekmeceli Çalışma Tezgahı, market düzenini ve satış alanının verimini artırmak için tasarlandı. Şarküteri ve otel mutfakları için hijyenik çalışma tezgahı. Çekmeceli bölmeleri ürünleri düzenli ve temiz tutar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Marble-Top Work Counter with Drawers is designed to improve store layout and sales-floor efficiency. Hygienic work counter for delis and hotel kitchens. Drawer compartments keep products tidy and clean.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Arbeitstheke mit Marmorplatte und Schubladen wurde entwickelt, um Ordnung und Effizienz auf der Verkaufsfläche zu verbessern. Hygienische Arbeitstheke für Feinkost und Hotelküchen. Schubladenfächer halten die Ware ordentlich und sauber.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Plan de travail marbre à tiroirs : une solution conçue pour améliorer l’organisation et l’efficacité de la surface de vente. Plan de travail hygiénique pour traiteurs et cuisines d’hôtel. Les tiroirs gardent les produits rangés et propres.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة عمل بسطح رخامي وأدراج: صُمِّم لتحسين تنظيم المتجر وكفاءة مساحة البيع. طاولة عمل صحية لمحلات الأجبان ومطابخ الفنادق. تحافظ الأدراج على المنتجات مرتبة ونظيفة.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Çekmeceli bölmeler",
+      "Mermer tezgah üstü",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Drawer compartments",
+      "Marble top",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Schubladenfächer",
+      "Marmorplatte",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Compartiments à tiroirs",
+      "Plateau en marbre",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "حجيرات بأدراج",
+      "سطح رخامي",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Mahalle marketleri",
+      "Şarküteriler",
+      "Mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Convenience stores",
+      "Delicatessens",
+      "Retail stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Nachbarschaftsläden",
+      "Feinkostläden",
+      "Einzelhandel"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Commerces de proximité",
+      "Épiceries fines",
+      "Magasins"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "متاجر الأحياء",
+      "محلات الأطعمة الفاخرة",
+      "متاجر التجزئة"
+    ]
+  }
 }

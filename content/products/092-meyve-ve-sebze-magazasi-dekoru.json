@@ -22,5 +22,61 @@
     "media/products/meyve-ve-sebze-magazasi-dekoru-1.webp",
     "media/products/meyve-ve-sebze-magazasi-dekoru-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-magazasi-dekoru/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-meyve-ve-sebze-magazasi-dekoru/",
+  "details": {
+    "tr": "Meyve ve Sebze Mağazası Dekoru, satış alanında fark yaratan, dikkat çekici bir sunum için tasarlandı. Taze ve çekici bir atmosfer için bütünlüklü mağaza dekoru.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Fruit & Vegetable Store Décor is designed for an eye-catching display that sets your sales floor apart. Complete store décor for a fresh, inviting atmosphere.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Ladendekoration für Obst & Gemüse wurde für eine auffällige Präsentation entwickelt, die Ihre Verkaufsfläche hervorhebt. Komplette Ladendekoration für eine frische, einladende Atmosphäre.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Décoration de magasin fruits et légumes : une solution conçue pour une présentation remarquable qui distingue votre surface de vente. Décoration complète pour une ambiance fraîche et accueillante.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ديكور متجر الخضار والفواكه: صُمِّم لعرض لافت يميّز مساحة البيع لديك. ديكور متكامل لأجواء منعشة وجذابة.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Manavlar",
+      "Şarküteriler",
+      "Konsept mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Greengrocers",
+      "Delicatessens",
+      "Concept stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Obst- und Gemüseläden",
+      "Feinkostläden",
+      "Konzeptläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Primeurs",
+      "Épiceries fines",
+      "Concept stores"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات الخضار والفواكه",
+      "محلات الأطعمة الفاخرة",
+      "المتاجر المفاهيمية"
+    ]
+  }
 }

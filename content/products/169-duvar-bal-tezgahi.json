@@ -22,5 +22,66 @@
     "media/products/duvar-bal-tezgahi-1.webp",
     "media/products/duvar-bal-tezgahi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-sarkuteri-duvar-bal-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-sarkuteri-duvar-bal-tezgahi/",
+  "details": {
+    "tr": "Duvar Bal Tezgahı, market düzenini ve satış alanının verimini artırmak için tasarlandı. Bal ürünlerini en iyi şekilde sunan şarküteri tezgahı.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Wall Honey Counter is designed to improve store layout and sales-floor efficiency. Deli counter presenting honey products at their best.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Wand-Honigtheke wurde entwickelt, um Ordnung und Effizienz auf der Verkaufsfläche zu verbessern. Feinkosttheke, die Honigprodukte bestens präsentiert.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir mural à miel : une solution conçue pour améliorer l’organisation et l’efficacité de la surface de vente. Comptoir d’épicerie fine qui met le miel en valeur.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة عسل جدارية: صُمِّم لتحسين تنظيم المتجر وكفاءة مساحة البيع. طاولة أطعمة فاخرة تعرض منتجات العسل بأفضل شكل.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Duvar boyunca kullanım",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Runs along the wall",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Wandaufstellung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Installation le long du mur",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "يُركَّب على امتداد الجدار",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Mahalle marketleri",
+      "Şarküteriler",
+      "Mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Convenience stores",
+      "Delicatessens",
+      "Retail stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Nachbarschaftsläden",
+      "Feinkostläden",
+      "Einzelhandel"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Commerces de proximité",
+      "Épiceries fines",
+      "Magasins"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "متاجر الأحياء",
+      "محلات الأطعمة الفاخرة",
+      "متاجر التجزئة"
+    ]
+  }
 }

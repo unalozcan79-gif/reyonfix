@@ -24,5 +24,71 @@
     "media/products/tekerli-orta-alan-zeytin-ve-salata-bar-1.webp",
     "media/products/tekerli-orta-alan-zeytin-ve-salata-bar-2.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/zeytin-bar-salatabar-tekerli-orta-alan-zeytin-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/zeytin-bar-salatabar-tekerli-orta-alan-zeytin-tezgahi/",
+  "details": {
+    "tr": "Tekerli Orta Alan Zeytin ve Salata Bar, zeytin, meze ve salata çeşitlerini hijyenik ve iştah açıcı şekilde sunmak için tasarlandı. Orta alanda zeytin ve salata sunumu için tekerli tezgah. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mobile Island Olive & Salad Bar is designed to present olives, meze and salads hygienically and appetisingly. Mobile island counter for olives and salads. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobile Insel-Oliven- & Salatbar wurde entwickelt, um Oliven, Meze und Salate hygienisch und appetitlich zu präsentieren. Mobile Inseltheke für Oliven und Salate. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Îlot mobile olives et salades : une solution conçue pour présenter olives, mezzés et salades de façon hygiénique et appétissante. Îlot mobile pour olives et salades. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "بار جزيرة متنقل للزيتون والسلطات: صُمِّم لعرض الزيتون والمقبلات والسلطات بشكل صحي وفاتح للشهية. طاولة وسطية متنقلة للزيتون والسلطات. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Tekerlekli, kolay taşınır",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "On castors, easy to move",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Auf Rollen, leicht zu verschieben",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Sur roulettes, facile à déplacer",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "بعجلات وسهل التنقل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Zeytin dükkanları",
+      "Şarküteriler",
+      "Süpermarketler",
+      "Otel ve açık büfeler"
+    ],
+    "en": [
+      "Olive shops",
+      "Delicatessens",
+      "Supermarkets",
+      "Hotels and buffets"
+    ],
+    "de": [
+      "Olivengeschäfte",
+      "Feinkostläden",
+      "Supermärkte",
+      "Hotels und Buffets"
+    ],
+    "fr": [
+      "Boutiques d’olives",
+      "Épiceries fines",
+      "Supermarchés",
+      "Hôtels et buffets"
+    ],
+    "ar": [
+      "محلات الزيتون",
+      "محلات الأطعمة الفاخرة",
+      "السوبرماركت",
+      "الفنادق والبوفيهات"
+    ]
+  }
 }

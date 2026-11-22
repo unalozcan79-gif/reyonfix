@@ -21,5 +21,66 @@
   "images": [
     "media/products/ekonomik-tekerlekli-manav-rafi-1.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-ekonomik-meyve-ve-sebze-rafi-uygun-tekerli-manav-rafi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-ekonomik-meyve-ve-sebze-rafi-uygun-tekerli-manav-rafi/",
+  "details": {
+    "tr": "Ekonomik Tekerlekli Manav Rafı, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Uygun maliyetli, tekerlekli meyve-sebze rafı. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Economy Mobile Produce Rack is designed to show fruit and vegetables fresh, plentiful and tidy. Cost-effective mobile fruit and vegetable rack. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobiles Obstregal Economy wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Kostengünstiges mobiles Regal für Obst und Gemüse. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Étagère mobile économique fruits et légumes : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Étagère mobile à prix avantageux pour fruits et légumes. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "رف خضار متنقل اقتصادي: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. رف متنقل منخفض التكلفة للخضار والفواكه. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Tekerlekli, kolay taşınır",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "On castors, easy to move",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Auf Rollen, leicht zu verschieben",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Sur roulettes, facile à déplacer",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بعجلات وسهل التنقل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

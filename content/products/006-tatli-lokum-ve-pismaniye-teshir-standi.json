@@ -22,5 +22,66 @@
     "media/products/tatli-lokum-ve-pismaniye-teshir-standi-1.webp",
     "media/products/tatli-lokum-ve-pismaniye-teshir-standi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/tatli-seker-lokum-pismaniye-teshir-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/tatli-seker-lokum-pismaniye-teshir-standi/",
+  "details": {
+    "tr": "Tatlı, Lokum ve Pişmaniye Teşhir Standı, kafe ve pastanelerde hem şık hem kullanışlı bir sunum için tasarlandı. Tekerlekli yapısıyla tatlı ve şekerlemeleri dikkat çekici şekilde sergiler. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Sweets & Turkish Delight Display Stand is designed for a stylish yet practical setting in cafés and patisseries. Mobile stand that showcases sweets and confectionery attractively. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Ständer für Süßwaren & Lokum wurde für eine stilvolle und praktische Einrichtung in Cafés und Konditoreien entwickelt. Mobiler Ständer, der Süßigkeiten ansprechend präsentiert. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir à confiseries et loukoums : une solution conçue pour un aménagement élégant et pratique en café et pâtisserie. Présentoir mobile qui met en valeur bonbons et confiseries. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند عرض للحلويات والراحة: صُمِّم لتجهيز أنيق وعملي في المقاهي ومحلات الحلويات. ستاند متنقل يعرض الحلويات بشكل جذاب. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Tekerlekli, kolay taşınır",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "On castors, easy to move",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Auf Rollen, leicht zu verschieben",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Sur roulettes, facile à déplacer",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بعجلات وسهل التنقل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Kafeler",
+      "Pastaneler",
+      "Fırınlar",
+      "Restoranlar"
+    ],
+    "en": [
+      "Cafés",
+      "Patisseries",
+      "Bakeries",
+      "Restaurants"
+    ],
+    "de": [
+      "Cafés",
+      "Konditoreien",
+      "Bäckereien",
+      "Restaurants"
+    ],
+    "fr": [
+      "Cafés",
+      "Pâtisseries",
+      "Boulangeries",
+      "Restaurants"
+    ],
+    "ar": [
+      "المقاهي",
+      "محلات الحلويات",
+      "المخابز",
+      "المطاعم"
+    ]
+  }
 }

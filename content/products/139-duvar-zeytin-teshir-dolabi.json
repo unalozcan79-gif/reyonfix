@@ -22,5 +22,66 @@
     "media/products/duvar-zeytin-teshir-dolabi-1.webp",
     "media/products/duvar-zeytin-teshir-dolabi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-zeytin-teshir-dolabi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-zeytin-teshir-dolabi/",
+  "details": {
+    "tr": "Duvar Zeytin Teşhir Dolabı, zeytin, meze ve salata çeşitlerini hijyenik ve iştah açıcı şekilde sunmak için tasarlandı. Duvara temaslı, zeytin satışı için özel dolap.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Wall Olive Display Cabinet is designed to present olives, meze and salads hygienically and appetisingly. Wall-mounted cabinet designed for olive sales.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Wand-Olivenvitrine wurde entwickelt, um Oliven, Meze und Salate hygienisch und appetitlich zu präsentieren. Wandvitrine speziell für den Olivenverkauf.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Vitrine murale à olives : une solution conçue pour présenter olives, mezzés et salades de façon hygiénique et appétissante. Vitrine murale conçue pour la vente d’olives.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "خزانة زيتون جدارية: صُمِّم لعرض الزيتون والمقبلات والسلطات بشكل صحي وفاتح للشهية. خزانة جدارية مصممة لبيع الزيتون.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Duvar boyunca kullanım",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Runs along the wall",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Wandaufstellung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Installation le long du mur",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "يُركَّب على امتداد الجدار",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Zeytin dükkanları",
+      "Şarküteriler",
+      "Süpermarketler",
+      "Otel ve açık büfeler"
+    ],
+    "en": [
+      "Olive shops",
+      "Delicatessens",
+      "Supermarkets",
+      "Hotels and buffets"
+    ],
+    "de": [
+      "Olivengeschäfte",
+      "Feinkostläden",
+      "Supermärkte",
+      "Hotels und Buffets"
+    ],
+    "fr": [
+      "Boutiques d’olives",
+      "Épiceries fines",
+      "Supermarchés",
+      "Hôtels et buffets"
+    ],
+    "ar": [
+      "محلات الزيتون",
+      "محلات الأطعمة الفاخرة",
+      "السوبرماركت",
+      "الفنادق والبوفيهات"
+    ]
+  }
 }

@@ -22,5 +22,66 @@
     "media/products/gondol-basi-teshir-rafi-1.webp",
     "media/products/gondol-basi-teshir-rafi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-rafi-gondol-basi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-rafi-gondol-basi/",
+  "details": {
+    "tr": "Gondol Başı Teşhir Rafı, market düzenini ve satış alanının verimini artırmak için tasarlandı. Yükseklik ayarlı, sökülebilir panelli gondol başı rafı.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Gondola End Display is designed to improve store layout and sales-floor efficiency. Gondola end unit with adjustable height and removable panel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Gondelkopf-Präsentation wurde entwickelt, um Ordnung und Effizienz auf der Verkaufsfläche zu verbessern. Gondelkopf mit höhenverstellbarer, abnehmbarer Platte.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Tête de gondole : une solution conçue pour améliorer l’organisation et l’efficacité de la surface de vente. Tête de gondole à hauteur réglable et panneau amovible.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "عرض رأس الجندولة: صُمِّم لتحسين تنظيم المتجر وكفاءة مساحة البيع. رأس جندولة بارتفاع قابل للتعديل ولوح قابل للفك.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ayarlanabilir yapı",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Adjustable",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Verstellbar",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Réglable",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "قابل للتعديل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Mahalle marketleri",
+      "Şarküteriler",
+      "Mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Convenience stores",
+      "Delicatessens",
+      "Retail stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Nachbarschaftsläden",
+      "Feinkostläden",
+      "Einzelhandel"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Commerces de proximité",
+      "Épiceries fines",
+      "Magasins"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "متاجر الأحياء",
+      "محلات الأطعمة الفاخرة",
+      "متاجر التجزئة"
+    ]
+  }
 }

@@ -21,5 +21,71 @@
   "images": [
     "media/products/ayakli-kilitli-posetlik-1.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-ayakli-kilitli-poset-koyma-aparati-park-kilitli-posetlik-dis-mekan-posetlik/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-ayakli-kilitli-poset-koyma-aparati-park-kilitli-posetlik-dis-mekan-posetlik/",
+  "details": {
+    "tr": "Ayaklı Kilitli Poşetlik, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Park, bahçe ve dış mekanlar için ayaklı kilitli poşetlik. Dükkân önü ve dış alanlarda kullanıma uygundur.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Free-Standing Lockable Bag Holder is designed to show fruit and vegetables fresh, plentiful and tidy. Free-standing lockable bag holder for parks and outdoor areas. It is suitable for shopfronts and outdoor areas.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Freistehender abschließbarer Tütenhalter wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Freistehender, abschließbarer Tütenhalter für Parks und Außenbereiche. Geeignet für Ladenfront und Außenbereich.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Porte-sacs autoportant verrouillable : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Porte-sacs autoportant verrouillable pour parcs et extérieurs. Il convient aux devantures et aux espaces extérieurs.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "حامل أكياس قائم بقفل: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. حامل أكياس قائم بقفل للحدائق والمساحات الخارجية. مناسب لواجهات المحلات والمساحات الخارجية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Dış mekân ve dükkân önü kullanımına uygun",
+      "Kilitli yapı",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Suitable for outdoor and shopfront use",
+      "Lockable",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für Außenbereich und Ladenfront geeignet",
+      "Abschließbar",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Adapté à l’extérieur et aux devantures",
+      "Verrouillable",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "مناسب للخارج وواجهات المحلات",
+      "قابل للقفل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

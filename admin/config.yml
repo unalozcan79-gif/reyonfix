@@ -77,6 +77,40 @@ collections:
           - { label: "Deutsch", name: de, widget: text, required: false }
           - { label: "Français", name: fr, widget: text, required: false }
           - { label: "العربية", name: ar, widget: text, required: false }
+      - label: Detaylı açıklama
+        name: details
+        widget: object
+        required: false
+        collapsed: true
+        hint: "Paragrafları boş bir satırla ayırın."
+        fields:
+          - { label: "Türkçe", name: tr, widget: text, required: false }
+          - { label: "English", name: en, widget: text, required: false }
+          - { label: "Deutsch", name: de, widget: text, required: false }
+          - { label: "Français", name: fr, widget: text, required: false }
+          - { label: "العربية", name: ar, widget: text, required: false }
+      - label: Öne çıkan özellikler
+        name: features
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Türkçe", name: tr, widget: list, required: false }
+          - { label: "English", name: en, widget: list, required: false }
+          - { label: "Deutsch", name: de, widget: list, required: false }
+          - { label: "Français", name: fr, widget: list, required: false }
+          - { label: "العربية", name: ar, widget: list, required: false }
+      - label: Kullanım alanları
+        name: uses
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Türkçe", name: tr, widget: list, required: false }
+          - { label: "English", name: en, widget: list, required: false }
+          - { label: "Deutsch", name: de, widget: list, required: false }
+          - { label: "Français", name: fr, widget: list, required: false }
+          - { label: "العربية", name: ar, widget: list, required: false }
       - label: Fotoğraflar
         name: images
         widget: list

@@ -22,5 +22,66 @@
     "media/products/tekerli-evye-tezgahi-1.webp",
     "media/products/tekerli-evye-tezgahi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-evye-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-evye-tezgahi/",
+  "details": {
+    "tr": "Tekerli Evye Tezgahı, market düzenini ve satış alanının verimini artırmak için tasarlandı. Satış alanlarında pratik kullanım için tekerli evye. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mobile Sink Counter is designed to improve store layout and sales-floor efficiency. Mobile sink for practical use in sales areas. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobile Spülbeckentheke wurde entwickelt, um Ordnung und Effizienz auf der Verkaufsfläche zu verbessern. Mobiles Spülbecken für den praktischen Einsatz im Verkaufsbereich. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir évier mobile : une solution conçue pour améliorer l’organisation et l’efficacité de la surface de vente. Évier mobile pour un usage pratique en surface de vente. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة مغسلة متنقلة: صُمِّم لتحسين تنظيم المتجر وكفاءة مساحة البيع. مغسلة متنقلة للاستخدام العملي في مساحة البيع. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Tekerlekli, kolay taşınır",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "On castors, easy to move",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Auf Rollen, leicht zu verschieben",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Sur roulettes, facile à déplacer",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بعجلات وسهل التنقل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Mahalle marketleri",
+      "Şarküteriler",
+      "Mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Convenience stores",
+      "Delicatessens",
+      "Retail stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Nachbarschaftsläden",
+      "Feinkostläden",
+      "Einzelhandel"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Commerces de proximité",
+      "Épiceries fines",
+      "Magasins"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "متاجر الأحياء",
+      "محلات الأطعمة الفاخرة",
+      "متاجر التجزئة"
+    ]
+  }
 }

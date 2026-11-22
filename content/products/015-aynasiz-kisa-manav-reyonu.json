@@ -22,5 +22,66 @@
     "media/products/aynasiz-kisa-manav-reyonu-1.webp",
     "media/products/aynasiz-kisa-manav-reyonu-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/aynasiz-kisa-manav-reyonu/"
+  "old_url": "https://manavreyonu.com.tr/urun/aynasiz-kisa-manav-reyonu/",
+  "details": {
+    "tr": "Aynasız Kısa Manav Reyonu, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Verimliliği ve müşteri deneyimini artıran modern, alçak manav reyonu.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Low Produce Unit is designed to show fruit and vegetables fresh, plentiful and tidy. Modern low produce unit improving efficiency and customer experience.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Niedrige Obst- & Gemüseeinheit wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Moderne, niedrige Einheit für mehr Effizienz und Kundenkomfort.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Meuble bas fruits et légumes : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Meuble bas moderne pour plus d’efficacité et de confort client.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "وحدة منخفضة للخضار والفواكه: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. وحدة منخفضة حديثة تزيد الكفاءة وراحة الزبائن.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Aynasız, sade gövde",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Clean design without mirror",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Schlichte Ausführung ohne Spiegel",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Design épuré sans miroir",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "تصميم بسيط بدون مرآة",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

@@ -22,5 +22,66 @@
     "media/products/avm-buyuk-saksi-1.webp",
     "media/products/avm-buyuk-saksi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/avm-buyuk-saksi/"
+  "old_url": "https://manavreyonu.com.tr/urun/avm-buyuk-saksi/",
+  "details": {
+    "tr": "AVM Büyük Saksı, çiçek ve bitkileri canlı ve düzenli sunmak için tasarlandı. AVM ve kamusal alanlar için büyük boy metal saksı.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mall Planter is designed to present flowers and plants vividly and neatly. Large metal planter for malls and public spaces.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Pflanzkübel für Einkaufszentren wurde entwickelt, um Blumen und Pflanzen lebendig und ordentlich zu präsentieren. Großer Metall-Pflanzkübel für Einkaufszentren und öffentliche Räume.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Jardinière pour centres commerciaux : une solution conçue pour présenter fleurs et plantes de façon vivante et ordonnée. Grande jardinière métallique pour centres commerciaux et espaces publics.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "حوض نباتات للمراكز التجارية: صُمِّم لعرض الزهور والنباتات بشكل حيوي ومرتب. حوض نباتات معدني كبير للمراكز التجارية والأماكن العامة.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Metal gövde",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Metal frame",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Metallgestell",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Structure métallique",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "هيكل معدني",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Çiçekçiler",
+      "Restoran ve kafeler",
+      "Alışveriş merkezleri",
+      "Otel girişleri"
+    ],
+    "en": [
+      "Florists",
+      "Restaurants and cafés",
+      "Shopping malls",
+      "Hotel entrances"
+    ],
+    "de": [
+      "Blumenläden",
+      "Restaurants und Cafés",
+      "Einkaufszentren",
+      "Hoteleingänge"
+    ],
+    "fr": [
+      "Fleuristes",
+      "Restaurants et cafés",
+      "Centres commerciaux",
+      "Entrées d’hôtel"
+    ],
+    "ar": [
+      "محلات الزهور",
+      "المطاعم والمقاهي",
+      "مراكز التسوق",
+      "مداخل الفنادق"
+    ]
+  }
 }

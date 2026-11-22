@@ -24,5 +24,71 @@
     "media/products/4-katli-orta-alan-gurme-rafi-1.webp",
     "media/products/4-katli-orta-alan-gurme-rafi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-sarkuteri-4-katli-orta-alan-gurme-rafi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-sarkuteri-4-katli-orta-alan-gurme-rafi/",
+  "details": {
+    "tr": "4 Katlı Orta Alan Gurme Rafı, gurme ve şarküteri ürünlerini düzenli ve satışı artıracak şekilde sergilemek için tasarlandı. Şarküteri ürünlerini satışı artıracak şekilde sergiler. Katlı yapısı dar alanda yüksek sunum kapasitesi sağlar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "4-Tier Island Gourmet Shelf is designed to display gourmet and deli products neatly and to boost sales. Displays deli products in a way that boosts sales. Its tiered layout gives high display capacity in a small footprint.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Vierstöckiges Gourmet-Mittelraumregal wurde entwickelt, um Feinkost ordentlich und verkaufsfördernd zu präsentieren. Präsentiert Feinkostprodukte verkaufsfördernd. Die Etagen bieten viel Präsentationsfläche auf wenig Raum.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Gondole gourmet centrale à quatre niveaux : une solution conçue pour présenter les produits fins de façon ordonnée et vendeuse. Présente les produits d’épicerie fine pour stimuler les ventes. Ses niveaux offrent une grande capacité sur peu de surface.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "رف وسطي للأطعمة الفاخرة بأربعة طوابق: صُمِّم لعرض المنتجات الفاخرة والأطعمة الباردة بشكل منظم يزيد المبيعات. يعرض منتجات الأطعمة الفاخرة بطريقة تزيد المبيعات. يوفر تصميمه المتعدد الطوابق سعة عرض كبيرة في مساحة صغيرة.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "4 katlı sunum",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "4-tier display",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "4 Etagen",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Présentation sur 4 niveaux",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "عرض على 4 طوابق",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Şarküteriler",
+      "Gurme dükkanları",
+      "Süpermarketler",
+      "Köy ürünleri mağazaları"
+    ],
+    "en": [
+      "Delicatessens",
+      "Gourmet shops",
+      "Supermarkets",
+      "Farm produce shops"
+    ],
+    "de": [
+      "Feinkostläden",
+      "Gourmetläden",
+      "Supermärkte",
+      "Hofläden"
+    ],
+    "fr": [
+      "Épiceries fines",
+      "Boutiques gourmet",
+      "Supermarchés",
+      "Boutiques de produits fermiers"
+    ],
+    "ar": [
+      "محلات الأطعمة الفاخرة",
+      "متاجر الذواقة",
+      "السوبرماركت",
+      "متاجر منتجات المزارع"
+    ]
+  }
 }

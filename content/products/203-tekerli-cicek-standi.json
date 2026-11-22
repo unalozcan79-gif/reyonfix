@@ -22,5 +22,66 @@
     "media/products/tekerli-cicek-standi-1.webp",
     "media/products/tekerli-cicek-standi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/tekerli-cicek-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/tekerli-cicek-standi/",
+  "details": {
+    "tr": "Tekerli Çiçek Standı, çiçek ve bitkileri canlı ve düzenli sunmak için tasarlandı. Çiçekleri kolayca taşınabilir şekilde sergiler. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mobile Flower Stand is designed to present flowers and plants vividly and neatly. Displays flowers in an easily movable way. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobiler Blumenständer wurde entwickelt, um Blumen und Pflanzen lebendig und ordentlich zu präsentieren. Präsentiert Blumen flexibel und leicht verschiebbar. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir mobile pour fleurs : une solution conçue pour présenter fleurs et plantes de façon vivante et ordonnée. Présente les fleurs et se déplace facilement. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند زهور متنقل: صُمِّم لعرض الزهور والنباتات بشكل حيوي ومرتب. يعرض الزهور ويسهل تحريكه. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Tekerlekli, kolay taşınır",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "On castors, easy to move",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Auf Rollen, leicht zu verschieben",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Sur roulettes, facile à déplacer",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بعجلات وسهل التنقل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Çiçekçiler",
+      "Restoran ve kafeler",
+      "Alışveriş merkezleri",
+      "Otel girişleri"
+    ],
+    "en": [
+      "Florists",
+      "Restaurants and cafés",
+      "Shopping malls",
+      "Hotel entrances"
+    ],
+    "de": [
+      "Blumenläden",
+      "Restaurants und Cafés",
+      "Einkaufszentren",
+      "Hoteleingänge"
+    ],
+    "fr": [
+      "Fleuristes",
+      "Restaurants et cafés",
+      "Centres commerciaux",
+      "Entrées d’hôtel"
+    ],
+    "ar": [
+      "محلات الزهور",
+      "المطاعم والمقاهي",
+      "مراكز التسوق",
+      "مداخل الفنادق"
+    ]
+  }
 }

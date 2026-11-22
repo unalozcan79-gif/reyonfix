@@ -25,5 +25,71 @@
     "media/products/et-sis-sergileme-standi-2.webp",
     "media/products/et-sis-sergileme-standi-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/supermarket-et-sis-sergileme-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/supermarket-et-sis-sergileme-standi/",
+  "details": {
+    "tr": "Et Şiş Sergileme Standı, satış alanında fark yaratan, dikkat çekici bir sunum için tasarlandı. Açı ayarlı, metal et şiş teşhir standı.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Meat Skewer Display Stand is designed for an eye-catching display that sets your sales floor apart. Angle-adjustable metal skewer display stand.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Fleischspieß-Präsentationsständer wurde für eine auffällige Präsentation entwickelt, die Ihre Verkaufsfläche hervorhebt. Neigungsverstellbarer Metallständer für Fleischspieße.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir à brochettes de viande : une solution conçue pour une présentation remarquable qui distingue votre surface de vente. Présentoir métallique inclinable pour brochettes.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند عرض أسياخ اللحم: صُمِّم لعرض لافت يميّز مساحة البيع لديك. ستاند معدني قابل لتعديل الزاوية لعرض الأسياخ.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Metal gövde",
+      "Ayarlanabilir yapı",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Metal frame",
+      "Adjustable",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Metallgestell",
+      "Verstellbar",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Structure métallique",
+      "Réglable",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "هيكل معدني",
+      "قابل للتعديل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Manavlar",
+      "Şarküteriler",
+      "Konsept mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Greengrocers",
+      "Delicatessens",
+      "Concept stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Obst- und Gemüseläden",
+      "Feinkostläden",
+      "Konzeptläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Primeurs",
+      "Épiceries fines",
+      "Concept stores"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات الخضار والفواكه",
+      "محلات الأطعمة الفاخرة",
+      "المتاجر المفاهيمية"
+    ]
+  }
 }

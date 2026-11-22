@@ -25,5 +25,76 @@
     "media/products/tekerlekli-metal-patates-sogan-reyonu-2.webp",
     "media/products/tekerlekli-metal-patates-sogan-reyonu-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-havuzlu-metal-patates-sogan-reyonu/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-havuzlu-metal-patates-sogan-reyonu/",
+  "details": {
+    "tr": "Tekerlekli Metal Patates-Soğan Reyonu, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Patates ve soğan satışı için dayanıklı metal reyon. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mobile Metal Potato & Onion Unit is designed to show fruit and vegetables fresh, plentiful and tidy. Durable metal unit for potato and onion sales. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobile Metalleinheit für Kartoffeln & Zwiebeln wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Langlebige Metalleinheit für den Kartoffel- und Zwiebelverkauf. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Meuble mobile métal pommes de terre et oignons : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Meuble métal durable pour la vente de pommes de terre et oignons. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "وحدة معدنية متنقلة للبطاطا والبصل: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. وحدة معدنية متينة لبيع البطاطا والبصل. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Tekerlekli, kolay taşınır",
+      "Metal gövde",
+      "Derin hazneler",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "On castors, easy to move",
+      "Metal frame",
+      "Deep bins",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Auf Rollen, leicht zu verschieben",
+      "Metallgestell",
+      "Tiefe Behälter",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Sur roulettes, facile à déplacer",
+      "Structure métallique",
+      "Bacs profonds",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بعجلات وسهل التنقل",
+      "هيكل معدني",
+      "أحواض عميقة",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

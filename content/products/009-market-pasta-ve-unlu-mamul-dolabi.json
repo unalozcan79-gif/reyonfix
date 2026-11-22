@@ -23,5 +23,61 @@
   "images": [
     "media/products/market-pasta-ve-unlu-mamul-dolabi-1.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-pasta-ve-unlu-mamul-dolabi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-pasta-ve-unlu-mamul-dolabi/",
+  "details": {
+    "tr": "Market Pasta ve Unlu Mamul Dolabı, kafe ve pastanelerde hem şık hem kullanışlı bir sunum için tasarlandı. Pasta, kek ve unlu mamulleri korunaklı şekilde sergileyen dolap.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Supermarket Cake & Bakery Cabinet is designed for a stylish yet practical setting in cafés and patisseries. Cabinet displaying cakes and bakery goods in a protected way.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Supermarkt-Kuchen- und Backwarenschrank wurde für eine stilvolle und praktische Einrichtung in Cafés und Konditoreien entwickelt. Schrank, der Kuchen und Backwaren geschützt präsentiert.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Armoire à gâteaux et viennoiseries : une solution conçue pour un aménagement élégant et pratique en café et pâtisserie. Armoire qui présente gâteaux et viennoiseries à l’abri.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "خزانة كيك ومعجنات للسوبرماركت: صُمِّم لتجهيز أنيق وعملي في المقاهي ومحلات الحلويات. خزانة تعرض الكيك والمعجنات بشكل محمي.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Kafeler",
+      "Pastaneler",
+      "Fırınlar",
+      "Restoranlar"
+    ],
+    "en": [
+      "Cafés",
+      "Patisseries",
+      "Bakeries",
+      "Restaurants"
+    ],
+    "de": [
+      "Cafés",
+      "Konditoreien",
+      "Bäckereien",
+      "Restaurants"
+    ],
+    "fr": [
+      "Cafés",
+      "Pâtisseries",
+      "Boulangeries",
+      "Restaurants"
+    ],
+    "ar": [
+      "المقاهي",
+      "محلات الحلويات",
+      "المخابز",
+      "المطاعم"
+    ]
+  }
 }

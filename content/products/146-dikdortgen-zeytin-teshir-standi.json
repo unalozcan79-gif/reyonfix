@@ -25,5 +25,71 @@
     "media/products/dikdortgen-zeytin-teshir-standi-2.webp",
     "media/products/dikdortgen-zeytin-teshir-standi-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-dikdortgen-zeytin-teshir-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-orta-alan-dikdortgen-zeytin-teshir-standi/",
+  "details": {
+    "tr": "Dikdörtgen Zeytin Teşhir Standı, zeytin, meze ve salata çeşitlerini hijyenik ve iştah açıcı şekilde sunmak için tasarlandı. Tekerlekli, orta alan dikdörtgen zeytin standı. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Rectangular Olive Display Stand is designed to present olives, meze and salads hygienically and appetisingly. Mobile rectangular olive stand for the store centre. Its castors let you move it easily around the store or out to the shopfront.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Rechteckiger Olivenständer wurde entwickelt, um Oliven, Meze und Salate hygienisch und appetitlich zu präsentieren. Mobiler, rechteckiger Olivenständer für die Ladenmitte. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir rectangulaire à olives : une solution conçue pour présenter olives, mezzés et salades de façon hygiénique et appétissante. Présentoir mobile rectangulaire pour le centre du magasin. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند زيتون مستطيل: صُمِّم لعرض الزيتون والمقبلات والسلطات بشكل صحي وفاتح للشهية. ستاند زيتون متنقل مستطيل لمنتصف المتجر. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Tekerlekli, kolay taşınır",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "On castors, easy to move",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Auf Rollen, leicht zu verschieben",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Sur roulettes, facile à déplacer",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "بعجلات وسهل التنقل",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Zeytin dükkanları",
+      "Şarküteriler",
+      "Süpermarketler",
+      "Otel ve açık büfeler"
+    ],
+    "en": [
+      "Olive shops",
+      "Delicatessens",
+      "Supermarkets",
+      "Hotels and buffets"
+    ],
+    "de": [
+      "Olivengeschäfte",
+      "Feinkostläden",
+      "Supermärkte",
+      "Hotels und Buffets"
+    ],
+    "fr": [
+      "Boutiques d’olives",
+      "Épiceries fines",
+      "Supermarchés",
+      "Hôtels et buffets"
+    ],
+    "ar": [
+      "محلات الزيتون",
+      "محلات الأطعمة الفاخرة",
+      "السوبرماركت",
+      "الفنادق والبوفيهات"
+    ]
+  }
 }

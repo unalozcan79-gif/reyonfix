@@ -24,5 +24,71 @@
     "media/products/catili-bakliyat-ve-kuruyemis-standi-1.webp",
     "media/products/catili-bakliyat-ve-kuruyemis-standi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-catili-bakliyat-ve-kuruyemis-teshir-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-orta-alan-catili-bakliyat-ve-kuruyemis-teshir-standi/",
+  "details": {
+    "tr": "Çatılı Bakliyat ve Kuruyemiş Standı, bakliyat, çerez ve kuruyemişi taze görünümlü ve düzenli sunmak için tasarlandı. Orta alanda bakliyat ve kuruyemiş sunumu için çatılı stand. Çatılı üst yapısı sunuma vitrin etkisi katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Canopied Pulses & Nuts Stand is designed to present pulses, nuts and dried fruit neatly and fresh-looking. Canopied island stand for pulses and nuts. The canopy top gives the display a shopfront feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Überdachter Stand für Hülsenfrüchte und Nüsse wurde entwickelt, um Hülsenfrüchte, Nüsse und Trockenobst ordentlich und frisch zu präsentieren. Überdachter Mittelraumstand für Hülsenfrüchte und Nüsse. Die Überdachung verleiht der Auslage Marktstand-Charakter.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir couvert légumineuses et fruits secs : une solution conçue pour présenter légumineuses, fruits secs et noix de façon nette et attrayante. Présentoir central couvert pour légumineuses et fruits secs. L’auvent donne à la présentation un effet d’échoppe.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند مغطى للبقوليات والمكسرات: صُمِّم لعرض البقوليات والمكسرات والفواكه المجففة بشكل مرتب وجذاب. ستاند وسطي مغطى للبقوليات والمكسرات. تضفي المظلة العلوية طابع الكشك على العرض.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Orta alan (ada) kullanımı",
+      "Çatılı üst yapı",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Island / mid-floor use",
+      "Canopy top",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Raummitte (Insel)",
+      "Mit Überdachung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Utilisation en îlot central",
+      "Avec auvent",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "للاستخدام في وسط المتجر",
+      "بمظلة علوية",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Kuruyemişçiler",
+      "Süpermarketler",
+      "Şarküteriler",
+      "Kuru gıda mağazaları"
+    ],
+    "en": [
+      "Nut shops",
+      "Supermarkets",
+      "Delicatessens",
+      "Dry food stores"
+    ],
+    "de": [
+      "Nussläden",
+      "Supermärkte",
+      "Feinkostläden",
+      "Trockenwarengeschäfte"
+    ],
+    "fr": [
+      "Boutiques de fruits secs",
+      "Supermarchés",
+      "Épiceries fines",
+      "Magasins de produits secs"
+    ],
+    "ar": [
+      "محلات المكسرات",
+      "السوبرماركت",
+      "محلات الأطعمة الفاخرة",
+      "متاجر المواد الجافة"
+    ]
+  }
 }

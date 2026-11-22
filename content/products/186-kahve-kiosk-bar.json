@@ -22,5 +22,61 @@
     "media/products/kahve-kiosk-bar-1.webp",
     "media/products/kahve-kiosk-bar-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/kahve-kiosk-bar-bar-kosesi-icecek-kosesi-market-mola-yeri/"
+  "old_url": "https://manavreyonu.com.tr/urun/kahve-kiosk-bar-bar-kosesi-icecek-kosesi-market-mola-yeri/",
+  "details": {
+    "tr": "Kahve Kiosk Bar, taze meyve suyu, kahve ya da ürün satışını her yerde mümkün kılmak için tasarlandı. Market içi mola ve içecek köşesi için kiosk.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Coffee Kiosk Bar is designed to make fresh juice, coffee or product sales possible almost anywhere. Kiosk for an in-store coffee and drinks corner.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Kaffee-Kiosk-Bar wurde entwickelt, um Saft-, Kaffee- oder Warenverkauf fast überall zu ermöglichen. Kiosk für eine Kaffee- und Getränkeecke im Laden.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Kiosque bar à café : une solution conçue pour vendre jus frais, café ou produits presque partout. Kiosque pour un coin café et boissons en magasin.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "كشك بار القهوة: صُمِّم لإتاحة بيع العصائر الطازجة أو القهوة أو المنتجات في أي مكان تقريبًا. كشك لركن القهوة والمشروبات داخل المتجر.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Alışveriş merkezleri",
+      "Süpermarketler",
+      "Oteller",
+      "Cadde ve sahil noktaları"
+    ],
+    "en": [
+      "Shopping malls",
+      "Supermarkets",
+      "Hotels",
+      "Streets and seafronts"
+    ],
+    "de": [
+      "Einkaufszentren",
+      "Supermärkte",
+      "Hotels",
+      "Straßen und Promenaden"
+    ],
+    "fr": [
+      "Centres commerciaux",
+      "Supermarchés",
+      "Hôtels",
+      "Rues et fronts de mer"
+    ],
+    "ar": [
+      "مراكز التسوق",
+      "السوبرماركت",
+      "الفنادق",
+      "الشوارع والواجهات البحرية"
+    ]
+  }
 }

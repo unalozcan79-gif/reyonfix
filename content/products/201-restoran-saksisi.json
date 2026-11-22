@@ -22,5 +22,61 @@
     "media/products/restoran-saksisi-1.webp",
     "media/products/restoran-saksisi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/restaurant-saksi/"
+  "old_url": "https://manavreyonu.com.tr/urun/restaurant-saksi/",
+  "details": {
+    "tr": "Restoran Saksısı, çiçek ve bitkileri canlı ve düzenli sunmak için tasarlandı. Restoranlarda bölme görevi gören dekoratif saksı.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Restaurant Planter Divider is designed to present flowers and plants vividly and neatly. Decorative planter that also serves as a divider.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Pflanzkübel-Raumteiler für Restaurants wurde entwickelt, um Blumen und Pflanzen lebendig und ordentlich zu präsentieren. Dekorativer Pflanzkübel, der zugleich als Raumteiler dient.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Jardinière séparatrice pour restaurant : une solution conçue pour présenter fleurs et plantes de façon vivante et ordonnée. Jardinière décorative servant aussi de séparation.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "حوض نباتات فاصل للمطاعم: صُمِّم لعرض الزهور والنباتات بشكل حيوي ومرتب. حوض نباتات ديكوري يعمل كفاصل أيضًا.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Çiçekçiler",
+      "Restoran ve kafeler",
+      "Alışveriş merkezleri",
+      "Otel girişleri"
+    ],
+    "en": [
+      "Florists",
+      "Restaurants and cafés",
+      "Shopping malls",
+      "Hotel entrances"
+    ],
+    "de": [
+      "Blumenläden",
+      "Restaurants und Cafés",
+      "Einkaufszentren",
+      "Hoteleingänge"
+    ],
+    "fr": [
+      "Fleuristes",
+      "Restaurants et cafés",
+      "Centres commerciaux",
+      "Entrées d’hôtel"
+    ],
+    "ar": [
+      "محلات الزهور",
+      "المطاعم والمقاهي",
+      "مراكز التسوق",
+      "مداخل الفنادق"
+    ]
+  }
 }

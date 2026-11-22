@@ -22,5 +22,76 @@
     "media/products/catili-zeytin-tezgahi-1.webp",
     "media/products/catili-zeytin-tezgahi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/catili-zeytin-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/catili-zeytin-tezgahi/",
+  "details": {
+    "tr": "Çatılı Zeytin Tezgahı, zeytin, meze ve salata çeşitlerini hijyenik ve iştah açıcı şekilde sunmak için tasarlandı. Çatılı ve tekerlekli, ahşap zeytin sunum tezgahı. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir. Çatılı üst yapısı sunuma vitrin etkisi katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Canopied Olive Counter is designed to present olives, meze and salads hygienically and appetisingly. Wooden, mobile olive counter with canopy. Its castors let you move it easily around the store or out to the shopfront. The canopy top gives the display a shopfront feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Überdachte Olivenbar wurde entwickelt, um Oliven, Meze und Salate hygienisch und appetitlich zu präsentieren. Mobile Olivenbar aus Holz mit Überdachung. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen. Die Überdachung verleiht der Auslage Marktstand-Charakter.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Bar à olives avec auvent : une solution conçue pour présenter olives, mezzés et salades de façon hygiénique et appétissante. Bar à olives mobile en bois avec auvent. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine. L’auvent donne à la présentation un effet d’échoppe.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "بار زيتون بمظلة: صُمِّم لعرض الزيتون والمقبلات والسلطات بشكل صحي وفاتح للشهية. بار زيتون خشبي متنقل بمظلة. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه. تضفي المظلة العلوية طابع الكشك على العرض.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Tekerlekli, kolay taşınır",
+      "Çatılı üst yapı",
+      "Ahşap görünüm ve kaplama",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "On castors, easy to move",
+      "Canopy top",
+      "Wood finish",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Auf Rollen, leicht zu verschieben",
+      "Mit Überdachung",
+      "Holzoptik / Holzverkleidung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Sur roulettes, facile à déplacer",
+      "Avec auvent",
+      "Finition bois",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بعجلات وسهل التنقل",
+      "بمظلة علوية",
+      "تشطيب خشبي",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Zeytin dükkanları",
+      "Şarküteriler",
+      "Süpermarketler",
+      "Otel ve açık büfeler"
+    ],
+    "en": [
+      "Olive shops",
+      "Delicatessens",
+      "Supermarkets",
+      "Hotels and buffets"
+    ],
+    "de": [
+      "Olivengeschäfte",
+      "Feinkostläden",
+      "Supermärkte",
+      "Hotels und Buffets"
+    ],
+    "fr": [
+      "Boutiques d’olives",
+      "Épiceries fines",
+      "Supermarchés",
+      "Hôtels et buffets"
+    ],
+    "ar": [
+      "محلات الزيتون",
+      "محلات الأطعمة الفاخرة",
+      "السوبرماركت",
+      "الفنادق والبوفيهات"
+    ]
+  }
 }

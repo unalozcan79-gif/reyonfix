@@ -22,5 +22,66 @@
     "media/products/kasap-ve-sarkuteri-figur-dekoru-1.webp",
     "media/products/kasap-ve-sarkuteri-figur-dekoru-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-kasap-etlik-sarkuteri-kasap-bicakkocinektavuk-figur-dekoru/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-kasap-etlik-sarkuteri-kasap-bicakkocinektavuk-figur-dekoru/",
+  "details": {
+    "tr": "Kasap ve Şarküteri Figür Dekoru, mağazaya kimlik kazandırmak ve reyonları öne çıkarmak için tasarlandı. Bıçak, koç, inek ve tavuk figürleriyle ışıklı dekor.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Butcher & Deli Figure Décor is designed to give the store its identity and make each section stand out. Illuminated décor with knife, ram, cow and chicken figures.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Figurendekoration für Metzgerei & Feinkost wurde entwickelt, um dem Geschäft Identität zu geben und Abteilungen hervorzuheben. Beleuchtete Dekoration mit Messer-, Widder-, Rind- und Huhnfiguren.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Décor à figurines boucherie et traiteur : une solution conçue pour donner une identité au magasin et mettre chaque rayon en valeur. Décor lumineux avec couteau, bélier, vache et poulet.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ديكور مجسمات للحوم والأجبان: صُمِّم لمنح المتجر هوية مميزة وإبراز كل قسم. ديكور مضيء بمجسمات سكين وكبش وبقرة ودجاجة.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Işıklı uygulama",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Illuminated",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Beleuchtet",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Éclairé",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "مضيء",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Kasap ve şarküteriler",
+      "Fırınlar",
+      "Manavlar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Butchers and delis",
+      "Bakeries",
+      "Greengrocers"
+    ],
+    "de": [
+      "Supermärkte",
+      "Metzgereien und Feinkost",
+      "Bäckereien",
+      "Obst- und Gemüseläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Boucheries et traiteurs",
+      "Boulangeries",
+      "Primeurs"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات اللحوم والأجبان",
+      "المخابز",
+      "محلات الخضار والفواكه"
+    ]
+  }
 }

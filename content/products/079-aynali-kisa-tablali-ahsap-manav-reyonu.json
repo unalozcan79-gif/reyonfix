@@ -25,5 +25,81 @@
     "media/products/aynali-kisa-tablali-ahsap-manav-reyonu-2.webp",
     "media/products/aynali-kisa-tablali-ahsap-manav-reyonu-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-tipi-aynali-kisa-tablali-ahsap-manav-reyonu/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-tipi-aynali-kisa-tablali-ahsap-manav-reyonu/",
+  "details": {
+    "tr": "Aynalı Kısa Tablalı Ahşap Manav Reyonu, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Kısa duvarlar için tablalı ve aynalı ahşap reyon. Aynalı arka panel, reyonu daha dolu ve ferah gösterir. Ahşap görünümü mağazaya sıcak ve doğal bir hava katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mirrored Low Wooden Tray Unit is designed to show fruit and vegetables fresh, plentiful and tidy. Mirrored wooden tray unit for low walls. The mirrored back panel makes the display look fuller and brighter. The wood finish gives the store a warm, natural feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Niedriges Holzregal mit Schalen und Spiegel wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Holzregal mit Schalen und Spiegel für niedrige Wände. Die Spiegelrückwand lässt die Auslage voller und heller wirken. Die Holzoptik verleiht dem Geschäft eine warme, natürliche Atmosphäre.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Meuble bas en bois à plateaux avec miroir : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Meuble en bois à plateaux avec miroir pour murs bas. Le fond miroir donne une présentation plus pleine et plus lumineuse. La finition bois apporte une ambiance chaleureuse et naturelle.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "وحدة خشبية منخفضة بصوانٍ ومرآة: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. وحدة خشبية بصوانٍ ومرآة للجدران المنخفضة. اللوح الخلفي المرآتي يُظهر العرض أكثر امتلاءً وإشراقًا. يمنح التشطيب الخشبي المتجر أجواء دافئة وطبيعية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Aynalı arka panel",
+      "Duvar boyunca kullanım",
+      "Tablalı sunum yüzeyleri",
+      "Ahşap görünüm ve kaplama",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Mirrored back panel",
+      "Runs along the wall",
+      "Display trays",
+      "Wood finish",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Spiegelrückwand",
+      "Für die Wandaufstellung",
+      "Präsentationstablare",
+      "Holzoptik / Holzverkleidung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Fond miroir",
+      "Installation le long du mur",
+      "Plateaux de présentation",
+      "Finition bois",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "لوح خلفي مرآتي",
+      "يُركَّب على امتداد الجدار",
+      "صوانٍ للعرض",
+      "تشطيب خشبي",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

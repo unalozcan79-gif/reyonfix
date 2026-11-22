@@ -24,5 +24,71 @@
     "media/products/donen-muz-teshir-standi-1.webp",
     "media/products/donen-muz-teshir-standi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-donen-muz-teshir-standi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-tekerli-donen-muz-teshir-standi/",
+  "details": {
+    "tr": "Dönen Muz Teşhir Standı, satış alanında fark yaratan, dikkat çekici bir sunum için tasarlandı. Muzları her açıdan görünür kılan tekerlekli dönen stand. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir. Dönen yapısı ürünü her açıdan görünür kılar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Rotating Banana Display is designed for an eye-catching display that sets your sales floor apart. Rotating mobile stand showing bananas from every angle. Its castors let you move it easily around the store or out to the shopfront. Its rotating design shows products from every angle.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Drehbarer Bananenständer wurde für eine auffällige Präsentation entwickelt, die Ihre Verkaufsfläche hervorhebt. Drehbarer mobiler Ständer, der Bananen von allen Seiten zeigt. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen. Die Drehfunktion zeigt die Ware von allen Seiten.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Présentoir rotatif à bananes : une solution conçue pour une présentation remarquable qui distingue votre surface de vente. Présentoir mobile rotatif qui montre les bananes sous tous les angles. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine. Sa rotation montre les produits sous tous les angles.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "ستاند دوّار للموز: صُمِّم لعرض لافت يميّز مساحة البيع لديك. ستاند متنقل دوّار يعرض الموز من كل الجهات. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه. تصميمه الدوّار يُظهر المنتجات من كل الجهات.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Tekerlekli, kolay taşınır",
+      "Dönen sunum",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "On castors, easy to move",
+      "Rotating display",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Auf Rollen, leicht zu verschieben",
+      "Drehbare Präsentation",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Sur roulettes, facile à déplacer",
+      "Présentation rotative",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بعجلات وسهل التنقل",
+      "عرض دوّار",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Süpermarketler",
+      "Manavlar",
+      "Şarküteriler",
+      "Konsept mağazalar"
+    ],
+    "en": [
+      "Supermarkets",
+      "Greengrocers",
+      "Delicatessens",
+      "Concept stores"
+    ],
+    "de": [
+      "Supermärkte",
+      "Obst- und Gemüseläden",
+      "Feinkostläden",
+      "Konzeptläden"
+    ],
+    "fr": [
+      "Supermarchés",
+      "Primeurs",
+      "Épiceries fines",
+      "Concept stores"
+    ],
+    "ar": [
+      "السوبرماركت",
+      "محلات الخضار والفواكه",
+      "محلات الأطعمة الفاخرة",
+      "المتاجر المفاهيمية"
+    ]
+  }
 }

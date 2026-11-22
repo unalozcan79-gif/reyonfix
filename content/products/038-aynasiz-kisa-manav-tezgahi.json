@@ -24,5 +24,76 @@
     "media/products/aynasiz-kisa-manav-tezgahi-1.webp",
     "media/products/aynasiz-kisa-manav-tezgahi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-aynasiz-kisa-manav-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynasiz-kisa-manav-tezgahi/",
+  "details": {
+    "tr": "Aynasız Kısa Manav Tezgahı, meyve ve sebzeyi taze, bol ve düzenli göstermek için tasarlandı. Ahşap kaplamalı, kısa ve kullanışlı duvar tezgahı. Ahşap görünümü mağazaya sıcak ve doğal bir hava katar.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Low Produce Counter without Mirror is designed to show fruit and vegetables fresh, plentiful and tidy. Compact wood-clad wall counter. The wood finish gives the store a warm, natural feel.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Niedrige Gemüsetheke ohne Spiegel wurde entwickelt, um Obst und Gemüse frisch, üppig und ordentlich zu präsentieren. Kompakte, holzverkleidete Wandtheke. Die Holzoptik verleiht dem Geschäft eine warme, natürliche Atmosphäre.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir bas sans miroir : une solution conçue pour présenter fruits et légumes de façon fraîche, abondante et ordonnée. Comptoir mural compact habillé de bois. La finition bois apporte une ambiance chaleureuse et naturelle.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة خضار منخفضة بدون مرآة: صُمِّم لعرض الخضار والفواكه بشكل طازج ووفير ومرتب. طاولة جدارية مدمجة مكسوة بالخشب. يمنح التشطيب الخشبي المتجر أجواء دافئة وطبيعية.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Aynasız, sade gövde",
+      "Duvar boyunca kullanım",
+      "Ahşap görünüm ve kaplama",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Clean design without mirror",
+      "Runs along the wall",
+      "Wood finish",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Schlichte Ausführung ohne Spiegel",
+      "Für die Wandaufstellung",
+      "Holzoptik / Holzverkleidung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Design épuré sans miroir",
+      "Installation le long du mur",
+      "Finition bois",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "تصميم بسيط بدون مرآة",
+      "يُركَّب على امتداد الجدار",
+      "تشطيب خشبي",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Manavlar",
+      "Süpermarketler",
+      "Marketlerin meyve-sebze bölümleri",
+      "Organik ürün mağazaları"
+    ],
+    "en": [
+      "Greengrocers",
+      "Supermarkets",
+      "Produce sections",
+      "Organic food stores"
+    ],
+    "de": [
+      "Obst- und Gemüseläden",
+      "Supermärkte",
+      "Obst- und Gemüseabteilungen",
+      "Bioläden"
+    ],
+    "fr": [
+      "Primeurs",
+      "Supermarchés",
+      "Rayons fruits et légumes",
+      "Magasins bio"
+    ],
+    "ar": [
+      "محلات الخضار والفواكه",
+      "السوبرماركت",
+      "أقسام الخضار والفواكه",
+      "متاجر المنتجات العضوية"
+    ]
+  }
 }

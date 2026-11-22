@@ -22,5 +22,71 @@
     "media/products/aynali-sarkuteri-duvar-rafi-1.webp",
     "media/products/aynali-sarkuteri-duvar-rafi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-sarkuteri-duvar-rafi/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-aynali-sarkuteri-duvar-rafi/",
+  "details": {
+    "tr": "Aynalı Şarküteri Duvar Rafı, gurme ve şarküteri ürünlerini düzenli ve satışı artıracak şekilde sergilemek için tasarlandı. Duvar boyunca şarküteri sunumu için raf sistemi. Aynalı arka panel, reyonu daha dolu ve ferah gösterir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mirrored Deli Wall Rack is designed to display gourmet and deli products neatly and to boost sales. Shelving system for deli display along walls. The mirrored back panel makes the display look fuller and brighter.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Feinkost-Wandregalsystem mit Spiegel wurde entwickelt, um Feinkost ordentlich und verkaufsfördernd zu präsentieren. Regalsystem für die Feinkostpräsentation entlang der Wand. Die Spiegelrückwand lässt die Auslage voller und heller wirken.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Rayonnage mural à miroir pour traiteur : une solution conçue pour présenter les produits fins de façon ordonnée et vendeuse. Système d’étagères pour présenter le traiteur le long des murs. Le fond miroir donne une présentation plus pleine et plus lumineuse.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "رف جداري بمرآة للأطعمة الباردة: صُمِّم لعرض المنتجات الفاخرة والأطعمة الباردة بشكل منظم يزيد المبيعات. نظام رفوف لعرض الأطعمة الباردة على طول الجدار. اللوح الخلفي المرآتي يُظهر العرض أكثر امتلاءً وإشراقًا.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Aynalı arka panel",
+      "Duvar boyunca kullanım",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Mirrored back panel",
+      "Runs along the wall",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Spiegelrückwand",
+      "Für die Wandaufstellung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Fond miroir",
+      "Installation le long du mur",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "لوح خلفي مرآتي",
+      "يُركَّب على امتداد الجدار",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Şarküteriler",
+      "Gurme dükkanları",
+      "Süpermarketler",
+      "Köy ürünleri mağazaları"
+    ],
+    "en": [
+      "Delicatessens",
+      "Gourmet shops",
+      "Supermarkets",
+      "Farm produce shops"
+    ],
+    "de": [
+      "Feinkostläden",
+      "Gourmetläden",
+      "Supermärkte",
+      "Hofläden"
+    ],
+    "fr": [
+      "Épiceries fines",
+      "Boutiques gourmet",
+      "Supermarchés",
+      "Boutiques de produits fermiers"
+    ],
+    "ar": [
+      "محلات الأطعمة الفاخرة",
+      "متاجر الذواقة",
+      "السوبرماركت",
+      "متاجر منتجات المزارع"
+    ]
+  }
 }

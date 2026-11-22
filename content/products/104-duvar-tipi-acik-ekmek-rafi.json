@@ -25,5 +25,66 @@
     "media/products/duvar-tipi-acik-ekmek-rafi-2.webp",
     "media/products/duvar-tipi-acik-ekmek-rafi-4.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-tipi-unlu-mamul-rafi-acik-ekmek-raflari/"
+  "old_url": "https://manavreyonu.com.tr/urun/market-duvar-tipi-unlu-mamul-rafi-acik-ekmek-raflari/",
+  "details": {
+    "tr": "Duvar Tipi Açık Ekmek Rafı, ekmek ve unlu mamulleri taze, temiz ve göz önünde tutmak için tasarlandı. Ekmek, simit ve pastalar için açık raf sistemi.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Wall Open Bread Shelving is designed to keep bread and baked goods fresh, clean and in view. Open shelving for bread, simit and pastries.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Offenes Wand-Brotregal wurde entwickelt, um Brot und Backwaren frisch, sauber und sichtbar zu halten. Offenes Regal für Brot, Simit und Gebäck.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Étagère murale ouverte pour le pain : une solution conçue pour garder le pain et les viennoiseries frais, propres et bien visibles. Étagère ouverte pour pains, simits et viennoiseries.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "رف خبز جداري مفتوح: صُمِّم للحفاظ على الخبز والمخبوزات طازجة ونظيفة وظاهرة للزبائن. رف مفتوح للخبز والسميت والمعجنات.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Duvar boyunca kullanım",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "Runs along the wall",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Für die Wandaufstellung",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Installation le long du mur",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "يُركَّب على امتداد الجدار",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Fırınlar",
+      "Marketlerin ekmek reyonları",
+      "Pastaneler",
+      "Unlu mamul dükkanları"
+    ],
+    "en": [
+      "Bakeries",
+      "Supermarket bread sections",
+      "Patisseries",
+      "Bakery shops"
+    ],
+    "de": [
+      "Bäckereien",
+      "Brotabteilungen in Supermärkten",
+      "Konditoreien",
+      "Backshops"
+    ],
+    "fr": [
+      "Boulangeries",
+      "Rayons pain des supermarchés",
+      "Pâtisseries",
+      "Points chauds"
+    ],
+    "ar": [
+      "المخابز",
+      "أقسام الخبز في السوبرماركت",
+      "محلات الحلويات",
+      "محلات المعجنات"
+    ]
+  }
 }

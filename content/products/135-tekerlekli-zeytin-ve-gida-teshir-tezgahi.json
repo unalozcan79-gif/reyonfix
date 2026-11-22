@@ -24,5 +24,76 @@
     "media/products/tekerlekli-zeytin-ve-gida-teshir-tezgahi-1.webp",
     "media/products/tekerlekli-zeytin-ve-gida-teshir-tezgahi-3.webp"
   ],
-  "old_url": "https://manavreyonu.com.tr/urun/oteller-ve-sarkuteriler-icin-profesyonel-tekerlekli-zeytin-ve-gida-teshir-tezgahi/"
+  "old_url": "https://manavreyonu.com.tr/urun/oteller-ve-sarkuteriler-icin-profesyonel-tekerlekli-zeytin-ve-gida-teshir-tezgahi/",
+  "details": {
+    "tr": "Tekerlekli Zeytin ve Gıda Teşhir Tezgahı, zeytin, meze ve salata çeşitlerini hijyenik ve iştah açıcı şekilde sunmak için tasarlandı. Otel ve şarküteriler için şık, hijyenik ve esnek sunum. Tekerlekleri sayesinde mağaza içinde ya da dükkân önünde kolayca yer değiştirir. Paslanmaz çelik detaylar hijyenik ve kolay temizlenir.\n\nÜrün, mağazanızın ölçüsüne, rengine ve konseptine göre İstanbul’daki fabrikamızda üretilir; teslimat ve montajı kendi ekibimiz yapar. Teklif için ürün kodunu, ölçülerinizi ve varsa mağaza fotoğraflarınızı WhatsApp’tan gönderebilirsiniz.",
+    "en": "Mobile Olive & Food Display Counter is designed to present olives, meze and salads hygienically and appetisingly. Stylish, hygienic, flexible display for hotels and delis. Its castors let you move it easily around the store or out to the shopfront. Stainless steel details are hygienic and easy to clean.\n\nIt is built in our Istanbul factory to your store’s dimensions, colours and concept, and delivered and installed by our own team. For a quote, send us the product code, your measurements and any store photos via WhatsApp.",
+    "de": "Mobile Oliven- & Lebensmitteltheke wurde entwickelt, um Oliven, Meze und Salate hygienisch und appetitlich zu präsentieren. Stilvolle, hygienische, flexible Präsentation für Hotels und Feinkost. Dank der Rollen lässt sie sich im Laden oder vor dem Geschäft leicht versetzen. Edelstahl-Elemente sind hygienisch und leicht zu reinigen.\n\nGefertigt in unserer Fabrik in Istanbul nach Maß, Farbe und Konzept Ihres Geschäfts; Lieferung und Montage übernimmt unser eigenes Team. Für ein Angebot senden Sie uns Produktcode, Maße und gern Fotos Ihres Geschäfts per WhatsApp.",
+    "fr": "Comptoir mobile olives et produits alimentaires : une solution conçue pour présenter olives, mezzés et salades de façon hygiénique et appétissante. Présentoir élégant, hygiénique et flexible pour hôtels et épiceries fines. Grâce à ses roulettes, il se déplace facilement dans le magasin ou devant la vitrine. Les éléments en inox sont hygiéniques et faciles à nettoyer.\n\nIl est fabriqué dans notre usine d’Istanbul selon les dimensions, couleurs et concept de votre magasin, puis livré et installé par notre équipe. Pour un devis, envoyez-nous le code produit, vos dimensions et des photos du magasin via WhatsApp.",
+    "ar": "طاولة متنقلة لعرض الزيتون والأطعمة: صُمِّم لعرض الزيتون والمقبلات والسلطات بشكل صحي وفاتح للشهية. عرض أنيق وصحي ومرن للفنادق ومحلات الأطعمة الفاخرة. بفضل عجلاته يمكن نقله بسهولة داخل المتجر أو أمامه. تفاصيل الستانلس ستيل صحية وسهلة التنظيف.\n\nيُصنع في مصنعنا في إسطنبول حسب مقاسات متجرك وألوانه وتصميمه، ويتولى فريقنا التسليم والتركيب. للحصول على عرض سعر، أرسل لنا رمز المنتج والمقاسات وصور المتجر إن وُجدت عبر واتساب."
+  },
+  "features": {
+    "tr": [
+      "Tekerlekli, kolay taşınır",
+      "Paslanmaz çelik detaylar",
+      "15 ayrı ürün haznesi",
+      "Ölçü, renk ve malzeme projeye göre belirlenir"
+    ],
+    "en": [
+      "On castors, easy to move",
+      "Stainless steel details",
+      "15 separate product wells",
+      "Size, colour and materials tailored to your project"
+    ],
+    "de": [
+      "Auf Rollen, leicht zu verschieben",
+      "Edelstahl-Elemente",
+      "15 getrennte Behälter",
+      "Maße, Farbe und Material nach Projekt"
+    ],
+    "fr": [
+      "Sur roulettes, facile à déplacer",
+      "Éléments en inox",
+      "15 bacs séparés",
+      "Dimensions, couleurs et matériaux selon votre projet"
+    ],
+    "ar": [
+      "بعجلات وسهل التنقل",
+      "تفاصيل من الستانلس ستيل",
+      "15 حجيرات منفصلة",
+      "المقاس واللون والخامات حسب مشروعك"
+    ]
+  },
+  "uses": {
+    "tr": [
+      "Zeytin dükkanları",
+      "Şarküteriler",
+      "Süpermarketler",
+      "Otel ve açık büfeler"
+    ],
+    "en": [
+      "Olive shops",
+      "Delicatessens",
+      "Supermarkets",
+      "Hotels and buffets"
+    ],
+    "de": [
+      "Olivengeschäfte",
+      "Feinkostläden",
+      "Supermärkte",
+      "Hotels und Buffets"
+    ],
+    "fr": [
+      "Boutiques d’olives",
+      "Épiceries fines",
+      "Supermarchés",
+      "Hôtels et buffets"
+    ],
+    "ar": [
+      "محلات الزيتون",
+      "محلات الأطعمة الفاخرة",
+      "السوبرماركت",
+      "الفنادق والبوفيهات"
+    ]
+  }
 }
