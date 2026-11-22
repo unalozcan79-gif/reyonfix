@@ -5,7 +5,7 @@ from PIL import Image, ImageOps
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = f'{ROOT}/.imgcache'
-SIZES = [(1400, 74), (700, 74)]
+SIZES = [(1400, 74), (700, 74), (360, 72)]
 
 def _stem(src):
     rel = os.path.relpath(src, ROOT)
@@ -34,7 +34,7 @@ def _job(src):
                 W2 = min(W, w)
                 im2 = im if W2 == w else im.resize((W2, round(h * W2 / w)), Image.LANCZOS)
                 im2.save(dst, 'WEBP', quality=q, method=4)
-        return src, {'files': {'700': out[700], '1400': out[1400]}, 'ratio': h / w}
+        return src, {'files': {'360': out[360], '700': out[700], '1400': out[1400]}, 'ratio': h / w}
     except Exception as e:
         print('görsel atlandı:', src, e)
         return src, None

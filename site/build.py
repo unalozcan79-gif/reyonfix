@@ -41,12 +41,12 @@ def images(p):
     for s in p['srcs']:
         m = IMGMAP.get(s)
         if m:
-            sm = m['files']['700']; lg = m['files']['1400']
-            USED.update((sm, lg))
+            sm = m['files']['700']; lg = m['files']['1400']; th = m['files'].get('360', sm)
+            USED.update((sm, lg, th))
             if PREVIEW:
                 short = SHORT.setdefault(sm, f'{len(SHORT)}.webp')
                 sm = lg = short
-            out.append(dict(s=sm, l=lg, r=m['ratio'], big=m['files']['1400'], src=s))
+            out.append(dict(s=sm, l=lg, t=(sm if PREVIEW else th), r=m['ratio'], big=m['files']['1400'], src=s))
     return out
 for p in prods:
     p['imgs'] = images(p)
@@ -359,17 +359,17 @@ ORG = {"@type": ["Organization", "LocalBusiness"], "@id": BASE + "/#org", "name"
                          "availableLanguage": ["tr", "en", "de", "fr", "ar"]}],
        "sameAs": ["https://manavreyonu.com.tr/"]}
 
-def favimg(c):
+def favimg(c, small=False):
     if c['image'] and c['image'] in IMGMAP:
         im = images(dict(srcs=[c['image']]))[0]
     else:
         im = BYID[c['cover']]['imgs'][0]
-    return '/img/' + im['s']
+    return '/img/' + (im['t'] if small else im['s'])
 
 _NAV = {}
 def navicons(L):
     if L not in _NAV:
-        _NAV[L] = [dict(key=c['key'], name=c['names'][L], path=path_cat(L, c), img=favimg(c),
+        _NAV[L] = [dict(key=c['key'], name=c['names'][L], path=path_cat(L, c), img=favimg(c, True),
                         count=sum(1 for p in in_lang(L) if p['key'] == c['key']))
                    for c in cats if any(p['key'] == c['key'] for p in in_lang(L))]
     return _NAV[L]
@@ -432,7 +432,7 @@ def build():
                "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in t['faq']]}]
         ctx = page_ctx(L, cur, alts, f"Reyonfix · {t['tagline']}", t['meta_home'], ogimg=BASE + '/img/' + hero['l'], jsonld=jl)
         ctx.update(catimg=dict(s='/img/' + pick(54)['imgs'][0]['s'], r=pick(54)['imgs'][0]['r']), catalog_url=CATALOG_URL[L])
-        icons = [dict(name=c['names'][L], path=path_cat(L, c), img=favimg(c), cut=False) for c in lcats]
+        icons = [dict(name=c['names'][L], path=path_cat(L, c), img=favimg(c, True), cut=False) for c in lcats]
         ccards = []
         for c in lcats:
             ccards.append(dict(name=c['names'][L], desc=c['descs'][L], path=path_cat(L, c), img=favimg(c),
