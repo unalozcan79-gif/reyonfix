@@ -203,7 +203,7 @@ TPL['home'] = r'''{% extends "base" %}{% block main %}
 
 <div class="wrap"><a class="st-banner" href="{{ catalog_url }}" target="_blank" rel="noopener">
 <div><span class="eb">PDF</span><h3>{{ t.catalog_h }}</h3><p>{{ t.catalog_p }}</p><span class="lnk">{{ t.btn_catalog }} ↗</span></div>
-<img src="{{ r(catimg.s) }}" alt="{{ t.catalog_h }}" loading="lazy"></a></div>
+<div class="st-bk" aria-hidden="true"><img class="p3" src="{{ r('/katalog/' ~ L ~ '-3.webp') }}" alt="" loading="lazy" width="819" height="579"><img class="p2" src="{{ r('/katalog/' ~ L ~ '-2.webp') }}" alt="" loading="lazy" width="819" height="579"><img class="p1" src="{{ r('/katalog/' ~ L ~ '-1.webp') }}" alt="" loading="lazy" width="819" height="579"><img class="p0" src="{{ r('/katalog/' ~ L ~ '-0.webp') }}" alt="{{ t.catalog_h }}" loading="lazy" width="819" height="579"></div></a></div>
 
 <section class="st-sec">
 <h2 class="wrap st-h2"><em>{{ x.only_a }}</em> {{ x.only_b }}</h2>
