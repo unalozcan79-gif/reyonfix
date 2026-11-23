@@ -104,6 +104,7 @@ SOCIAL_SVG = {
  'LinkedIn': '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9.5h4V21H3zm6.5 0h3.8v1.6h.1c.5-1 1.8-2 3.8-2 4 0 4.8 2.6 4.8 6V21h-4v-5.1c0-1.2 0-2.8-1.7-2.8s-2 1.3-2 2.7V21h-4z"/></svg>',
  'WhatsApp': CHAT,
 }
+SOCIAL_SVG = {k: v.replace('<svg viewBox="0 0 24 24"', '<svg width="18" height="18" viewBox="0 0 24 24"', 1) for k, v in SOCIAL_SVG.items()}
 TPL = {}
 TPL['base'] = r'''<!doctype html>
 <html lang="{{ L }}" dir="{{ 'rtl' if L=='ar' else 'ltr' }}">
@@ -125,7 +126,7 @@ TPL['base'] = r'''<!doctype html>
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#ffffff">
 <link rel="icon" href="{{ r('/favicon.svg') }}" type="image/svg+xml">
-<link rel="stylesheet" href="{{ r('/static/style.css') }}">
+<link rel="stylesheet" href="{{ r('/static/style.css') }}?v={{ css_v }}">
 {% if L=='ar' %}<link rel="preload" href="{{ r('/static/fonts/cairo-ar.woff2') }}" as="font" type="font/woff2" crossorigin>{% endif %}
 {% for j in jsonld %}<script type="application/ld+json">{{ j|safe }}</script>
 {% endfor %}</head>
@@ -153,7 +154,7 @@ TPL['base'] = r'''<!doctype html>
 <div><h2>{{ t.nav_products }}</h2><ul>{% for c in fcats %}<li><a href="{{ r(c.path) }}">{{ c.name }}</a></li>{% endfor %}</ul></div>
 <div><h2>Reyonfix</h2><ul><li><a href="{{ r(p_products) }}">{{ t.all_products }}</a></li><li><a href="{{ r(p_about) }}">{{ t.nav_about }}</a></li><li><a href="{{ r(p_catalog) }}">{{ t.nav_catalog }}</a></li><li><a href="{{ r(p_contact) }}">{{ t.nav_contact }}</a></li></ul></div>
 <div><h2>{{ t.nav_contact }}</h2><ul><li>{{ c.street }}, {{ c.postal }} {{ c.city }} / {{ c.region }}</li><li><a class="ltr" href="tel:{{ c.phone1|replace(' ','') }}">{{ c.phone1 }}</a></li><li><a class="ltr" href="{{ wa_general }}" target="_blank" rel="noopener">{{ c.mobile }}</a></li><li><a href="mailto:{{ c.email }}">{{ c.email }}</a></li></ul>
-<div class="social">{% for n, u in c.social %}<a href="{{ u }}" target="_blank" rel="noopener me" aria-label="{{ n }}" title="{{ n }}">{{ social_svg[n]|safe }}</a>{% endfor %}<a href="{{ wa_general }}" target="_blank" rel="noopener" aria-label="WhatsApp" title="WhatsApp">{{ social_svg['WhatsApp']|safe }}</a></div></div>
+<div class="social">{% for n, u in c.social %}<a class="s-{{ n|lower }}" href="{{ u }}" target="_blank" rel="noopener me" aria-label="{{ n }}" title="{{ n }}">{{ social_svg[n]|safe }}</a>{% endfor %}<a class="s-whatsapp" href="{{ wa_general }}" target="_blank" rel="noopener" aria-label="WhatsApp" title="WhatsApp">{{ social_svg['WhatsApp']|safe }}</a></div></div>
 </div>
 <div class="bottom"><span>© 2026 Reyonfix · Huzur Pano. {{ t.rights }}</span><span class="langs">{% for l2, href in langlinks %}<a href="{{ href }}" hreflang="{{ l2 }}" lang="{{ l2 }}">{{ langnames[l2] }}</a>{% endfor %}</span></div>
 </div></footer>
@@ -361,6 +362,9 @@ for k in ['contact', '404']:
     TPL[k] = TPL[k].replace('{% extends "base" %}', '{% extends "base" %}{% from "ctabox" import ctabox with context %}', 1)
 
 env = Environment(loader=DictLoader(TPL), autoescape=select_autoescape(['html']), trim_blocks=True, lstrip_blocks=True)
+import hashlib
+CSS_V = hashlib.md5(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'style.css'), 'rb').read()).hexdigest()[:8]
+env.globals['css_v'] = CSS_V
 
 def wa(text):
     return f"https://wa.me/{CONTACT['wa']}?text={quote(text)}"
@@ -589,7 +593,7 @@ def write_root(sitemap):
     robots = '<meta name="robots" content="noindex,nofollow">' if NOINDEX else ''
     open(DIST + '/index.html', 'w').write(f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Reyonfix · Market & store fixtures · Since 1994</title><meta name="description" content="Reyonfix (Huzur Pano, Istanbul): made-to-measure produce displays, olive bars, bakery cabinets, market shelving and store fixtures since 1994.">{robots}
-<link rel="canonical" href="{BASE}/">{alts}<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="static/style.css">{js}</head>
+<link rel="canonical" href="{BASE}/">{alts}<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="static/style.css?v={CSS_V}">{js}</head>
 <body><main class="chooser"><div><a class="logo" href="./">{LOGO}<span>Reyon<b>fix</b></span></a>
 <p class="lead" style="margin:18px auto 0">Market &amp; store fixtures · Since 1994</p>
 <div class="list">{links}</div></div></main></body></html>''')

@@ -443,11 +443,18 @@ a.st-card:hover{text-decoration:none;transform:scale(1.015);box-shadow:2px 4px 1
 .pd-uses li::before{content:"✓";position:absolute;inset-inline-start:0;color:var(--acc-t);font-weight:700}
 @media (max-width:900px){.pd-more{grid-template-columns:1fr}}
 /* sosyal medya */
-.social{display:flex;gap:10px;margin-top:16px}
-.social a{width:36px;height:36px;border-radius:50%;background:#e8e8ed;color:#1d1d1f;display:grid;place-items:center;transition:background .2s,color .2s}
-.social a:hover{background:var(--acc);color:#fff;text-decoration:none}
-.social svg{width:18px;height:18px;fill:currentColor}
-.social a:first-child svg{fill:none}
+.social{display:flex;flex-wrap:wrap;gap:5px;margin-top:18px}
+.social a{width:33px;height:33px;flex:0 0 33px;border-radius:9px;background:#fff;border:1px solid var(--line);color:var(--ink);display:inline-flex;align-items:center;justify-content:center;transition:background .2s,border-color .2s,color .2s,transform .2s,box-shadow .2s}
+.social a:hover,.social a:focus-visible{color:#fff;border-color:transparent;transform:translateY(-2px);box-shadow:0 6px 16px rgba(0,0,0,.12);text-decoration:none}
+.social a:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.social svg{width:16px;height:16px;max-width:16px;max-height:16px;display:block}
+.social a.s-instagram:hover,.social a.s-instagram:focus-visible{background:radial-gradient(circle at 30% 107%,#fdf497 0%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+.social a.s-facebook:hover,.social a.s-facebook:focus-visible{background:#1877f2}
+.social a.s-youtube:hover,.social a.s-youtube:focus-visible{background:#ff0000}
+.social a.s-linkedin:hover,.social a.s-linkedin:focus-visible{background:#0a66c2}
+.social a.s-x:hover,.social a.s-x:focus-visible{background:#000}
+.social a.s-whatsapp:hover,.social a.s-whatsapp:focus-visible{background:#25d366}
+.social svg path:not([fill]){fill:currentColor}
 /* katalog sayfası */
 .kat{display:grid;grid-template-columns:1.2fr 1fr;gap:clamp(28px,4vw,64px);align-items:center;padding-top:12px}
 .kat-cover img{width:100%;border-radius:18px;box-shadow:0 20px 50px rgba(0,0,0,.18);transition:transform .4s}
