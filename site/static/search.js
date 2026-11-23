@@ -80,33 +80,26 @@
     q.setAttribute('aria-activedescendant', 'srch-o' + sel);
   }
 
-  function open() {
-    if (!box.hidden) return;
-    lastFocus = document.activeElement;
-    box.hidden = false;
-    document.documentElement.classList.add('srch-lock');
-    var nav = document.getElementById('nav'); if (nav) nav.classList.remove('open');
-    setTimeout(function () { q.focus(); q.select(); }, 20);
-    load();
-  }
-  function close() {
-    if (box.hidden) return;
-    box.hidden = true;
-    document.documentElement.classList.remove('srch-lock');
-    if (lastFocus && lastFocus.focus) lastFocus.focus();
-  }
+  var pop = box.querySelector('.srch-pop'), x = box.querySelector('.srch-x');
+  function show() { pop.hidden = false; q.setAttribute('aria-expanded', 'true'); load(); }
+  function hide() { pop.hidden = true; q.setAttribute('aria-expanded', 'false'); sel = -1; }
+  function sync() { var v = q.value.length > 0; x.hidden = !v; box.classList.toggle('has', v); }
 
-  document.addEventListener('click', function (e) {
-    if (e.target.closest('[data-srch-open]')) { e.preventDefault(); open(); }
-    else if (e.target.closest('[data-srch-close]')) { close(); }
+  q.addEventListener('focus', show);
+  q.addEventListener('input', function () {
+    sync(); show(); clearTimeout(timer); timer = setTimeout(render, 60);
   });
+  x.addEventListener('click', function (e) { e.preventDefault(); q.value = ''; sync(); render(); q.focus(); });
+  document.addEventListener('mousedown', function (e) { if (!box.contains(e.target)) hide(); });
+  document.addEventListener('focusin', function (e) { if (!box.contains(e.target)) hide(); });
+
   document.addEventListener('keydown', function (e) {
     var k = e.key;
-    if ((k === 'k' || k === 'K') && (e.ctrlKey || e.metaKey)) { e.preventDefault(); box.hidden ? open() : close(); return; }
-    if (k === '/' && box.hidden && !/input|textarea|select/i.test((e.target.tagName || '')) && !e.target.isContentEditable) { e.preventDefault(); open(); return; }
-    if (box.hidden) return;
-    if (k === 'Escape') { e.preventDefault(); close(); }
-    else if (k === 'ArrowDown') { e.preventDefault(); mark(sel + 1); }
+    if ((k === 'k' || k === 'K') && (e.ctrlKey || e.metaKey)) { e.preventDefault(); q.focus(); q.select(); return; }
+    if (k === '/' && document.activeElement !== q && !/input|textarea|select/i.test(e.target.tagName || '') && !e.target.isContentEditable) { e.preventDefault(); q.focus(); return; }
+    if (document.activeElement !== q && !box.contains(document.activeElement)) return;
+    if (k === 'Escape') { e.preventDefault(); if (!pop.hidden) hide(); else q.blur(); }
+    else if (k === 'ArrowDown') { e.preventDefault(); show(); mark(sel + 1); }
     else if (k === 'ArrowUp') { e.preventDefault(); mark(sel - 1); }
     else if (k === 'Enter' && e.target === q) {
       var a = items[sel >= 0 ? sel : 0];
@@ -114,5 +107,5 @@
     }
   });
   var timer;
-  q.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(render, 60); });
+  if (q.value) { sync(); }
 })();

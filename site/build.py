@@ -150,15 +150,13 @@ TPL['base'] = r'''<!doctype html>
 <li><a href="{{ r(p_catalog) }}"{% if active=='catalog' %} aria-current="page"{% endif %}>{{ t.nav_catalog }}</a></li>
 <li><a href="{{ r(p_contact) }}"{% if active=='contact' %} aria-current="page"{% endif %}>{{ t.nav_contact }}</a></li>
 </ul></nav>
-<button type="button" class="srch-btn" data-srch-open aria-label="{{ st.open }}" title="{{ st.open }} (Ctrl+K)" aria-haspopup="dialog">{{ srch_ico|safe }}<span>{{ st.open }}</span></button>
+<div class="srch" id="srch" role="search" data-idx="{{ r('/' ~ L ~ '/search.json') }}?v={{ idx_v }}" data-root="{{ r('/') }}" data-none="{{ st.none }}" data-n="{{ st.n }}">
+<label class="srch-f">{{ srch_ico|safe }}<span class="sr">{{ st.open }}</span><input id="srch-q" type="search" placeholder="{{ st.open }}…" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="srch-res" aria-autocomplete="list" enterkeyhint="search"><kbd>Ctrl K</kbd><button type="button" class="srch-x" aria-label="{{ st.close }}" hidden>✕</button></label>
+<div class="srch-pop" hidden><div class="srch-hint">{{ st.hint }}</div><ul class="srch-res" id="srch-res" role="listbox"></ul></div></div>
 <details class="langsel"><summary aria-label="{{ t.lang_l }}"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9.2"/><path d="M2.8 12h18.4M12 2.8c2.6 2.6 3.9 5.6 3.9 9.2s-1.3 6.6-3.9 9.2M12 2.8C9.4 5.4 8.1 8.4 8.1 12s1.3 6.6 3.9 9.2"/></svg>{{ L|upper }}</summary>
 <div class="menu">{% for l2, href in langlinks %}<a href="{{ href }}" hreflang="{{ l2 }}" lang="{{ l2 }}"{% if l2==L %} aria-current="true"{% endif %}>{{ langnames[l2] }}</a>{% endfor %}</div></details>
 <a class="btn btn-p btn-sm" href="{{ wa_general }}" target="_blank" rel="noopener">{{ t.nav_quote }}</a>
 </div></header>
-<div class="srch" id="srch" role="dialog" aria-modal="true" aria-label="{{ st.open }}" hidden data-idx="{{ r('/' ~ L ~ '/search.json') }}?v={{ idx_v }}" data-root="{{ r('/') }}" data-none="{{ st.none }}" data-n="{{ st.n }}">
-<div class="srch-bg" data-srch-close></div>
-<div class="srch-box"><div class="srch-f">{{ srch_ico|safe }}<input id="srch-q" type="search" placeholder="{{ st.ph }}" autocomplete="off" spellcheck="false" aria-controls="srch-res" enterkeyhint="search"><button type="button" class="srch-x" data-srch-close aria-label="{{ st.close }}">Esc</button></div>
-<div class="srch-hint">{{ st.hint }}</div><ul class="srch-res" id="srch-res" role="listbox"></ul></div></div>
 <main id="main">
 {% block main %}{% endblock %}
 </main>
