@@ -474,3 +474,10 @@ a.st-card:hover{text-decoration:none;transform:scale(1.015);box-shadow:2px 4px 1
 .st-icons a.go b{color:var(--acc-t)}
 .st-icons a.go .ic{opacity:.6}
 #modeller{scroll-margin-top:84px}
+/* geniş ekranlar: kart satırları ortalı, ekran büyüdükçe içerik genişler */
+@media (min-width:1600px){:root{--max:1400px}}
+@media (min-width:2200px){:root{--max:1640px}}
+@media (min-width:1240px){
+  .st{--edge:var(--pad)}
+  .st-row,.st-icons{max-width:var(--max);margin-inline:auto;-webkit-mask-image:linear-gradient(to right,transparent 0,#000 var(--pad),#000 calc(100% - var(--pad)),transparent 100%);mask-image:linear-gradient(to right,transparent 0,#000 var(--pad),#000 calc(100% - var(--pad)),transparent 100%)}
+}
