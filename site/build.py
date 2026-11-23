@@ -96,6 +96,15 @@ def absu(path): return BASE + path
 LOGO = '<svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#ee6510"/><path d="M8.5 10.5h15M8.5 16h15M8.5 21.5h15" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/><path d="M8.5 7.5v17M23.5 7.5v17" stroke="#fff" stroke-width="2.2" stroke-linecap="round" opacity=".55"/></svg>'
 CHAT = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.2a9.8 9.8 0 0 0-8.5 14.7L2.2 21.8l5-1.3A9.8 9.8 0 1 0 12 2.2zm0 1.8a8 8 0 1 1-4.2 14.8l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 0 1 12 4zm-3.1 4.2c-.2 0-.5 0-.7.3-.3.3-.9.9-.9 2.2s1 2.6 1.1 2.7c.1.2 1.9 3 4.7 4.1 2.3.9 2.8.7 3.3.7s1.6-.7 1.8-1.3.2-1.2.2-1.3-.2-.2-.5-.3l-1.7-.8c-.3-.1-.4-.2-.6.1l-.8 1c-.2.2-.3.2-.6.1a6.6 6.6 0 0 1-3.3-2.9c-.2-.4.3-.4.7-1.2.1-.2 0-.3 0-.5l-.8-1.9c-.2-.5-.4-.4-.6-.4z"/></svg>'
 
+SEARCH_T = {
+ 'tr': dict(open='Ürün ara', ph='Ürün adı, model kodu veya kategori…', none='Sonuç bulunamadı. Farklı bir kelime deneyin ya da bize yazın.', hint='Örnek: zeytin, ayna, OG-2', close='Kapat', n='sonuç'),
+ 'en': dict(open='Search products', ph='Product name, model code or category…', none='No results. Try another word or message us.', hint='e.g. olive, mirror, OG-2', close='Close', n='results'),
+ 'de': dict(open='Produkte suchen', ph='Produktname, Modellnummer oder Kategorie…', none='Keine Treffer. Versuchen Sie ein anderes Wort oder schreiben Sie uns.', hint='z. B. Oliven, Spiegel, OG-2', close='Schließen', n='Treffer'),
+ 'fr': dict(open='Rechercher un produit', ph='Nom du produit, référence ou catégorie…', none='Aucun résultat. Essayez un autre mot ou écrivez-nous.', hint='ex. olive, miroir, OG-2', close='Fermer', n='résultats'),
+ 'ar': dict(open='ابحث عن منتج', ph='اسم المنتج أو رقم الطراز أو الفئة…', none='لا توجد نتائج. جرّب كلمة أخرى أو راسلنا.', hint='مثال: زيتون، مرآة، OG-2', close='إغلاق', n='نتيجة'),
+}
+SEARCH_ICO = '<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>'
+
 SOCIAL_SVG = {
  'Instagram': '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="17.3" cy="6.7" r="1.2" fill="currentColor"/></svg>',
  'Facebook': '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.5 21v-7.5h2.5l.4-3h-2.9V8.6c0-.9.3-1.5 1.5-1.5h1.5V4.4c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2.4H8v3h2.6V21z"/></svg>',
@@ -141,13 +150,19 @@ TPL['base'] = r'''<!doctype html>
 <li><a href="{{ r(p_catalog) }}"{% if active=='catalog' %} aria-current="page"{% endif %}>{{ t.nav_catalog }}</a></li>
 <li><a href="{{ r(p_contact) }}"{% if active=='contact' %} aria-current="page"{% endif %}>{{ t.nav_contact }}</a></li>
 </ul></nav>
+<button type="button" class="srch-btn" data-srch-open aria-label="{{ st.open }}" title="{{ st.open }} (Ctrl+K)" aria-haspopup="dialog">{{ srch_ico|safe }}<span>{{ st.open }}</span></button>
 <details class="langsel"><summary aria-label="{{ t.lang_l }}"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9.2"/><path d="M2.8 12h18.4M12 2.8c2.6 2.6 3.9 5.6 3.9 9.2s-1.3 6.6-3.9 9.2M12 2.8C9.4 5.4 8.1 8.4 8.1 12s1.3 6.6 3.9 9.2"/></svg>{{ L|upper }}</summary>
 <div class="menu">{% for l2, href in langlinks %}<a href="{{ href }}" hreflang="{{ l2 }}" lang="{{ l2 }}"{% if l2==L %} aria-current="true"{% endif %}>{{ langnames[l2] }}</a>{% endfor %}</div></details>
 <a class="btn btn-p btn-sm" href="{{ wa_general }}" target="_blank" rel="noopener">{{ t.nav_quote }}</a>
 </div></header>
+<div class="srch" id="srch" role="dialog" aria-modal="true" aria-label="{{ st.open }}" hidden data-idx="{{ r('/' ~ L ~ '/search.json') }}?v={{ idx_v }}" data-root="{{ r('/') }}" data-none="{{ st.none }}" data-n="{{ st.n }}">
+<div class="srch-bg" data-srch-close></div>
+<div class="srch-box"><div class="srch-f">{{ srch_ico|safe }}<input id="srch-q" type="search" placeholder="{{ st.ph }}" autocomplete="off" spellcheck="false" aria-controls="srch-res" enterkeyhint="search"><button type="button" class="srch-x" data-srch-close aria-label="{{ st.close }}">Esc</button></div>
+<div class="srch-hint">{{ st.hint }}</div><ul class="srch-res" id="srch-res" role="listbox"></ul></div></div>
 <main id="main">
 {% block main %}{% endblock %}
 </main>
+<script src="{{ r('/static/search.js') }}?v={{ js_v }}" defer></script>
 <footer><div class="wrap">
 <div class="fgrid">
 <div><a class="logo" href="{{ r(home) }}">{{ logo|safe }}<span>Reyon<b>fix</b></span></a><p style="margin-top:12px;max-width:320px">{{ t.footer_about }}</p></div>
@@ -365,6 +380,9 @@ env = Environment(loader=DictLoader(TPL), autoescape=select_autoescape(['html'])
 import hashlib
 CSS_V = hashlib.md5(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'style.css'), 'rb').read()).hexdigest()[:8]
 env.globals['css_v'] = CSS_V
+env.globals['js_v'] = hashlib.md5(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'search.js'), 'rb').read()).hexdigest()[:8]
+env.globals['srch_ico'] = SEARCH_ICO
+env.globals['idx_v'] = '0'
 
 def wa(text):
     return f"https://wa.me/{CONTACT['wa']}?text={quote(text)}"
@@ -450,6 +468,12 @@ def build():
         t = T[L]
         LP = in_lang(L)
         lcats = [c for c in cats if any(p['key'] == c['key'] for p in LP)]
+        idx = [[p['names'][L], p['code'] or '', CAT[p['key']]['names'][L], path_prod(L, p), '/img/' + p['imgs'][0]['t'], p['descs'][L]] for p in LP]
+        idx_json = json.dumps(idx, ensure_ascii=False, separators=(',', ':'))
+        os.makedirs(DIST + '/' + L, exist_ok=True)
+        open(DIST + '/' + L + '/search.json', 'w').write(idx_json)
+        env.globals['idx_v'] = hashlib.md5(idx_json.encode()).hexdigest()[:8]
+        env.globals['st'] = SEARCH_T[L]
         # ana sayfa
         cur = path_home(L)
         alts = {l2: path_home(l2) for l2 in LANGS}
