@@ -10,6 +10,7 @@ import imgproc
 from wall_i18n import S as ST, WALL_CARDS, PASTEL, X as XT, NEW_IDS, SHELVES, ICONS as ICOSVG
 from i18n import T, LANG_NAMES, LOCALE, CATALOG_URL, CONTACT
 from yorum import section as review_section
+from asistan import markup as ai_markup
 
 PREVIEW = '--preview' in sys.argv
 BASE = 'https://reyonfix.com'
@@ -174,6 +175,7 @@ TPL['base'] = r'''<!doctype html>
 </div></footer>
 <a class="wa" href="{{ wa_link or wa_general }}" target="_blank" rel="noopener" aria-label="WhatsApp">{{ chat|safe }}</a>
 <script>document.addEventListener('click',function(e){var b=e.target.closest('.st-pad');if(!b)return;var r=b.parentNode.previousElementSibling,rtl=getComputedStyle(r).direction=='rtl';r.scrollBy({left:(+b.dataset.d)*(rtl?-1:1)*r.clientWidth*.8,behavior:'smooth'})});</script><script>document.querySelectorAll('.st-icons').forEach(function(n){var c=n.querySelector('a.cur');if(c){n.scrollLeft+=c.getBoundingClientRect().left-n.getBoundingClientRect().left-(n.clientWidth-c.offsetWidth)/2}});document.addEventListener('click',function(e){var a=e.target.closest('.st-icons a');if(a&&!a.classList.contains('cur'))a.classList.add('go')});window.addEventListener('pageshow',function(){document.querySelectorAll('.st-icons a.go').forEach(function(a){a.classList.remove('go')})});</script><script>(function(){if(location.hash!=='#modeller')return;var h=document.getElementById('modeller');if(!h)return;if('scrollRestoration' in history)history.scrollRestoration='manual';var d=document.documentElement;function go(){var o=(document.querySelector('.nav')||{}).offsetHeight||60;d.style.scrollBehavior='auto';window.scrollTo(0,h.getBoundingClientRect().top+window.pageYOffset-o-12);d.style.scrollBehavior=''}go();requestAnimationFrame(go);window.addEventListener('load',go);setTimeout(go,250);setTimeout(go,700);var u=function(){window.removeEventListener('touchstart',u);window.removeEventListener('wheel',u);go=function(){}};window.addEventListener('touchstart',u,{passive:true});window.addEventListener('wheel',u,{passive:true})})();</script>
+{{ ai_html|safe }}<script src="{{ r('/static/assistant.js') }}?v={{ ai_v }}" defer></script>
 {% block js %}{% endblock %}
 </body></html>'''
 
@@ -380,6 +382,7 @@ env = Environment(loader=DictLoader(TPL), autoescape=select_autoescape(['html'])
 import hashlib
 CSS_V = hashlib.md5(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'style.css'), 'rb').read()).hexdigest()[:8]
 env.globals['css_v'] = CSS_V
+env.globals['ai_v'] = hashlib.md5(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'assistant.js'), 'rb').read()).hexdigest()[:8]
 env.globals['rv_v'] = hashlib.md5(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'reviews.js'), 'rb').read()).hexdigest()[:8]
 env.globals['js_v'] = hashlib.md5(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'search.js'), 'rb').read()).hexdigest()[:8]
 env.globals['srch_ico'] = SEARCH_ICO
@@ -422,6 +425,7 @@ def navicons(L):
                    for c in cats if any(p['key'] == c['key'] for p in in_lang(L))]
     return _NAV[L]
 
+AI_HTML = {L: ai_markup(L, CONTACT) for L in LANGS}
 def page_ctx(L, cur, alts_paths, title, desc, active=None, ogimg=None, ogtype='website', jsonld=None, wa_link=None):
     t = T[L]
     r = lambda target: rel(target, cur)
@@ -435,7 +439,7 @@ def page_ctx(L, cur, alts_paths, title, desc, active=None, ogimg=None, ogtype='w
                 noindex=NOINDEX, active=active, logo=LOGO, chat=CHAT, home=path_home(L), p_products=path_products(L),
                 p_about=path_page(L, 'about'), p_contact=path_page(L, 'contact'), p_catalog=path_page(L, 'catalog'),
                 wa_general=wa(t['wa_general']), wa_link=wa_link, fcats=fcats,
-                x=XT[L], s=ST[L], icons_svg=ICOSVG, catnav=navicons(L), social_svg=SOCIAL_SVG)
+                x=XT[L], s=ST[L], icons_svg=ICOSVG, catnav=navicons(L), social_svg=SOCIAL_SVG, ai_html=AI_HTML[L])
 
 def write(path, htmltext):
     fp = DIST + path + ('index.html' if path.endswith('/') else '')
