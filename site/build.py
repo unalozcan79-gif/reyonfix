@@ -9,6 +9,7 @@ from content import build_products, build_categories, LANGS, settings, ROOT
 import imgproc
 from wall_i18n import S as ST, WALL_CARDS, PASTEL, X as XT, NEW_IDS, SHELVES, ICONS as ICOSVG
 from i18n import T, LANG_NAMES, LOCALE, CATALOG_URL, CONTACT
+from yorum import section as review_section
 
 PREVIEW = '--preview' in sys.argv
 BASE = 'https://reyonfix.com'
@@ -312,6 +313,7 @@ TPL['product'] = r'''{% extends "base" %}{% block main %}
 <div class="pd-about"><h2 class="st-h2"><em>{{ x.about_h }}</em></h2>{% for para in p.details %}<p>{{ para }}</p>{% endfor %}</div>
 {% if p.uses %}<div class="pd-uses"><h3>{{ x.uses_h }}</h3><ul>{% for u in p.uses %}<li>{{ u }}</li>{% endfor %}</ul></div>{% endif %}
 </section>{% endif %}
+{{ reviews_html|safe }}
 {% if related %}<section class="st-sec">
 <h2 class="wrap st-h2 st-hl"><em>{{ t.related_h }}.</em> <a href="{{ r(cat.path) }}">{{ t.see_all }} ›</a></h2>
 <div class="st-row">{% for q in related %}{{ stcard(q) }}{% endfor %}</div>{{ pads() }}
@@ -320,7 +322,7 @@ TPL['product'] = r'''{% extends "base" %}{% block main %}
 </div>
 {{ ctabox() }}
 {% endblock %}
-{% block js %}<script>(function(){var m=document.getElementById('gmain'),b=document.querySelectorAll('.thumbs button');b.forEach(function(x){x.addEventListener('click',function(){m.src=x.dataset.src;b.forEach(function(y){y.setAttribute('aria-current','false')});x.setAttribute('aria-current','true')})})})();</script>{% endblock %}'''
+{% block js %}<script src="{{ r('/static/reviews.js') }}?v={{ rv_v }}" defer></script><script>(function(){var m=document.getElementById('gmain'),b=document.querySelectorAll('.thumbs button');b.forEach(function(x){x.addEventListener('click',function(){m.src=x.dataset.src;b.forEach(function(y){y.setAttribute('aria-current','false')});x.setAttribute('aria-current','true')})})})();</script>{% endblock %}'''
 
 TPL['about'] = r'''{% extends "base" %}{% block main %}
 <div class="wrap">
@@ -378,6 +380,7 @@ env = Environment(loader=DictLoader(TPL), autoescape=select_autoescape(['html'])
 import hashlib
 CSS_V = hashlib.md5(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'style.css'), 'rb').read()).hexdigest()[:8]
 env.globals['css_v'] = CSS_V
+env.globals['rv_v'] = hashlib.md5(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'reviews.js'), 'rb').read()).hexdigest()[:8]
 env.globals['js_v'] = hashlib.md5(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'search.js'), 'rb').read()).hexdigest()[:8]
 env.globals['srch_ico'] = SEARCH_ICO
 env.globals['idx_v'] = '0'
@@ -563,7 +566,7 @@ def build():
             if pv['details']:
                 prod_ld['description'] = pv['details'][0]
             jl[0] = prod_ld
-            ctx.update(p=pv, cat=dict(name=cname, path=path_cat(L, c)), related=rel_items)
+            ctx.update(p=pv, cat=dict(name=cname, path=path_cat(L, c)), related=rel_items, reviews_html=review_section(L, str(p['id']), name))
             write(cur, env.get_template('product').render(**ctx)); sitemap.append((cur, alts))
 
         # hakkımızda, iletişim, katalog
@@ -605,6 +608,8 @@ def build():
             shutil.copytree(ROOT + '/katalog', DIST + '/katalog')
         if os.path.isdir(ROOT + '/admin'):
             shutil.copytree(ROOT + '/admin', DIST + '/admin')
+        if os.path.isdir(ROOT + '/yonetim'):
+            shutil.copytree(ROOT + '/yonetim', DIST + '/yonetim')
     write_redirects()
     print('pages:', len(sitemap))
 
@@ -626,7 +631,7 @@ def write_root(sitemap):
         xs.append(f'<url><loc>{absu(path)}</loc>' + ''.join(f'<xhtml:link rel="alternate" hreflang="{l2}" href="{absu(a)}"/>' for l2, a in alts.items()) + '</url>')
     xs.append('</urlset>')
     open(DIST + '/sitemap.xml', 'w').write('\n'.join(xs))
-    rb = 'User-agent: *\n' + ('Disallow: /\n' if NOINDEX else 'Allow: /\n') + f'\nSitemap: {BASE}/sitemap.xml\n'
+    rb = 'User-agent: *\n' + ('Disallow: /\n' if NOINDEX else 'Allow: /\nDisallow: /yonetim/\nDisallow: /api/\n') + f'\nSitemap: {BASE}/sitemap.xml\n'
     open(DIST + '/robots.txt', 'w').write(rb)
     open(DIST + '/_headers', 'w').write('/img/*\n  Cache-Control: public, max-age=31536000, immutable\n/static/*\n  Cache-Control: public, max-age=604800\n/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n')
 

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Yorum yönetimi · Reyonfix</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<style>
+:root{--acc:#ee6510;--ink:#1d1d1f;--mut:#6e6e73;--line:#e3e3e8}
+*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;font-family:Inter,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:#f5f5f7;color:var(--ink)}
+header{background:#fff;border-bottom:1px solid var(--line);padding:14px 20px;display:flex;align-items:center;gap:12px;position:sticky;top:0}
+header img{height:30px}header h1{font-size:17px;margin:0 0 0 auto;font-weight:600;color:var(--mut)}
+main{max-width:900px;margin:0 auto;padding:20px}
+.login{background:#fff;border-radius:18px;padding:24px;display:grid;gap:12px;max-width:420px;margin:40px auto}
+input,button{font:inherit;font-size:16px}input{border:1px solid #d2d2d7;border-radius:12px;padding:11px 12px}
+button{border:0;border-radius:999px;padding:9px 18px;cursor:pointer;font-weight:600}
+.p{background:var(--acc);color:#fff}.g{background:#e8f5ec;color:#1d7d3a}.r{background:#fdecea;color:#b3261e}.n{background:#eee;color:#333}
+h2{font-size:20px;margin:26px 0 12px}h2 span{color:var(--mut);font-weight:500}
+.it{background:#fff;border-radius:16px;padding:16px 18px;margin-bottom:12px;border:1px solid var(--line)}
+.it .h{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:baseline}.st{color:var(--acc);letter-spacing:1px}
+.it .m{color:var(--mut);font-size:13px}.it p{margin:8px 0 12px;white-space:pre-wrap}
+.it .b{display:flex;gap:8px;flex-wrap:wrap}.empty{color:var(--mut);background:#fff;border-radius:16px;padding:18px}
+.err{color:#b3261e;font-weight:600}
+</style></head><body>
+<header><b style="font-size:19px">Reyon<span style="color:var(--acc)">fix</span></b><h1>Yorum yönetimi</h1></header>
+<main id="app">
+<form class="login" id="login"><b>Yönetici anahtarı</b><input type="password" id="key" autocomplete="current-password" placeholder="Cloudflare'de belirlediğiniz ADMIN_KEY">
+<button class="p">Giriş</button><p class="err" id="lerr"></p></form>
+<div id="panel" hidden>
+<div style="display:flex;gap:8px;justify-content:flex-end;margin-top:8px"><button class="n" id="reload">Yenile</button><button class="n" id="out">Çıkış</button></div>
+<h2>Onay bekleyen <span id="pc"></span></h2><div id="pending"></div>
+<h2>Yayındaki yorumlar <span id="ac"></span></h2><div id="approved"></div>
+</div></main>
+<script>
+(function(){
+const $=id=>document.getElementById(id);let KEY="";try{KEY=sessionStorage.getItem("mk")||""}catch(e){}
+const esc=s=>String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const st=n=>"★★★★★".slice(0,n)+"☆☆☆☆☆".slice(n);
+const api=(m,b)=>fetch("/api/admin",{method:m,headers:{"x-admin-key":KEY,"content-type":"application/json"},body:b?JSON.stringify(b):undefined}).then(r=>r.json().then(j=>[r.status,j]));
+const ERR={401:"Anahtar hatalı.",503:"Kurulum eksik: Cloudflare'de REVIEWS (KV) bağlaması veya ADMIN_KEY tanımlı değil."};
+function card(r,pending){const url=`/${r.lang||"tr"}/`;return `<div class="it"><div class="h"><span class="st">${st(r.rating)}</span><b>${esc(r.name)}</b>${r.org?`<span class="m">${esc(r.org)}</span>`:""}</div>
+<div class="m">${esc(r.pname||r.pid)} · ${esc(r.date)} · ${esc((r.lang||"").toUpperCase())}${r.country?" · "+esc(r.country):""}</div><p>${esc(r.text)}</p><div class="b">${pending?
+`<button class="g" data-a="approve" data-id="${r.id}">Onayla ve yayınla</button><button class="r" data-a="reject" data-id="${r.id}">Sil</button>`:
+`<button class="r" data-a="remove" data-id="${r.id}" data-pid="${r.pid}">Yayından kaldır</button>`}</div></div>`}
+function load(){api("GET").then(([s,j])=>{if(s!==200){$("panel").hidden=true;$("login").hidden=false;$("lerr").textContent=ERR[s]||"Hata.";return}
+$("login").hidden=true;$("panel").hidden=false;try{sessionStorage.setItem("mk",KEY)}catch(e){}
+$("pc").textContent="("+j.pending.length+")";$("ac").textContent="("+j.approved.length+")";
+$("pending").innerHTML=j.pending.map(r=>card(r,1)).join("")||'<p class="empty">Bekleyen yorum yok.</p>';
+$("approved").innerHTML=j.approved.map(r=>card(r,0)).join("")||'<p class="empty">Henüz yayında yorum yok.</p>'})}
+$("login").onsubmit=e=>{e.preventDefault();KEY=$("key").value.trim();load()};
+$("reload").onclick=load;$("out").onclick=()=>{KEY="";try{sessionStorage.removeItem("mk")}catch(e){}location.reload()};
+document.addEventListener("click",e=>{const b=e.target.closest("button[data-a]");if(!b)return;
+if(b.dataset.a!=="approve"&&!b.dataset.sure){b.dataset.sure="1";b.dataset.t=b.textContent;b.textContent="Emin misiniz? Tekrar basın";
+setTimeout(()=>{if(b.isConnected){delete b.dataset.sure;b.textContent=b.dataset.t}},4000);return}b.disabled=true;b.textContent="İşleniyor…";
+api("POST",{action:b.dataset.a,id:b.dataset.id,pid:b.dataset.pid}).then(load)});
+if(KEY)load();
+})();
+</script></body></html>
