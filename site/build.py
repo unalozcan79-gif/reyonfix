@@ -544,12 +544,13 @@ def build():
             pv['imgs'] = [dict(s='/img/' + im['s'], l='/img/' + im['l'], r=im['r']) for im in p['imgs']]
             name, cname = pv['name'], c['names'][L]
             msg = (t['wa_msg'] if p['code'] else t['wa_msg_nocode']).format(name=name, code=p['code'])
-            prod_ld = {"@context": "https://schema.org", "@type": "Product", "name": name, "description": pv['desc'],
+            # Fiyat yayımlanmadığı için Product yerine Service (ölçüye özel imalat): Search Console "ürün snippet'i" hatası üretmez
+            prod_ld = {"@context": "https://schema.org", "@type": "Service", "serviceType": cname, "name": name, "description": pv['desc'],
                        "image": [absu(im['l']) for im in pv['imgs']], "category": cname, "url": absu(cur), "inLanguage": L,
-                       "brand": {"@type": "Brand", "name": "Reyonfix"}, "manufacturer": {"@id": BASE + "/#org"},
-                       "countryOfOrigin": "TR", "additionalProperty": [{"@type": "PropertyValue", "name": "Made to measure", "value": "true"}]}
+                       "brand": {"@type": "Brand", "name": "Reyonfix"}, "provider": {"@id": BASE + "/#org"},
+                       "areaServed": ["TR", "EU", "Middle East"], "additionalProperty": [{"@type": "PropertyValue", "name": "Made to measure", "value": "true"}]}
             if p['code']:
-                prod_ld['sku'] = p['code']; prod_ld['mpn'] = p['code']
+                prod_ld['identifier'] = p['code']
             jl = [prod_ld, crumbs_ld([(t['home'], path_home(L)), (t['nav_products'], path_products(L)), (cname, path_cat(L, c)), (name, cur)])]
             rel_items = [pview(L, q) for q in LP if q['key'] == p['key'] and q['id'] != p['id']][:12]
             for it in rel_items: it['img'] = dict(s='/img/' + it['img']['s'])
