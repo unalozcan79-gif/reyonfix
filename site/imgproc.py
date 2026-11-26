@@ -1,5 +1,5 @@
 # Görselleri 700 ve 1400 px WebP'ye çevirir (önbellek: .imgcache/)
-import os, shutil
+import os, shutil, hashlib
 from multiprocessing import Pool
 from PIL import Image, ImageOps
 
@@ -10,7 +10,9 @@ SIZES = [(1400, 74), (700, 74), (360, 72)]
 def _stem(src):
     rel = os.path.relpath(src, ROOT)
     base = os.path.splitext(os.path.basename(src))[0]
-    return base if rel.startswith('media/products/') else 'u-' + base
+    # içerik özeti adın sonunda: fotoğraf değişince adres de değişir (/img/* bir yıl önbelleklenir)
+    h = hashlib.md5(open(src, 'rb').read()).hexdigest()[:6]
+    return (base if rel.startswith('media/products/') else 'u-' + base) + '-' + h
 
 def _job(src):
     stem = _stem(src)
