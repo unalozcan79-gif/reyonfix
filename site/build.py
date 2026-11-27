@@ -11,6 +11,9 @@ from wall_i18n import S as ST, WALL_CARDS, PASTEL, X as XT, NEW_IDS, SHELVES, IC
 from i18n import T, LANG_NAMES, LOCALE, CATALOG_URL, CONTACT
 from yorum import section as review_section
 from asistan import markup as ai_markup
+VIDEOS = json.load(open(os.path.join(ROOT, 'content', 'videos.json'), encoding='utf-8'))
+VID_H = {'tr': ('Ürün videosu', 'Videoyu oynat'), 'en': ('Product video', 'Play video'), 'de': ('Produktvideo', 'Video abspielen'),
+         'fr': ('Vidéo du produit', 'Lire la vidéo'), 'ar': ('فيديو المنتج', 'تشغيل الفيديو')}
 
 PREVIEW = '--preview' in sys.argv
 BASE = 'https://reyonfix.com'
@@ -315,6 +318,7 @@ TPL['product'] = r'''{% extends "base" %}{% block main %}
 <div class="pd-about"><h2 class="st-h2"><em>{{ x.about_h }}</em></h2>{% for para in p.details %}<p>{{ para }}</p>{% endfor %}</div>
 {% if p.uses %}<div class="pd-uses"><h3>{{ x.uses_h }}</h3><ul>{% for u in p.uses %}<li>{{ u }}</li>{% endfor %}</ul></div>{% endif %}
 </section>{% endif %}
+{% if p.videos %}<section class="wrap pd-vids"><h2 class="st-h2"><em>{{ vid_h }}</em></h2><div class="pd-vgrid">{% for v in p.videos %}<figure class="pd-vid"><button type="button" class="yt" data-id="{{ v.id }}" aria-label="{{ vid_play }}: {{ v.title }}"><img src="https://i.ytimg.com/vi/{{ v.id }}/hqdefault.jpg" alt="{{ v.title }}" loading="lazy" width="480" height="360"><span class="yt-play" aria-hidden="true"></span></button><figcaption>{{ v.title }}</figcaption></figure>{% endfor %}</div></section>{% endif %}
 {{ reviews_html|safe }}
 {% if related %}<section class="st-sec">
 <h2 class="wrap st-h2 st-hl"><em>{{ t.related_h }}.</em> <a href="{{ r(cat.path) }}">{{ t.see_all }} ›</a></h2>
@@ -324,7 +328,7 @@ TPL['product'] = r'''{% extends "base" %}{% block main %}
 </div>
 {{ ctabox() }}
 {% endblock %}
-{% block js %}<script src="{{ r('/static/reviews.js') }}?v={{ rv_v }}" defer></script><script>(function(){var m=document.getElementById('gmain'),b=document.querySelectorAll('.thumbs button');b.forEach(function(x){x.addEventListener('click',function(){m.src=x.dataset.src;b.forEach(function(y){y.setAttribute('aria-current','false')});x.setAttribute('aria-current','true')})})})();</script>{% endblock %}'''
+{% block js %}<script src="{{ r('/static/reviews.js') }}?v={{ rv_v }}" defer></script><script>(function(){var m=document.getElementById('gmain'),b=document.querySelectorAll('.thumbs button');b.forEach(function(x){x.addEventListener('click',function(){m.src=x.dataset.src;b.forEach(function(y){y.setAttribute('aria-current','false')});x.setAttribute('aria-current','true')})})})();document.querySelectorAll('.yt').forEach(function(y){y.addEventListener('click',function(){var f=document.createElement('iframe');f.src='https://www.youtube-nocookie.com/embed/'+y.dataset.id+'?autoplay=1&rel=0';f.title=y.getAttribute('aria-label');f.allow='autoplay; encrypted-media; picture-in-picture';f.allowFullscreen=true;y.replaceWith(f)})});</script>{% endblock %}'''
 
 TPL['about'] = r'''{% extends "base" %}{% block main %}
 <div class="wrap">
@@ -569,7 +573,14 @@ def build():
             pv['uses'] = p['uses'].get(L) or []
             if pv['details']:
                 prod_ld['description'] = pv['details'][0]
+            pv['videos'] = [dict(id=v, **VIDEOS[v]) for v in p.get('videos', []) if v in VIDEOS]
+            for v in pv['videos']:
+                jl.append({"@context": "https://schema.org", "@type": "VideoObject", "name": v['title'], "description": f"{v['title']} – {name}",
+                           "thumbnailUrl": [f"https://i.ytimg.com/vi/{v['id']}/hqdefault.jpg"], "uploadDate": v['date'], "duration": v['dur'],
+                           "embedUrl": f"https://www.youtube.com/embed/{v['id']}", "contentUrl": f"https://www.youtube.com/watch?v={v['id']}",
+                           "publisher": {"@id": BASE + "/#org"}})
             jl[0] = prod_ld
+            ctx.update(vid_h=VID_H[L][0], vid_play=VID_H[L][1], jsonld=[ld(j) for j in jl])
             ctx.update(p=pv, cat=dict(name=cname, path=path_cat(L, c)), related=rel_items, reviews_html=review_section(L, str(p['id']), name))
             write(cur, env.get_template('product').render(**ctx)); sitemap.append((cur, alts))
 

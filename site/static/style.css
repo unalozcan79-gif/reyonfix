@@ -602,3 +602,11 @@ section.ai{padding:0}
 body.ai-open .wa,body.ai-open .ai-fab{display:none}
 @media (max-width:760px){.ai-fab span{display:none}.ai-fab{padding:14px}}
 [dir=rtl] .ai-fab{right:auto;left:22px}[dir=rtl] .ai{right:auto;left:22px}
+
+.pd-vids{margin-top:clamp(40px,5vw,64px)}
+.pd-vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px;margin-top:18px}
+.pd-vid{margin:0}.pd-vid figcaption{font-size:15px;color:#6e6e73;margin-top:8px;line-height:1.35}
+.pd-vid .yt,.pd-vid iframe{position:relative;display:block;width:100%;aspect-ratio:16/9;border:0;border-radius:16px;overflow:hidden;background:#000;padding:0;cursor:pointer}
+.pd-vid .yt img{width:100%;height:100%;object-fit:cover;opacity:.92;transition:opacity .2s}.pd-vid .yt:hover img{opacity:1}
+.yt-play{position:absolute;left:50%;top:50%;width:68px;height:48px;margin:-24px 0 0 -34px;border-radius:12px;background:#ff0000;box-shadow:0 4px 14px rgba(0,0,0,.3)}
+.yt-play::after{content:"";position:absolute;left:27px;top:14px;border-style:solid;border-width:10px 0 10px 17px;border-color:transparent transparent transparent #fff}

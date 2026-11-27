@@ -69,7 +69,8 @@ def build_products():
         prods.append(dict(id=pid, key=d.get('category', ''), code=(d.get('code') or '').strip(), names=names, descs=descs,
                           slugs=slugs, srcs=srcs, old_url=d.get('old_url', ''), order=d.get('order', 500),
                           tags=d.get('vitrin') or [],
-                          details=d.get('details') or {}, features=d.get('features') or {}, uses=d.get('uses') or {}))
+                          details=d.get('details') or {}, features=d.get('features') or {}, uses=d.get('uses') or {},
+                          videos=[v for v in (d.get('videos') or []) if isinstance(v, str)]))
     prods.sort(key=lambda p: (p['order'], p['id']))
     # aynı kategoride aynı adres olmasın
     for L in LANGS:
