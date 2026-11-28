@@ -283,7 +283,7 @@ CONTACT = dict(
     company='Huzur Pano', brand='Reyonfix',
     street='Eyüp Sultan Mah., İmam Hatip Cd. No:22/A', city='Sancaktepe', region='İstanbul', postal='34885', country='TR',
     phone1='+90 216 499 53 01', phone2='+90 216 499 53 02', mobile='+90 535 363 96 79', wa='905353639679',
-    email='fabrika@huzurpano.com.tr',
+    email='satis@huzurpano.com.tr',
     social=[('Instagram', 'https://www.instagram.com/reyonfix.tr/'), ('Facebook', 'https://www.facebook.com/reyonfix.tr'), ('YouTube', 'https://www.youtube.com/@reyonfix'), ('LinkedIn', 'https://www.linkedin.com/company/reyonfix'), ('X', 'https://x.com/Reyonfix')],
     social_old=[('Instagram', 'https://www.instagram.com/markettezgahi/'), ('Facebook', 'https://www.facebook.com/MarketTezgahi'), ('YouTube', 'https://www.youtube.com/@manav_reyonu'), ('LinkedIn', 'https://www.linkedin.com/company/markettezgahi'), ('X', 'https://twitter.com/manavtezgahi')],
     maps='https://www.google.com/maps/search/?api=1&query=Huzur+Pano&query_place_id=ChIJv4ZoC-fPyhQRaL0a7jij86s',

@@ -66,7 +66,7 @@ def strip_page(pdf, page, cache):
     norm = [re.sub(r'\s+', '', b[2]).upper() for b in blocks]
     kill = set()
     for j, t in enumerate(norm):
-        if t in ('MANAVREYONU', 'WWW.MANAVREYONU.COM.TR'):
+        if t in ('MANAVREYONU', 'WWW.MANAVREYONU.COM.TR', 'FABRIKA@HUZURPANO.COM.TR'):
             kill.add(j)
         elif t == 'REYONU' and j > 0 and norm[j - 1] == 'MANAV':
             kill.update((j - 1, j))
@@ -154,6 +154,18 @@ def build_overlay(path, lang):
             tracked(cv, x, base, txt, 'IR', size, cs)
             cv.linkURL('https://reyonfix.com', (x, base - 2, x + nw, base + size), relative=0)
             stats['foot'] += 1
+        # e-posta: fabrika@ -> satis@
+        for m in p.search(r'fabrika@huzurpano\.com\.tr', regex=True, case=True):
+            ch = m['chars']
+            size = ch[0]['size']
+            txt = 'satis@huzurpano.com.tr'
+            nw = width(txt, 'IR', size, 0)
+            x = m['x0'] if lang != 'ar' else m['x1'] - nw
+            base = H - m['bottom'] + size * 0.06
+            cv.setFillColorRGB(*rgb(ch[0]['non_stroking_color']))
+            tracked(cv, x, base, txt, 'IR', size, 0)
+            cv.linkURL('mailto:satis@huzurpano.com.tr', (x, base - 2, x + nw, base + size), relative=0)
+            stats['mail'] = stats.get('mail', 0) + 1
         # arka kapak: web adresi
         seen = []
         for m in p.search(PAT_WEB, regex=True, case=True):
@@ -165,7 +177,7 @@ def build_overlay(path, lang):
             txt = 'www.reyonfix.com'
             nw = width(txt, 'IR', size, 0)
             x = m['x0'] if lang != 'ar' else m['x1'] - nw
-            base = H - m['bottom'] + size * 0.2
+            base = H - m['bottom'] + size * 0.06
             cv.setFillColorRGB(*rgb(ch[0]['non_stroking_color']))
             tracked(cv, x, base, txt, 'IR', size, 0)
             cv.linkURL('https://reyonfix.com', (x, base - 2, x + nw, base + size), relative=0)
