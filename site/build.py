@@ -12,6 +12,7 @@ from i18n import T, LANG_NAMES, LOCALE, CATALOG_URL, CONTACT
 from yorum import section as review_section
 from asistan import markup as ai_markup
 VIDEOS = json.load(open(os.path.join(ROOT, 'content', 'videos.json'), encoding='utf-8'))
+OLD_H = {'tr': 'Diğer hesaplarımız', 'en': 'Our other accounts', 'de': 'Weitere Konten', 'fr': 'Nos autres comptes', 'ar': 'حساباتنا الأخرى'}
 VID_H = {'tr': ('Ürün videosu', 'Videoyu oynat'), 'en': ('Product video', 'Play video'), 'de': ('Produktvideo', 'Video abspielen'),
          'fr': ('Vidéo du produit', 'Lire la vidéo'), 'ar': ('فيديو المنتج', 'تشغيل الفيديو')}
 
@@ -172,7 +173,7 @@ TPL['base'] = r'''<!doctype html>
 <div><h2>{{ t.nav_products }}</h2><ul>{% for c in fcats %}<li><a href="{{ r(c.path) }}">{{ c.name }}</a></li>{% endfor %}</ul></div>
 <div><h2>Reyonfix</h2><ul><li><a href="{{ r(p_products) }}">{{ t.all_products }}</a></li><li><a href="{{ r(p_about) }}">{{ t.nav_about }}</a></li><li><a href="{{ r(p_catalog) }}">{{ t.nav_catalog }}</a></li><li><a href="{{ r(p_contact) }}">{{ t.nav_contact }}</a></li></ul></div>
 <div><h2>{{ t.nav_contact }}</h2><ul><li>{{ c.street }}, {{ c.postal }} {{ c.city }} / {{ c.region }}</li><li><a class="ltr" href="tel:{{ c.phone1|replace(' ','') }}">{{ c.phone1 }}</a></li><li><a class="ltr" href="{{ wa_general }}" target="_blank" rel="noopener">{{ c.mobile }}</a></li><li><a href="mailto:{{ c.email }}">{{ c.email }}</a></li></ul>
-<div class="social">{% for n, u in c.social %}<a class="s-{{ n|lower }}" href="{{ u }}" target="_blank" rel="noopener me" aria-label="{{ n }}" title="{{ n }}">{{ social_svg[n]|safe }}</a>{% endfor %}<a class="s-whatsapp" href="{{ wa_general }}" target="_blank" rel="noopener" aria-label="WhatsApp" title="WhatsApp">{{ social_svg['WhatsApp']|safe }}</a></div></div>
+<div class="social">{% for n, u in c.social %}<a class="s-{{ n|lower }}" href="{{ u }}" target="_blank" rel="noopener me" aria-label="{{ n }}" title="{{ n }}">{{ social_svg[n]|safe }}</a>{% endfor %}<a class="s-whatsapp" href="{{ wa_general }}" target="_blank" rel="noopener" aria-label="WhatsApp" title="WhatsApp">{{ social_svg['WhatsApp']|safe }}</a></div><p class="social-old">{{ old_h }}: {% for n, u in c.social_old %}<a href="{{ u }}" target="_blank" rel="noopener">{{ n }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p></div>
 </div>
 <div class="bottom"><span>© 2026 Reyonfix · Huzur Pano. {{ t.rights }}</span><span class="langs">{% for l2, href in langlinks %}<a href="{{ href }}" hreflang="{{ l2 }}" lang="{{ l2 }}">{{ langnames[l2] }}</a>{% endfor %}</span></div>
 </div></footer>
@@ -405,7 +406,7 @@ ORG = {"@type": ["Organization", "LocalBusiness"], "@id": BASE + "/#org", "name"
                    "addressRegion": CONTACT['region'], "postalCode": CONTACT['postal'], "addressCountry": "TR"},
        "contactPoint": [{"@type": "ContactPoint", "telephone": CONTACT['mobile'], "contactType": "sales",
                          "availableLanguage": ["tr", "en", "de", "fr", "ar"]}],
-       "sameAs": ["https://manavreyonu.com.tr/"] + [u for _, u in CONTACT["social"]],
+       "sameAs": ["https://manavreyonu.com.tr/"] + [u for _, u in CONTACT["social"] + CONTACT["social_old"]],
        "geo": {"@type": "GeoCoordinates", "latitude": CONTACT["geo"][0], "longitude": CONTACT["geo"][1]}, "hasMap": CONTACT["maps"]}
 
 def caticon(c):
@@ -443,7 +444,7 @@ def page_ctx(L, cur, alts_paths, title, desc, active=None, ogimg=None, ogtype='w
                 noindex=NOINDEX, active=active, logo=LOGO, chat=CHAT, home=path_home(L), p_products=path_products(L),
                 p_about=path_page(L, 'about'), p_contact=path_page(L, 'contact'), p_catalog=path_page(L, 'catalog'),
                 wa_general=wa(t['wa_general']), wa_link=wa_link, fcats=fcats,
-                x=XT[L], s=ST[L], icons_svg=ICOSVG, catnav=navicons(L), social_svg=SOCIAL_SVG, ai_html=AI_HTML[L])
+                x=XT[L], s=ST[L], icons_svg=ICOSVG, catnav=navicons(L), social_svg=SOCIAL_SVG, old_h=OLD_H[L], ai_html=AI_HTML[L])
 
 def write(path, htmltext):
     fp = DIST + path + ('index.html' if path.endswith('/') else '')
